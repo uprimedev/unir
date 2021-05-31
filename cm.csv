@@ -1,0 +1,3581 @@
+municipio_codigo;municipio_nombre;sexo;lugar_nacimiento;poblacion_empadronada
+001;Acebeda (La);Hombre;Africa;0
+001;Acebeda (La);Hombre;America del Central y del Caribe;0
+001;Acebeda (La);Hombre;America del Norte;0
+001;Acebeda (La);Hombre;America del Sur;1
+001;Acebeda (La);Hombre;ApAtridas;0
+001;Acebeda (La);Hombre;Asia;0
+001;Acebeda (La);Hombre;Oceania;0
+001;Acebeda (La);Hombre;Otros paises de America;0
+001;Acebeda (La);Hombre;Resto de Europa;0
+001;Acebeda (La);Hombre;Union Europea ;36
+001;Acebeda (La);Mujer;Africa;0
+001;Acebeda (La);Mujer;America del Central y del Caribe;0
+001;Acebeda (La);Mujer;America del Norte;0
+001;Acebeda (La);Mujer;America del Sur;0
+001;Acebeda (La);Mujer;ApAtridas;0
+001;Acebeda (La);Mujer;Asia;0
+001;Acebeda (La);Mujer;Oceania;0
+001;Acebeda (La);Mujer;Otros paises de America;0
+001;Acebeda (La);Mujer;Resto de Europa;0
+001;Acebeda (La);Mujer;Union Europea ;29
+002;Ajalvir;Hombre;Africa;41
+002;Ajalvir;Hombre;America del Central y del Caribe;37
+002;Ajalvir;Hombre;America del Norte;16
+002;Ajalvir;Hombre;America del Sur;102
+002;Ajalvir;Hombre;ApAtridas;0
+002;Ajalvir;Hombre;Asia;6
+002;Ajalvir;Hombre;Oceania;1
+002;Ajalvir;Hombre;Otros paises de America;0
+002;Ajalvir;Hombre;Resto de Europa;7
+002;Ajalvir;Hombre;Union Europea ;2116
+002;Ajalvir;Mujer;Africa;32
+002;Ajalvir;Mujer;America del Central y del Caribe;44
+002;Ajalvir;Mujer;America del Norte;16
+002;Ajalvir;Mujer;America del Sur;92
+002;Ajalvir;Mujer;ApAtridas;0
+002;Ajalvir;Mujer;Asia;10
+002;Ajalvir;Mujer;Oceania;1
+002;Ajalvir;Mujer;Otros paises de America;0
+002;Ajalvir;Mujer;Resto de Europa;14
+002;Ajalvir;Mujer;Union Europea ;1919
+003;Alameda del Valle;Hombre;Africa;0
+003;Alameda del Valle;Hombre;America del Central y del Caribe;0
+003;Alameda del Valle;Hombre;America del Norte;0
+003;Alameda del Valle;Hombre;America del Sur;3
+003;Alameda del Valle;Hombre;ApAtridas;0
+003;Alameda del Valle;Hombre;Asia;0
+003;Alameda del Valle;Hombre;Oceania;0
+003;Alameda del Valle;Hombre;Otros paises de America;0
+003;Alameda del Valle;Hombre;Resto de Europa;0
+003;Alameda del Valle;Hombre;Union Europea ;114
+003;Alameda del Valle;Mujer;Africa;1
+003;Alameda del Valle;Mujer;America del Central y del Caribe;0
+003;Alameda del Valle;Mujer;America del Norte;1
+003;Alameda del Valle;Mujer;America del Sur;2
+003;Alameda del Valle;Mujer;ApAtridas;0
+003;Alameda del Valle;Mujer;Asia;0
+003;Alameda del Valle;Mujer;Oceania;0
+003;Alameda del Valle;Mujer;Otros paises de America;0
+003;Alameda del Valle;Mujer;Resto de Europa;0
+003;Alameda del Valle;Mujer;Union Europea ;78
+004;Alamo (El);Hombre;Africa;279
+004;Alamo (El);Hombre;America del Central y del Caribe;44
+004;Alamo (El);Hombre;America del Norte;3
+004;Alamo (El);Hombre;America del Sur;178
+004;Alamo (El);Hombre;ApAtridas;0
+004;Alamo (El);Hombre;Asia;25
+004;Alamo (El);Hombre;Oceania;1
+004;Alamo (El);Hombre;Otros paises de America;0
+004;Alamo (El);Hombre;Resto de Europa;16
+004;Alamo (El);Hombre;Union Europea ;4005
+004;Alamo (El);Mujer;Africa;198
+004;Alamo (El);Mujer;America del Central y del Caribe;66
+004;Alamo (El);Mujer;America del Norte;7
+004;Alamo (El);Mujer;America del Sur;215
+004;Alamo (El);Mujer;ApAtridas;0
+004;Alamo (El);Mujer;Asia;24
+004;Alamo (El);Mujer;Oceania;0
+004;Alamo (El);Mujer;Otros paises de America;0
+004;Alamo (El);Mujer;Resto de Europa;17
+004;Alamo (El);Mujer;Union Europea ;4069
+005;AlcalA de Henares;Hombre;Africa;2144
+005;AlcalA de Henares;Hombre;America del Central y del Caribe;897
+005;AlcalA de Henares;Hombre;America del Norte;227
+005;AlcalA de Henares;Hombre;America del Sur;3302
+005;AlcalA de Henares;Hombre;ApAtridas;0
+005;AlcalA de Henares;Hombre;Asia;936
+005;AlcalA de Henares;Hombre;Oceania;15
+005;AlcalA de Henares;Hombre;Otros paises de America;0
+005;AlcalA de Henares;Hombre;Resto de Europa;917
+005;AlcalA de Henares;Hombre;Union Europea ;86439
+005;AlcalA de Henares;Mujer;Africa;1614
+005;AlcalA de Henares;Mujer;America del Central y del Caribe;1363
+005;AlcalA de Henares;Mujer;America del Norte;264
+005;AlcalA de Henares;Mujer;America del Sur;3943
+005;AlcalA de Henares;Mujer;ApAtridas;0
+005;AlcalA de Henares;Mujer;Asia;1189
+005;AlcalA de Henares;Mujer;Oceania;9
+005;AlcalA de Henares;Mujer;Otros paises de America;0
+005;AlcalA de Henares;Mujer;Resto de Europa;1121
+005;AlcalA de Henares;Mujer;Union Europea ;89929
+006;Alcobendas;Hombre;Africa;1012
+006;Alcobendas;Hombre;America del Central y del Caribe;1201
+006;Alcobendas;Hombre;America del Norte;379
+006;Alcobendas;Hombre;America del Sur;4525
+006;Alcobendas;Hombre;ApAtridas;0
+006;Alcobendas;Hombre;Asia;888
+006;Alcobendas;Hombre;Oceania;14
+006;Alcobendas;Hombre;Otros paises de America;0
+006;Alcobendas;Hombre;Resto de Europa;442
+006;Alcobendas;Hombre;Union Europea ;46745
+006;Alcobendas;Mujer;Africa;853
+006;Alcobendas;Mujer;America del Central y del Caribe;1961
+006;Alcobendas;Mujer;America del Norte;451
+006;Alcobendas;Mujer;America del Sur;6066
+006;Alcobendas;Mujer;ApAtridas;0
+006;Alcobendas;Mujer;Asia;966
+006;Alcobendas;Mujer;Oceania;12
+006;Alcobendas;Mujer;Otros paises de America;0
+006;Alcobendas;Mujer;Resto de Europa;672
+006;Alcobendas;Mujer;Union Europea ;48677
+007;Alcorcon;Hombre;Africa;2001
+007;Alcorcon;Hombre;America del Central y del Caribe;730
+007;Alcorcon;Hombre;America del Norte;93
+007;Alcorcon;Hombre;America del Sur;3623
+007;Alcorcon;Hombre;ApAtridas;0
+007;Alcorcon;Hombre;Asia;747
+007;Alcorcon;Hombre;Oceania;25
+007;Alcorcon;Hombre;Otros paises de America;0
+007;Alcorcon;Hombre;Resto de Europa;996
+007;Alcorcon;Hombre;Union Europea ;73017
+007;Alcorcon;Mujer;Africa;1563
+007;Alcorcon;Mujer;America del Central y del Caribe;1158
+007;Alcorcon;Mujer;America del Norte;125
+007;Alcorcon;Mujer;America del Sur;4574
+007;Alcorcon;Mujer;ApAtridas;0
+007;Alcorcon;Mujer;Asia;686
+007;Alcorcon;Mujer;Oceania;17
+007;Alcorcon;Mujer;Otros paises de America;0
+007;Alcorcon;Mujer;Resto de Europa;1189
+007;Alcorcon;Mujer;Union Europea ;77593
+008;Aldea del Fresno;Hombre;Africa;124
+008;Aldea del Fresno;Hombre;America del Central y del Caribe;6
+008;Aldea del Fresno;Hombre;America del Norte;3
+008;Aldea del Fresno;Hombre;America del Sur;40
+008;Aldea del Fresno;Hombre;ApAtridas;0
+008;Aldea del Fresno;Hombre;Asia;7
+008;Aldea del Fresno;Hombre;Oceania;0
+008;Aldea del Fresno;Hombre;Otros paises de America;0
+008;Aldea del Fresno;Hombre;Resto de Europa;6
+008;Aldea del Fresno;Hombre;Union Europea ;1191
+008;Aldea del Fresno;Mujer;Africa;99
+008;Aldea del Fresno;Mujer;America del Central y del Caribe;5
+008;Aldea del Fresno;Mujer;America del Norte;1
+008;Aldea del Fresno;Mujer;America del Sur;40
+008;Aldea del Fresno;Mujer;ApAtridas;0
+008;Aldea del Fresno;Mujer;Asia;5
+008;Aldea del Fresno;Mujer;Oceania;0
+008;Aldea del Fresno;Mujer;Otros paises de America;0
+008;Aldea del Fresno;Mujer;Resto de Europa;9
+008;Aldea del Fresno;Mujer;Union Europea ;1080
+009;Algete;Hombre;Africa;142
+009;Algete;Hombre;America del Central y del Caribe;112
+009;Algete;Hombre;America del Norte;46
+009;Algete;Hombre;America del Sur;543
+009;Algete;Hombre;ApAtridas;0
+009;Algete;Hombre;Asia;185
+009;Algete;Hombre;Oceania;0
+009;Algete;Hombre;Otros paises de America;0
+009;Algete;Hombre;Resto de Europa;47
+009;Algete;Hombre;Union Europea ;9047
+009;Algete;Mujer;Africa;117
+009;Algete;Mujer;America del Central y del Caribe;148
+009;Algete;Mujer;America del Norte;77
+009;Algete;Mujer;America del Sur;677
+009;Algete;Mujer;ApAtridas;0
+009;Algete;Mujer;Asia;96
+009;Algete;Mujer;Oceania;5
+009;Algete;Mujer;Otros paises de America;0
+009;Algete;Mujer;Resto de Europa;67
+009;Algete;Mujer;Union Europea ;9110
+010;Alpedrete;Hombre;Africa;91
+010;Alpedrete;Hombre;America del Central y del Caribe;51
+010;Alpedrete;Hombre;America del Norte;32
+010;Alpedrete;Hombre;America del Sur;249
+010;Alpedrete;Hombre;ApAtridas;0
+010;Alpedrete;Hombre;Asia;28
+010;Alpedrete;Hombre;Oceania;1
+010;Alpedrete;Hombre;Otros paises de America;0
+010;Alpedrete;Hombre;Resto de Europa;21
+010;Alpedrete;Hombre;Union Europea ;6507
+010;Alpedrete;Mujer;Africa;65
+010;Alpedrete;Mujer;America del Central y del Caribe;77
+010;Alpedrete;Mujer;America del Norte;43
+010;Alpedrete;Mujer;America del Sur;309
+010;Alpedrete;Mujer;ApAtridas;0
+010;Alpedrete;Mujer;Asia;43
+010;Alpedrete;Mujer;Oceania;3
+010;Alpedrete;Mujer;Otros paises de America;0
+010;Alpedrete;Mujer;Resto de Europa;37
+010;Alpedrete;Mujer;Union Europea ;6683
+011;Ambite;Hombre;Africa;21
+011;Ambite;Hombre;America del Central y del Caribe;0
+011;Ambite;Hombre;America del Norte;0
+011;Ambite;Hombre;America del Sur;8
+011;Ambite;Hombre;ApAtridas;0
+011;Ambite;Hombre;Asia;22
+011;Ambite;Hombre;Oceania;1
+011;Ambite;Hombre;Otros paises de America;0
+011;Ambite;Hombre;Resto de Europa;22
+011;Ambite;Hombre;Union Europea ;278
+011;Ambite;Mujer;Africa;3
+011;Ambite;Mujer;America del Central y del Caribe;3
+011;Ambite;Mujer;America del Norte;0
+011;Ambite;Mujer;America del Sur;7
+011;Ambite;Mujer;ApAtridas;0
+011;Ambite;Mujer;Asia;17
+011;Ambite;Mujer;Oceania;0
+011;Ambite;Mujer;Otros paises de America;0
+011;Ambite;Mujer;Resto de Europa;21
+011;Ambite;Mujer;Union Europea ;274
+012;Anchuelo;Hombre;Africa;1
+012;Anchuelo;Hombre;America del Central y del Caribe;3
+012;Anchuelo;Hombre;America del Norte;0
+012;Anchuelo;Hombre;America del Sur;18
+012;Anchuelo;Hombre;ApAtridas;0
+012;Anchuelo;Hombre;Asia;1
+012;Anchuelo;Hombre;Oceania;0
+012;Anchuelo;Hombre;Otros paises de America;0
+012;Anchuelo;Hombre;Resto de Europa;3
+012;Anchuelo;Hombre;Union Europea ;621
+012;Anchuelo;Mujer;Africa;2
+012;Anchuelo;Mujer;America del Central y del Caribe;9
+012;Anchuelo;Mujer;America del Norte;1
+012;Anchuelo;Mujer;America del Sur;14
+012;Anchuelo;Mujer;ApAtridas;0
+012;Anchuelo;Mujer;Asia;2
+012;Anchuelo;Mujer;Oceania;0
+012;Anchuelo;Mujer;Otros paises de America;0
+012;Anchuelo;Mujer;Resto de Europa;8
+012;Anchuelo;Mujer;Union Europea ;555
+013;Aranjuez;Hombre;Africa;948
+013;Aranjuez;Hombre;America del Central y del Caribe;189
+013;Aranjuez;Hombre;America del Norte;67
+013;Aranjuez;Hombre;America del Sur;1314
+013;Aranjuez;Hombre;ApAtridas;0
+013;Aranjuez;Hombre;Asia;161
+013;Aranjuez;Hombre;Oceania;5
+013;Aranjuez;Hombre;Otros paises de America;1
+013;Aranjuez;Hombre;Resto de Europa;87
+013;Aranjuez;Hombre;Union Europea ;25615
+013;Aranjuez;Mujer;Africa;721
+013;Aranjuez;Mujer;America del Central y del Caribe;260
+013;Aranjuez;Mujer;America del Norte;80
+013;Aranjuez;Mujer;America del Sur;1723
+013;Aranjuez;Mujer;ApAtridas;0
+013;Aranjuez;Mujer;Asia;167
+013;Aranjuez;Mujer;Oceania;5
+013;Aranjuez;Mujer;Otros paises de America;0
+013;Aranjuez;Mujer;Resto de Europa;122
+013;Aranjuez;Mujer;Union Europea ;26748
+014;Arganda del Rey;Hombre;Africa;285
+014;Arganda del Rey;Hombre;America del Central y del Caribe;145
+014;Arganda del Rey;Hombre;America del Norte;37
+014;Arganda del Rey;Hombre;America del Sur;884
+014;Arganda del Rey;Hombre;ApAtridas;0
+014;Arganda del Rey;Hombre;Asia;602
+014;Arganda del Rey;Hombre;Oceania;8
+014;Arganda del Rey;Hombre;Otros paises de America;0
+014;Arganda del Rey;Hombre;Resto de Europa;103
+014;Arganda del Rey;Hombre;Union Europea ;24942
+014;Arganda del Rey;Mujer;Africa;254
+014;Arganda del Rey;Mujer;America del Central y del Caribe;204
+014;Arganda del Rey;Mujer;America del Norte;36
+014;Arganda del Rey;Mujer;America del Sur;1063
+014;Arganda del Rey;Mujer;ApAtridas;0
+014;Arganda del Rey;Mujer;Asia;285
+014;Arganda del Rey;Mujer;Oceania;5
+014;Arganda del Rey;Mujer;Otros paises de America;0
+014;Arganda del Rey;Mujer;Resto de Europa;129
+014;Arganda del Rey;Mujer;Union Europea ;24839
+015;Arroyomolinos;Hombre;Africa;209
+015;Arroyomolinos;Hombre;America del Central y del Caribe;75
+015;Arroyomolinos;Hombre;America del Norte;34
+015;Arroyomolinos;Hombre;America del Sur;447
+015;Arroyomolinos;Hombre;ApAtridas;0
+015;Arroyomolinos;Hombre;Asia;123
+015;Arroyomolinos;Hombre;Oceania;3
+015;Arroyomolinos;Hombre;Otros paises de America;0
+015;Arroyomolinos;Hombre;Resto de Europa;39
+015;Arroyomolinos;Hombre;Union Europea ;13694
+015;Arroyomolinos;Mujer;Africa;207
+015;Arroyomolinos;Mujer;America del Central y del Caribe;121
+015;Arroyomolinos;Mujer;America del Norte;45
+015;Arroyomolinos;Mujer;America del Sur;616
+015;Arroyomolinos;Mujer;ApAtridas;0
+015;Arroyomolinos;Mujer;Asia;114
+015;Arroyomolinos;Mujer;Oceania;6
+015;Arroyomolinos;Mujer;Otros paises de America;0
+015;Arroyomolinos;Mujer;Resto de Europa;79
+015;Arroyomolinos;Mujer;Union Europea ;13315
+016;Atazar (El);Hombre;Africa;2
+016;Atazar (El);Hombre;America del Central y del Caribe;0
+016;Atazar (El);Hombre;America del Norte;0
+016;Atazar (El);Hombre;America del Sur;0
+016;Atazar (El);Hombre;ApAtridas;0
+016;Atazar (El);Hombre;Asia;0
+016;Atazar (El);Hombre;Oceania;0
+016;Atazar (El);Hombre;Otros paises de America;0
+016;Atazar (El);Hombre;Resto de Europa;0
+016;Atazar (El);Hombre;Union Europea ;54
+016;Atazar (El);Mujer;Africa;1
+016;Atazar (El);Mujer;America del Central y del Caribe;0
+016;Atazar (El);Mujer;America del Norte;0
+016;Atazar (El);Mujer;America del Sur;1
+016;Atazar (El);Mujer;ApAtridas;0
+016;Atazar (El);Mujer;Asia;0
+016;Atazar (El);Mujer;Oceania;0
+016;Atazar (El);Mujer;Otros paises de America;0
+016;Atazar (El);Mujer;Resto de Europa;0
+016;Atazar (El);Mujer;Union Europea ;39
+017;Batres;Hombre;Africa;8
+017;Batres;Hombre;America del Central y del Caribe;2
+017;Batres;Hombre;America del Norte;1
+017;Batres;Hombre;America del Sur;37
+017;Batres;Hombre;ApAtridas;0
+017;Batres;Hombre;Asia;2
+017;Batres;Hombre;Oceania;1
+017;Batres;Hombre;Otros paises de America;0
+017;Batres;Hombre;Resto de Europa;5
+017;Batres;Hombre;Union Europea ;767
+017;Batres;Mujer;Africa;4
+017;Batres;Mujer;America del Central y del Caribe;3
+017;Batres;Mujer;America del Norte;1
+017;Batres;Mujer;America del Sur;26
+017;Batres;Mujer;ApAtridas;0
+017;Batres;Mujer;Asia;0
+017;Batres;Mujer;Oceania;1
+017;Batres;Mujer;Otros paises de America;0
+017;Batres;Mujer;Resto de Europa;1
+017;Batres;Mujer;Union Europea ;751
+018;Becerril de la Sierra;Hombre;Africa;129
+018;Becerril de la Sierra;Hombre;America del Central y del Caribe;10
+018;Becerril de la Sierra;Hombre;America del Norte;7
+018;Becerril de la Sierra;Hombre;America del Sur;98
+018;Becerril de la Sierra;Hombre;ApAtridas;0
+018;Becerril de la Sierra;Hombre;Asia;7
+018;Becerril de la Sierra;Hombre;Oceania;0
+018;Becerril de la Sierra;Hombre;Otros paises de America;0
+018;Becerril de la Sierra;Hombre;Resto de Europa;10
+018;Becerril de la Sierra;Hombre;Union Europea ;2449
+018;Becerril de la Sierra;Mujer;Africa;114
+018;Becerril de la Sierra;Mujer;America del Central y del Caribe;18
+018;Becerril de la Sierra;Mujer;America del Norte;6
+018;Becerril de la Sierra;Mujer;America del Sur;137
+018;Becerril de la Sierra;Mujer;ApAtridas;0
+018;Becerril de la Sierra;Mujer;Asia;16
+018;Becerril de la Sierra;Mujer;Oceania;1
+018;Becerril de la Sierra;Mujer;Otros paises de America;0
+018;Becerril de la Sierra;Mujer;Resto de Europa;11
+018;Becerril de la Sierra;Mujer;Union Europea ;2444
+019;Belmonte de Tajo;Hombre;Africa;3
+019;Belmonte de Tajo;Hombre;America del Central y del Caribe;2
+019;Belmonte de Tajo;Hombre;America del Norte;3
+019;Belmonte de Tajo;Hombre;America del Sur;13
+019;Belmonte de Tajo;Hombre;ApAtridas;0
+019;Belmonte de Tajo;Hombre;Asia;0
+019;Belmonte de Tajo;Hombre;Oceania;0
+019;Belmonte de Tajo;Hombre;Otros paises de America;0
+019;Belmonte de Tajo;Hombre;Resto de Europa;4
+019;Belmonte de Tajo;Hombre;Union Europea ;829
+019;Belmonte de Tajo;Mujer;Africa;2
+019;Belmonte de Tajo;Mujer;America del Central y del Caribe;1
+019;Belmonte de Tajo;Mujer;America del Norte;1
+019;Belmonte de Tajo;Mujer;America del Sur;14
+019;Belmonte de Tajo;Mujer;ApAtridas;0
+019;Belmonte de Tajo;Mujer;Asia;0
+019;Belmonte de Tajo;Mujer;Oceania;0
+019;Belmonte de Tajo;Mujer;Otros paises de America;0
+019;Belmonte de Tajo;Mujer;Resto de Europa;8
+019;Belmonte de Tajo;Mujer;Union Europea ;748
+021;Berrueco (El);Hombre;Africa;11
+021;Berrueco (El);Hombre;America del Central y del Caribe;2
+021;Berrueco (El);Hombre;America del Norte;0
+021;Berrueco (El);Hombre;America del Sur;11
+021;Berrueco (El);Hombre;ApAtridas;0
+021;Berrueco (El);Hombre;Asia;1
+021;Berrueco (El);Hombre;Oceania;0
+021;Berrueco (El);Hombre;Otros paises de America;0
+021;Berrueco (El);Hombre;Resto de Europa;0
+021;Berrueco (El);Hombre;Union Europea ;359
+021;Berrueco (El);Mujer;Africa;11
+021;Berrueco (El);Mujer;America del Central y del Caribe;4
+021;Berrueco (El);Mujer;America del Norte;0
+021;Berrueco (El);Mujer;America del Sur;10
+021;Berrueco (El);Mujer;ApAtridas;0
+021;Berrueco (El);Mujer;Asia;1
+021;Berrueco (El);Mujer;Oceania;0
+021;Berrueco (El);Mujer;Otros paises de America;0
+021;Berrueco (El);Mujer;Resto de Europa;0
+021;Berrueco (El);Mujer;Union Europea ;333
+020;Berzosa del Lozoya;Hombre;Africa;2
+020;Berzosa del Lozoya;Hombre;America del Central y del Caribe;0
+020;Berzosa del Lozoya;Hombre;America del Norte;0
+020;Berzosa del Lozoya;Hombre;America del Sur;5
+020;Berzosa del Lozoya;Hombre;ApAtridas;0
+020;Berzosa del Lozoya;Hombre;Asia;0
+020;Berzosa del Lozoya;Hombre;Oceania;0
+020;Berzosa del Lozoya;Hombre;Otros paises de America;0
+020;Berzosa del Lozoya;Hombre;Resto de Europa;0
+020;Berzosa del Lozoya;Hombre;Union Europea ;113
+020;Berzosa del Lozoya;Mujer;Africa;0
+020;Berzosa del Lozoya;Mujer;America del Central y del Caribe;0
+020;Berzosa del Lozoya;Mujer;America del Norte;0
+020;Berzosa del Lozoya;Mujer;America del Sur;4
+020;Berzosa del Lozoya;Mujer;ApAtridas;0
+020;Berzosa del Lozoya;Mujer;Asia;0
+020;Berzosa del Lozoya;Mujer;Oceania;0
+020;Berzosa del Lozoya;Mujer;Otros paises de America;0
+020;Berzosa del Lozoya;Mujer;Resto de Europa;0
+020;Berzosa del Lozoya;Mujer;Union Europea ;79
+022;Boadilla del Monte;Hombre;Africa;152
+022;Boadilla del Monte;Hombre;America del Central y del Caribe;119
+022;Boadilla del Monte;Hombre;America del Norte;191
+022;Boadilla del Monte;Hombre;America del Sur;1111
+022;Boadilla del Monte;Hombre;ApAtridas;0
+022;Boadilla del Monte;Hombre;Asia;177
+022;Boadilla del Monte;Hombre;Oceania;4
+022;Boadilla del Monte;Hombre;Otros paises de America;0
+022;Boadilla del Monte;Hombre;Resto de Europa;91
+022;Boadilla del Monte;Hombre;Union Europea ;23318
+022;Boadilla del Monte;Mujer;Africa;129
+022;Boadilla del Monte;Mujer;America del Central y del Caribe;238
+022;Boadilla del Monte;Mujer;America del Norte;236
+022;Boadilla del Monte;Mujer;America del Sur;1566
+022;Boadilla del Monte;Mujer;ApAtridas;0
+022;Boadilla del Monte;Mujer;Asia;260
+022;Boadilla del Monte;Mujer;Oceania;8
+022;Boadilla del Monte;Mujer;Otros paises de America;0
+022;Boadilla del Monte;Mujer;Resto de Europa;138
+022;Boadilla del Monte;Mujer;Union Europea ;23725
+023;Boalo (El);Hombre;Africa;120
+023;Boalo (El);Hombre;America del Central y del Caribe;7
+023;Boalo (El);Hombre;America del Norte;15
+023;Boalo (El);Hombre;America del Sur;104
+023;Boalo (El);Hombre;ApAtridas;0
+023;Boalo (El);Hombre;Asia;10
+023;Boalo (El);Hombre;Oceania;1
+023;Boalo (El);Hombre;Otros paises de America;0
+023;Boalo (El);Hombre;Resto de Europa;14
+023;Boalo (El);Hombre;Union Europea ;3453
+023;Boalo (El);Mujer;Africa;67
+023;Boalo (El);Mujer;America del Central y del Caribe;16
+023;Boalo (El);Mujer;America del Norte;16
+023;Boalo (El);Mujer;America del Sur;166
+023;Boalo (El);Mujer;ApAtridas;0
+023;Boalo (El);Mujer;Asia;22
+023;Boalo (El);Mujer;Oceania;2
+023;Boalo (El);Mujer;Otros paises de America;0
+023;Boalo (El);Mujer;Resto de Europa;18
+023;Boalo (El);Mujer;Union Europea ;3327
+024;Braojos;Hombre;Africa;5
+024;Braojos;Hombre;America del Central y del Caribe;0
+024;Braojos;Hombre;America del Norte;1
+024;Braojos;Hombre;America del Sur;0
+024;Braojos;Hombre;ApAtridas;0
+024;Braojos;Hombre;Asia;0
+024;Braojos;Hombre;Oceania;0
+024;Braojos;Hombre;Otros paises de America;0
+024;Braojos;Hombre;Resto de Europa;0
+024;Braojos;Hombre;Union Europea ;116
+024;Braojos;Mujer;Africa;2
+024;Braojos;Mujer;America del Central y del Caribe;0
+024;Braojos;Mujer;America del Norte;0
+024;Braojos;Mujer;America del Sur;1
+024;Braojos;Mujer;ApAtridas;0
+024;Braojos;Mujer;Asia;0
+024;Braojos;Mujer;Oceania;0
+024;Braojos;Mujer;Otros paises de America;0
+024;Braojos;Mujer;Resto de Europa;0
+024;Braojos;Mujer;Union Europea ;83
+025;Brea de Tajo;Hombre;Africa;14
+025;Brea de Tajo;Hombre;America del Central y del Caribe;1
+025;Brea de Tajo;Hombre;America del Norte;0
+025;Brea de Tajo;Hombre;America del Sur;8
+025;Brea de Tajo;Hombre;ApAtridas;0
+025;Brea de Tajo;Hombre;Asia;0
+025;Brea de Tajo;Hombre;Oceania;0
+025;Brea de Tajo;Hombre;Otros paises de America;0
+025;Brea de Tajo;Hombre;Resto de Europa;0
+025;Brea de Tajo;Hombre;Union Europea ;285
+025;Brea de Tajo;Mujer;Africa;1
+025;Brea de Tajo;Mujer;America del Central y del Caribe;0
+025;Brea de Tajo;Mujer;America del Norte;1
+025;Brea de Tajo;Mujer;America del Sur;8
+025;Brea de Tajo;Mujer;ApAtridas;0
+025;Brea de Tajo;Mujer;Asia;0
+025;Brea de Tajo;Mujer;Oceania;0
+025;Brea de Tajo;Mujer;Otros paises de America;0
+025;Brea de Tajo;Mujer;Resto de Europa;0
+025;Brea de Tajo;Mujer;Union Europea ;221
+026;Brunete;Hombre;Africa;171
+026;Brunete;Hombre;America del Central y del Caribe;20
+026;Brunete;Hombre;America del Norte;11
+026;Brunete;Hombre;America del Sur;237
+026;Brunete;Hombre;ApAtridas;0
+026;Brunete;Hombre;Asia;27
+026;Brunete;Hombre;Oceania;3
+026;Brunete;Hombre;Otros paises de America;0
+026;Brunete;Hombre;Resto de Europa;27
+026;Brunete;Hombre;Union Europea ;4629
+026;Brunete;Mujer;Africa;130
+026;Brunete;Mujer;America del Central y del Caribe;67
+026;Brunete;Mujer;America del Norte;20
+026;Brunete;Mujer;America del Sur;307
+026;Brunete;Mujer;ApAtridas;0
+026;Brunete;Mujer;Asia;30
+026;Brunete;Mujer;Oceania;2
+026;Brunete;Mujer;Otros paises de America;0
+026;Brunete;Mujer;Resto de Europa;40
+026;Brunete;Mujer;Union Europea ;4652
+027;Buitrago del Lozoya;Hombre;Africa;29
+027;Buitrago del Lozoya;Hombre;America del Central y del Caribe;6
+027;Buitrago del Lozoya;Hombre;America del Norte;2
+027;Buitrago del Lozoya;Hombre;America del Sur;28
+027;Buitrago del Lozoya;Hombre;ApAtridas;0
+027;Buitrago del Lozoya;Hombre;Asia;7
+027;Buitrago del Lozoya;Hombre;Oceania;0
+027;Buitrago del Lozoya;Hombre;Otros paises de America;0
+027;Buitrago del Lozoya;Hombre;Resto de Europa;5
+027;Buitrago del Lozoya;Hombre;Union Europea ;810
+027;Buitrago del Lozoya;Mujer;Africa;21
+027;Buitrago del Lozoya;Mujer;America del Central y del Caribe;10
+027;Buitrago del Lozoya;Mujer;America del Norte;6
+027;Buitrago del Lozoya;Mujer;America del Sur;50
+027;Buitrago del Lozoya;Mujer;ApAtridas;0
+027;Buitrago del Lozoya;Mujer;Asia;6
+027;Buitrago del Lozoya;Mujer;Oceania;0
+027;Buitrago del Lozoya;Mujer;Otros paises de America;0
+027;Buitrago del Lozoya;Mujer;Resto de Europa;8
+027;Buitrago del Lozoya;Mujer;Union Europea ;866
+028;Bustarviejo;Hombre;Africa;41
+028;Bustarviejo;Hombre;America del Central y del Caribe;8
+028;Bustarviejo;Hombre;America del Norte;4
+028;Bustarviejo;Hombre;America del Sur;34
+028;Bustarviejo;Hombre;ApAtridas;0
+028;Bustarviejo;Hombre;Asia;2
+028;Bustarviejo;Hombre;Oceania;0
+028;Bustarviejo;Hombre;Otros paises de America;0
+028;Bustarviejo;Hombre;Resto de Europa;10
+028;Bustarviejo;Hombre;Union Europea ;1097
+028;Bustarviejo;Mujer;Africa;28
+028;Bustarviejo;Mujer;America del Central y del Caribe;13
+028;Bustarviejo;Mujer;America del Norte;6
+028;Bustarviejo;Mujer;America del Sur;40
+028;Bustarviejo;Mujer;ApAtridas;0
+028;Bustarviejo;Mujer;Asia;5
+028;Bustarviejo;Mujer;Oceania;0
+028;Bustarviejo;Mujer;Otros paises de America;0
+028;Bustarviejo;Mujer;Resto de Europa;11
+028;Bustarviejo;Mujer;Union Europea ;1099
+029;Cabanillas de la Sierra;Hombre;Africa;1
+029;Cabanillas de la Sierra;Hombre;America del Central y del Caribe;0
+029;Cabanillas de la Sierra;Hombre;America del Norte;1
+029;Cabanillas de la Sierra;Hombre;America del Sur;10
+029;Cabanillas de la Sierra;Hombre;ApAtridas;0
+029;Cabanillas de la Sierra;Hombre;Asia;2
+029;Cabanillas de la Sierra;Hombre;Oceania;0
+029;Cabanillas de la Sierra;Hombre;Otros paises de America;0
+029;Cabanillas de la Sierra;Hombre;Resto de Europa;2
+029;Cabanillas de la Sierra;Hombre;Union Europea ;355
+029;Cabanillas de la Sierra;Mujer;Africa;2
+029;Cabanillas de la Sierra;Mujer;America del Central y del Caribe;1
+029;Cabanillas de la Sierra;Mujer;America del Norte;3
+029;Cabanillas de la Sierra;Mujer;America del Sur;10
+029;Cabanillas de la Sierra;Mujer;ApAtridas;0
+029;Cabanillas de la Sierra;Mujer;Asia;2
+029;Cabanillas de la Sierra;Mujer;Oceania;0
+029;Cabanillas de la Sierra;Mujer;Otros paises de America;0
+029;Cabanillas de la Sierra;Mujer;Resto de Europa;4
+029;Cabanillas de la Sierra;Mujer;Union Europea ;319
+030;Cabrera (La);Hombre;Africa;61
+030;Cabrera (La);Hombre;America del Central y del Caribe;7
+030;Cabrera (La);Hombre;America del Norte;1
+030;Cabrera (La);Hombre;America del Sur;43
+030;Cabrera (La);Hombre;ApAtridas;0
+030;Cabrera (La);Hombre;Asia;6
+030;Cabrera (La);Hombre;Oceania;0
+030;Cabrera (La);Hombre;Otros paises de America;0
+030;Cabrera (La);Hombre;Resto de Europa;31
+030;Cabrera (La);Hombre;Union Europea ;1128
+030;Cabrera (La);Mujer;Africa;39
+030;Cabrera (La);Mujer;America del Central y del Caribe;16
+030;Cabrera (La);Mujer;America del Norte;3
+030;Cabrera (La);Mujer;America del Sur;62
+030;Cabrera (La);Mujer;ApAtridas;0
+030;Cabrera (La);Mujer;Asia;4
+030;Cabrera (La);Mujer;Oceania;0
+030;Cabrera (La);Mujer;Otros paises de America;0
+030;Cabrera (La);Mujer;Resto de Europa;16
+030;Cabrera (La);Mujer;Union Europea ;1150
+031;Cadalso de los Vidrios;Hombre;Africa;87
+031;Cadalso de los Vidrios;Hombre;America del Central y del Caribe;6
+031;Cadalso de los Vidrios;Hombre;America del Norte;0
+031;Cadalso de los Vidrios;Hombre;America del Sur;23
+031;Cadalso de los Vidrios;Hombre;ApAtridas;0
+031;Cadalso de los Vidrios;Hombre;Asia;1
+031;Cadalso de los Vidrios;Hombre;Oceania;0
+031;Cadalso de los Vidrios;Hombre;Otros paises de America;0
+031;Cadalso de los Vidrios;Hombre;Resto de Europa;2
+031;Cadalso de los Vidrios;Hombre;Union Europea ;1480
+031;Cadalso de los Vidrios;Mujer;Africa;54
+031;Cadalso de los Vidrios;Mujer;America del Central y del Caribe;9
+031;Cadalso de los Vidrios;Mujer;America del Norte;2
+031;Cadalso de los Vidrios;Mujer;America del Sur;25
+031;Cadalso de los Vidrios;Mujer;ApAtridas;0
+031;Cadalso de los Vidrios;Mujer;Asia;1
+031;Cadalso de los Vidrios;Mujer;Oceania;0
+031;Cadalso de los Vidrios;Mujer;Otros paises de America;0
+031;Cadalso de los Vidrios;Mujer;Resto de Europa;5
+031;Cadalso de los Vidrios;Mujer;Union Europea ;1358
+032;Camarma de Esteruelas;Hombre;Africa;47
+032;Camarma de Esteruelas;Hombre;America del Central y del Caribe;26
+032;Camarma de Esteruelas;Hombre;America del Norte;38
+032;Camarma de Esteruelas;Hombre;America del Sur;88
+032;Camarma de Esteruelas;Hombre;ApAtridas;0
+032;Camarma de Esteruelas;Hombre;Asia;18
+032;Camarma de Esteruelas;Hombre;Oceania;2
+032;Camarma de Esteruelas;Hombre;Otros paises de America;0
+032;Camarma de Esteruelas;Hombre;Resto de Europa;18
+032;Camarma de Esteruelas;Hombre;Union Europea ;3353
+032;Camarma de Esteruelas;Mujer;Africa;44
+032;Camarma de Esteruelas;Mujer;America del Central y del Caribe;40
+032;Camarma de Esteruelas;Mujer;America del Norte;38
+032;Camarma de Esteruelas;Mujer;America del Sur;105
+032;Camarma de Esteruelas;Mujer;ApAtridas;0
+032;Camarma de Esteruelas;Mujer;Asia;15
+032;Camarma de Esteruelas;Mujer;Oceania;2
+032;Camarma de Esteruelas;Mujer;Otros paises de America;0
+032;Camarma de Esteruelas;Mujer;Resto de Europa;15
+032;Camarma de Esteruelas;Mujer;Union Europea ;3235
+033;Campo Real;Hombre;Africa;66
+033;Campo Real;Hombre;America del Central y del Caribe;23
+033;Campo Real;Hombre;America del Norte;6
+033;Campo Real;Hombre;America del Sur;85
+033;Campo Real;Hombre;ApAtridas;0
+033;Campo Real;Hombre;Asia;12
+033;Campo Real;Hombre;Oceania;0
+033;Campo Real;Hombre;Otros paises de America;0
+033;Campo Real;Hombre;Resto de Europa;5
+033;Campo Real;Hombre;Union Europea ;2825
+033;Campo Real;Mujer;Africa;45
+033;Campo Real;Mujer;America del Central y del Caribe;25
+033;Campo Real;Mujer;America del Norte;9
+033;Campo Real;Mujer;America del Sur;113
+033;Campo Real;Mujer;ApAtridas;0
+033;Campo Real;Mujer;Asia;7
+033;Campo Real;Mujer;Oceania;1
+033;Campo Real;Mujer;Otros paises de America;0
+033;Campo Real;Mujer;Resto de Europa;9
+033;Campo Real;Mujer;Union Europea ;2764
+034;Canencia;Hombre;Africa;0
+034;Canencia;Hombre;America del Central y del Caribe;1
+034;Canencia;Hombre;America del Norte;0
+034;Canencia;Hombre;America del Sur;6
+034;Canencia;Hombre;ApAtridas;0
+034;Canencia;Hombre;Asia;0
+034;Canencia;Hombre;Oceania;0
+034;Canencia;Hombre;Otros paises de America;0
+034;Canencia;Hombre;Resto de Europa;1
+034;Canencia;Hombre;Union Europea ;233
+034;Canencia;Mujer;Africa;2
+034;Canencia;Mujer;America del Central y del Caribe;4
+034;Canencia;Mujer;America del Norte;0
+034;Canencia;Mujer;America del Sur;6
+034;Canencia;Mujer;ApAtridas;0
+034;Canencia;Mujer;Asia;0
+034;Canencia;Mujer;Oceania;0
+034;Canencia;Mujer;Otros paises de America;0
+034;Canencia;Mujer;Resto de Europa;0
+034;Canencia;Mujer;Union Europea ;195
+035;Carabaña;Hombre;Africa;7
+035;Carabaña;Hombre;America del Central y del Caribe;6
+035;Carabaña;Hombre;America del Norte;3
+035;Carabaña;Hombre;America del Sur;16
+035;Carabaña;Hombre;ApAtridas;0
+035;Carabaña;Hombre;Asia;5
+035;Carabaña;Hombre;Oceania;0
+035;Carabaña;Hombre;Otros paises de America;0
+035;Carabaña;Hombre;Resto de Europa;5
+035;Carabaña;Hombre;Union Europea ;919
+035;Carabaña;Mujer;Africa;4
+035;Carabaña;Mujer;America del Central y del Caribe;15
+035;Carabaña;Mujer;America del Norte;5
+035;Carabaña;Mujer;America del Sur;25
+035;Carabaña;Mujer;ApAtridas;0
+035;Carabaña;Mujer;Asia;4
+035;Carabaña;Mujer;Oceania;1
+035;Carabaña;Mujer;Otros paises de America;0
+035;Carabaña;Mujer;Resto de Europa;10
+035;Carabaña;Mujer;Union Europea ;915
+036;Casarrubuelos;Hombre;Africa;27
+036;Casarrubuelos;Hombre;America del Central y del Caribe;3
+036;Casarrubuelos;Hombre;America del Norte;0
+036;Casarrubuelos;Hombre;America del Sur;55
+036;Casarrubuelos;Hombre;ApAtridas;0
+036;Casarrubuelos;Hombre;Asia;7
+036;Casarrubuelos;Hombre;Oceania;0
+036;Casarrubuelos;Hombre;Otros paises de America;0
+036;Casarrubuelos;Hombre;Resto de Europa;2
+036;Casarrubuelos;Hombre;Union Europea ;1773
+036;Casarrubuelos;Mujer;Africa;21
+036;Casarrubuelos;Mujer;America del Central y del Caribe;8
+036;Casarrubuelos;Mujer;America del Norte;4
+036;Casarrubuelos;Mujer;America del Sur;58
+036;Casarrubuelos;Mujer;ApAtridas;0
+036;Casarrubuelos;Mujer;Asia;9
+036;Casarrubuelos;Mujer;Oceania;0
+036;Casarrubuelos;Mujer;Otros paises de America;0
+036;Casarrubuelos;Mujer;Resto de Europa;2
+036;Casarrubuelos;Mujer;Union Europea ;1681
+037;Cenicientos;Hombre;Africa;44
+037;Cenicientos;Hombre;America del Central y del Caribe;1
+037;Cenicientos;Hombre;America del Norte;1
+037;Cenicientos;Hombre;America del Sur;9
+037;Cenicientos;Hombre;ApAtridas;0
+037;Cenicientos;Hombre;Asia;2
+037;Cenicientos;Hombre;Oceania;0
+037;Cenicientos;Hombre;Otros paises de America;0
+037;Cenicientos;Hombre;Resto de Europa;2
+037;Cenicientos;Hombre;Union Europea ;914
+037;Cenicientos;Mujer;Africa;29
+037;Cenicientos;Mujer;America del Central y del Caribe;0
+037;Cenicientos;Mujer;America del Norte;0
+037;Cenicientos;Mujer;America del Sur;10
+037;Cenicientos;Mujer;ApAtridas;0
+037;Cenicientos;Mujer;Asia;2
+037;Cenicientos;Mujer;Oceania;0
+037;Cenicientos;Mujer;Otros paises de America;0
+037;Cenicientos;Mujer;Resto de Europa;1
+037;Cenicientos;Mujer;Union Europea ;969
+038;Cercedilla;Hombre;Africa;159
+038;Cercedilla;Hombre;America del Central y del Caribe;32
+038;Cercedilla;Hombre;America del Norte;12
+038;Cercedilla;Hombre;America del Sur;100
+038;Cercedilla;Hombre;ApAtridas;0
+038;Cercedilla;Hombre;Asia;13
+038;Cercedilla;Hombre;Oceania;1
+038;Cercedilla;Hombre;Otros paises de America;0
+038;Cercedilla;Hombre;Resto de Europa;16
+038;Cercedilla;Hombre;Union Europea ;3020
+038;Cercedilla;Mujer;Africa;114
+038;Cercedilla;Mujer;America del Central y del Caribe;55
+038;Cercedilla;Mujer;America del Norte;6
+038;Cercedilla;Mujer;America del Sur;115
+038;Cercedilla;Mujer;ApAtridas;0
+038;Cercedilla;Mujer;Asia;14
+038;Cercedilla;Mujer;Oceania;1
+038;Cercedilla;Mujer;Otros paises de America;0
+038;Cercedilla;Mujer;Resto de Europa;25
+038;Cercedilla;Mujer;Union Europea ;3170
+039;Cervera de Buitrago;Hombre;Africa;3
+039;Cervera de Buitrago;Hombre;America del Central y del Caribe;0
+039;Cervera de Buitrago;Hombre;America del Norte;0
+039;Cervera de Buitrago;Hombre;America del Sur;1
+039;Cervera de Buitrago;Hombre;ApAtridas;0
+039;Cervera de Buitrago;Hombre;Asia;0
+039;Cervera de Buitrago;Hombre;Oceania;0
+039;Cervera de Buitrago;Hombre;Otros paises de America;0
+039;Cervera de Buitrago;Hombre;Resto de Europa;0
+039;Cervera de Buitrago;Hombre;Union Europea ;88
+039;Cervera de Buitrago;Mujer;Africa;0
+039;Cervera de Buitrago;Mujer;America del Central y del Caribe;0
+039;Cervera de Buitrago;Mujer;America del Norte;0
+039;Cervera de Buitrago;Mujer;America del Sur;2
+039;Cervera de Buitrago;Mujer;ApAtridas;0
+039;Cervera de Buitrago;Mujer;Asia;0
+039;Cervera de Buitrago;Mujer;Oceania;0
+039;Cervera de Buitrago;Mujer;Otros paises de America;0
+039;Cervera de Buitrago;Mujer;Resto de Europa;0
+039;Cervera de Buitrago;Mujer;Union Europea ;62
+051;Chapineria;Hombre;Africa;70
+051;Chapineria;Hombre;America del Central y del Caribe;3
+051;Chapineria;Hombre;America del Norte;2
+051;Chapineria;Hombre;America del Sur;31
+051;Chapineria;Hombre;ApAtridas;0
+051;Chapineria;Hombre;Asia;6
+051;Chapineria;Hombre;Oceania;0
+051;Chapineria;Hombre;Otros paises de America;0
+051;Chapineria;Hombre;Resto de Europa;2
+051;Chapineria;Hombre;Union Europea ;1021
+051;Chapineria;Mujer;Africa;45
+051;Chapineria;Mujer;America del Central y del Caribe;2
+051;Chapineria;Mujer;America del Norte;2
+051;Chapineria;Mujer;America del Sur;46
+051;Chapineria;Mujer;ApAtridas;0
+051;Chapineria;Mujer;Asia;6
+051;Chapineria;Mujer;Oceania;0
+051;Chapineria;Mujer;Otros paises de America;0
+051;Chapineria;Mujer;Resto de Europa;6
+051;Chapineria;Mujer;Union Europea ;983
+052;Chinchon;Hombre;Africa;73
+052;Chinchon;Hombre;America del Central y del Caribe;13
+052;Chinchon;Hombre;America del Norte;6
+052;Chinchon;Hombre;America del Sur;100
+052;Chinchon;Hombre;ApAtridas;0
+052;Chinchon;Hombre;Asia;4
+052;Chinchon;Hombre;Oceania;0
+052;Chinchon;Hombre;Otros paises de America;0
+052;Chinchon;Hombre;Resto de Europa;18
+052;Chinchon;Hombre;Union Europea ;2431
+052;Chinchon;Mujer;Africa;47
+052;Chinchon;Mujer;America del Central y del Caribe;17
+052;Chinchon;Mujer;America del Norte;5
+052;Chinchon;Mujer;America del Sur;115
+052;Chinchon;Mujer;ApAtridas;0
+052;Chinchon;Mujer;Asia;15
+052;Chinchon;Mujer;Oceania;1
+052;Chinchon;Mujer;Otros paises de America;0
+052;Chinchon;Mujer;Resto de Europa;22
+052;Chinchon;Mujer;Union Europea ;2373
+040;Ciempozuelos;Hombre;Africa;469
+040;Ciempozuelos;Hombre;America del Central y del Caribe;114
+040;Ciempozuelos;Hombre;America del Norte;16
+040;Ciempozuelos;Hombre;America del Sur;645
+040;Ciempozuelos;Hombre;ApAtridas;0
+040;Ciempozuelos;Hombre;Asia;52
+040;Ciempozuelos;Hombre;Oceania;0
+040;Ciempozuelos;Hombre;Otros paises de America;0
+040;Ciempozuelos;Hombre;Resto de Europa;78
+040;Ciempozuelos;Hombre;Union Europea ;10576
+040;Ciempozuelos;Mujer;Africa;380
+040;Ciempozuelos;Mujer;America del Central y del Caribe;140
+040;Ciempozuelos;Mujer;America del Norte;23
+040;Ciempozuelos;Mujer;America del Sur;824
+040;Ciempozuelos;Mujer;ApAtridas;0
+040;Ciempozuelos;Mujer;Asia;50
+040;Ciempozuelos;Mujer;Oceania;2
+040;Ciempozuelos;Mujer;Otros paises de America;0
+040;Ciempozuelos;Mujer;Resto de Europa;84
+040;Ciempozuelos;Mujer;Union Europea ;10283
+041;Cobeña;Hombre;Africa;29
+041;Cobeña;Hombre;America del Central y del Caribe;15
+041;Cobeña;Hombre;America del Norte;16
+041;Cobeña;Hombre;America del Sur;139
+041;Cobeña;Hombre;ApAtridas;0
+041;Cobeña;Hombre;Asia;18
+041;Cobeña;Hombre;Oceania;1
+041;Cobeña;Hombre;Otros paises de America;0
+041;Cobeña;Hombre;Resto de Europa;24
+041;Cobeña;Hombre;Union Europea ;3292
+041;Cobeña;Mujer;Africa;29
+041;Cobeña;Mujer;America del Central y del Caribe;31
+041;Cobeña;Mujer;America del Norte;20
+041;Cobeña;Mujer;America del Sur;188
+041;Cobeña;Mujer;ApAtridas;0
+041;Cobeña;Mujer;Asia;22
+041;Cobeña;Mujer;Oceania;1
+041;Cobeña;Mujer;Otros paises de America;0
+041;Cobeña;Mujer;Resto de Europa;29
+041;Cobeña;Mujer;Union Europea ;3309
+046;Collado Mediano;Hombre;Africa;179
+046;Collado Mediano;Hombre;America del Central y del Caribe;14
+046;Collado Mediano;Hombre;America del Norte;16
+046;Collado Mediano;Hombre;America del Sur;92
+046;Collado Mediano;Hombre;ApAtridas;0
+046;Collado Mediano;Hombre;Asia;19
+046;Collado Mediano;Hombre;Oceania;2
+046;Collado Mediano;Hombre;Otros paises de America;0
+046;Collado Mediano;Hombre;Resto de Europa;20
+046;Collado Mediano;Hombre;Union Europea ;2994
+046;Collado Mediano;Mujer;Africa;148
+046;Collado Mediano;Mujer;America del Central y del Caribe;23
+046;Collado Mediano;Mujer;America del Norte;18
+046;Collado Mediano;Mujer;America del Sur;126
+046;Collado Mediano;Mujer;ApAtridas;0
+046;Collado Mediano;Mujer;Asia;13
+046;Collado Mediano;Mujer;Oceania;2
+046;Collado Mediano;Mujer;Otros paises de America;0
+046;Collado Mediano;Mujer;Resto de Europa;24
+046;Collado Mediano;Mujer;Union Europea ;2976
+047;Collado Villalba;Hombre;Africa;1399
+047;Collado Villalba;Hombre;America del Central y del Caribe;344
+047;Collado Villalba;Hombre;America del Norte;62
+047;Collado Villalba;Hombre;America del Sur;2779
+047;Collado Villalba;Hombre;ApAtridas;0
+047;Collado Villalba;Hombre;Asia;160
+047;Collado Villalba;Hombre;Oceania;5
+047;Collado Villalba;Hombre;Otros paises de America;0
+047;Collado Villalba;Hombre;Resto de Europa;159
+047;Collado Villalba;Hombre;Union Europea ;25361
+047;Collado Villalba;Mujer;Africa;1084
+047;Collado Villalba;Mujer;America del Central y del Caribe;483
+047;Collado Villalba;Mujer;America del Norte;93
+047;Collado Villalba;Mujer;America del Sur;3504
+047;Collado Villalba;Mujer;ApAtridas;0
+047;Collado Villalba;Mujer;Asia;191
+047;Collado Villalba;Mujer;Oceania;10
+047;Collado Villalba;Mujer;Otros paises de America;0
+047;Collado Villalba;Mujer;Resto de Europa;225
+047;Collado Villalba;Mujer;Union Europea ;26292
+043;Colmenar de Oreja;Hombre;Africa;62
+043;Colmenar de Oreja;Hombre;America del Central y del Caribe;6
+043;Colmenar de Oreja;Hombre;America del Norte;3
+043;Colmenar de Oreja;Hombre;America del Sur;96
+043;Colmenar de Oreja;Hombre;ApAtridas;0
+043;Colmenar de Oreja;Hombre;Asia;9
+043;Colmenar de Oreja;Hombre;Oceania;0
+043;Colmenar de Oreja;Hombre;Otros paises de America;0
+043;Colmenar de Oreja;Hombre;Resto de Europa;6
+043;Colmenar de Oreja;Hombre;Union Europea ;3777
+043;Colmenar de Oreja;Mujer;Africa;36
+043;Colmenar de Oreja;Mujer;America del Central y del Caribe;26
+043;Colmenar de Oreja;Mujer;America del Norte;10
+043;Colmenar de Oreja;Mujer;America del Sur;101
+043;Colmenar de Oreja;Mujer;ApAtridas;0
+043;Colmenar de Oreja;Mujer;Asia;8
+043;Colmenar de Oreja;Mujer;Oceania;1
+043;Colmenar de Oreja;Mujer;Otros paises de America;0
+043;Colmenar de Oreja;Mujer;Resto de Europa;12
+043;Colmenar de Oreja;Mujer;Union Europea ;3657
+042;Colmenar del Arroyo;Hombre;Africa;67
+042;Colmenar del Arroyo;Hombre;America del Central y del Caribe;2
+042;Colmenar del Arroyo;Hombre;America del Norte;3
+042;Colmenar del Arroyo;Hombre;America del Sur;32
+042;Colmenar del Arroyo;Hombre;ApAtridas;0
+042;Colmenar del Arroyo;Hombre;Asia;5
+042;Colmenar del Arroyo;Hombre;Oceania;0
+042;Colmenar del Arroyo;Hombre;Otros paises de America;0
+042;Colmenar del Arroyo;Hombre;Resto de Europa;2
+042;Colmenar del Arroyo;Hombre;Union Europea ;728
+042;Colmenar del Arroyo;Mujer;Africa;46
+042;Colmenar del Arroyo;Mujer;America del Central y del Caribe;4
+042;Colmenar del Arroyo;Mujer;America del Norte;0
+042;Colmenar del Arroyo;Mujer;America del Sur;48
+042;Colmenar del Arroyo;Mujer;ApAtridas;0
+042;Colmenar del Arroyo;Mujer;Asia;7
+042;Colmenar del Arroyo;Mujer;Oceania;0
+042;Colmenar del Arroyo;Mujer;Otros paises de America;0
+042;Colmenar del Arroyo;Mujer;Resto de Europa;1
+042;Colmenar del Arroyo;Mujer;Union Europea ;687
+045;Colmenar Viejo;Hombre;Africa;742
+045;Colmenar Viejo;Hombre;America del Central y del Caribe;241
+045;Colmenar Viejo;Hombre;America del Norte;77
+045;Colmenar Viejo;Hombre;America del Sur;1617
+045;Colmenar Viejo;Hombre;ApAtridas;0
+045;Colmenar Viejo;Hombre;Asia;176
+045;Colmenar Viejo;Hombre;Oceania;4
+045;Colmenar Viejo;Hombre;Otros paises de America;0
+045;Colmenar Viejo;Hombre;Resto de Europa;70
+045;Colmenar Viejo;Hombre;Union Europea ;21102
+045;Colmenar Viejo;Mujer;Africa;505
+045;Colmenar Viejo;Mujer;America del Central y del Caribe;358
+045;Colmenar Viejo;Mujer;America del Norte;110
+045;Colmenar Viejo;Mujer;America del Sur;2038
+045;Colmenar Viejo;Mujer;ApAtridas;0
+045;Colmenar Viejo;Mujer;Asia;152
+045;Colmenar Viejo;Mujer;Oceania;6
+045;Colmenar Viejo;Mujer;Otros paises de America;0
+045;Colmenar Viejo;Mujer;Resto de Europa;130
+045;Colmenar Viejo;Mujer;Union Europea ;21286
+044;Colmenarejo;Hombre;Africa;138
+044;Colmenarejo;Hombre;America del Central y del Caribe;20
+044;Colmenarejo;Hombre;America del Norte;17
+044;Colmenarejo;Hombre;America del Sur;238
+044;Colmenarejo;Hombre;ApAtridas;0
+044;Colmenarejo;Hombre;Asia;28
+044;Colmenarejo;Hombre;Oceania;2
+044;Colmenarejo;Hombre;Otros paises de America;1
+044;Colmenarejo;Hombre;Resto de Europa;17
+044;Colmenarejo;Hombre;Union Europea ;3973
+044;Colmenarejo;Mujer;Africa;95
+044;Colmenarejo;Mujer;America del Central y del Caribe;35
+044;Colmenarejo;Mujer;America del Norte;19
+044;Colmenarejo;Mujer;America del Sur;301
+044;Colmenarejo;Mujer;ApAtridas;0
+044;Colmenarejo;Mujer;Asia;28
+044;Colmenarejo;Mujer;Oceania;1
+044;Colmenarejo;Mujer;Otros paises de America;0
+044;Colmenarejo;Mujer;Resto de Europa;28
+044;Colmenarejo;Mujer;Union Europea ;4074
+048;Corpa;Hombre;Africa;3
+048;Corpa;Hombre;America del Central y del Caribe;5
+048;Corpa;Hombre;America del Norte;0
+048;Corpa;Hombre;America del Sur;7
+048;Corpa;Hombre;ApAtridas;0
+048;Corpa;Hombre;Asia;0
+048;Corpa;Hombre;Oceania;0
+048;Corpa;Hombre;Otros paises de America;0
+048;Corpa;Hombre;Resto de Europa;1
+048;Corpa;Hombre;Union Europea ;347
+048;Corpa;Mujer;Africa;1
+048;Corpa;Mujer;America del Central y del Caribe;2
+048;Corpa;Mujer;America del Norte;0
+048;Corpa;Mujer;America del Sur;12
+048;Corpa;Mujer;ApAtridas;0
+048;Corpa;Mujer;Asia;0
+048;Corpa;Mujer;Oceania;0
+048;Corpa;Mujer;Otros paises de America;0
+048;Corpa;Mujer;Resto de Europa;3
+048;Corpa;Mujer;Union Europea ;303
+049;Coslada;Hombre;Africa;308
+049;Coslada;Hombre;America del Central y del Caribe;140
+049;Coslada;Hombre;America del Norte;35
+049;Coslada;Hombre;America del Sur;800
+049;Coslada;Hombre;ApAtridas;0
+049;Coslada;Hombre;Asia;232
+049;Coslada;Hombre;Oceania;7
+049;Coslada;Hombre;Otros paises de America;0
+049;Coslada;Hombre;Resto de Europa;119
+049;Coslada;Hombre;Union Europea ;39141
+049;Coslada;Mujer;Africa;222
+049;Coslada;Mujer;America del Central y del Caribe;239
+049;Coslada;Mujer;America del Norte;48
+049;Coslada;Mujer;America del Sur;1037
+049;Coslada;Mujer;ApAtridas;0
+049;Coslada;Mujer;Asia;233
+049;Coslada;Mujer;Oceania;4
+049;Coslada;Mujer;Otros paises de America;0
+049;Coslada;Mujer;Resto de Europa;143
+049;Coslada;Mujer;Union Europea ;40301
+050;Cubas de la Sagra;Hombre;Africa;26
+050;Cubas de la Sagra;Hombre;America del Central y del Caribe;23
+050;Cubas de la Sagra;Hombre;America del Norte;2
+050;Cubas de la Sagra;Hombre;America del Sur;106
+050;Cubas de la Sagra;Hombre;ApAtridas;0
+050;Cubas de la Sagra;Hombre;Asia;16
+050;Cubas de la Sagra;Hombre;Oceania;1
+050;Cubas de la Sagra;Hombre;Otros paises de America;0
+050;Cubas de la Sagra;Hombre;Resto de Europa;10
+050;Cubas de la Sagra;Hombre;Union Europea ;2840
+050;Cubas de la Sagra;Mujer;Africa;22
+050;Cubas de la Sagra;Mujer;America del Central y del Caribe;29
+050;Cubas de la Sagra;Mujer;America del Norte;4
+050;Cubas de la Sagra;Mujer;America del Sur;136
+050;Cubas de la Sagra;Mujer;ApAtridas;0
+050;Cubas de la Sagra;Mujer;Asia;24
+050;Cubas de la Sagra;Mujer;Oceania;0
+050;Cubas de la Sagra;Mujer;Otros paises de America;0
+050;Cubas de la Sagra;Mujer;Resto de Europa;8
+050;Cubas de la Sagra;Mujer;Union Europea ;2865
+053;Daganzo de Arriba;Hombre;Africa;29
+053;Daganzo de Arriba;Hombre;America del Central y del Caribe;18
+053;Daganzo de Arriba;Hombre;America del Norte;21
+053;Daganzo de Arriba;Hombre;America del Sur;195
+053;Daganzo de Arriba;Hombre;ApAtridas;0
+053;Daganzo de Arriba;Hombre;Asia;16
+053;Daganzo de Arriba;Hombre;Oceania;1
+053;Daganzo de Arriba;Hombre;Otros paises de America;0
+053;Daganzo de Arriba;Hombre;Resto de Europa;14
+053;Daganzo de Arriba;Hombre;Union Europea ;4744
+053;Daganzo de Arriba;Mujer;Africa;28
+053;Daganzo de Arriba;Mujer;America del Central y del Caribe;45
+053;Daganzo de Arriba;Mujer;America del Norte;29
+053;Daganzo de Arriba;Mujer;America del Sur;217
+053;Daganzo de Arriba;Mujer;ApAtridas;0
+053;Daganzo de Arriba;Mujer;Asia;24
+053;Daganzo de Arriba;Mujer;Oceania;0
+053;Daganzo de Arriba;Mujer;Otros paises de America;0
+053;Daganzo de Arriba;Mujer;Resto de Europa;20
+053;Daganzo de Arriba;Mujer;Union Europea ;4680
+054;Escorial (El);Hombre;Africa;178
+054;Escorial (El);Hombre;America del Central y del Caribe;42
+054;Escorial (El);Hombre;America del Norte;40
+054;Escorial (El);Hombre;America del Sur;288
+054;Escorial (El);Hombre;ApAtridas;0
+054;Escorial (El);Hombre;Asia;40
+054;Escorial (El);Hombre;Oceania;6
+054;Escorial (El);Hombre;Otros paises de America;0
+054;Escorial (El);Hombre;Resto de Europa;131
+054;Escorial (El);Hombre;Union Europea ;6950
+054;Escorial (El);Mujer;Africa;122
+054;Escorial (El);Mujer;America del Central y del Caribe;80
+054;Escorial (El);Mujer;America del Norte;50
+054;Escorial (El);Mujer;America del Sur;397
+054;Escorial (El);Mujer;ApAtridas;0
+054;Escorial (El);Mujer;Asia;51
+054;Escorial (El);Mujer;Oceania;4
+054;Escorial (El);Mujer;Otros paises de America;0
+054;Escorial (El);Mujer;Resto de Europa;183
+054;Escorial (El);Mujer;Union Europea ;6997
+055;Estremera;Hombre;Africa;8
+055;Estremera;Hombre;America del Central y del Caribe;3
+055;Estremera;Hombre;America del Norte;2
+055;Estremera;Hombre;America del Sur;8
+055;Estremera;Hombre;ApAtridas;0
+055;Estremera;Hombre;Asia;3
+055;Estremera;Hombre;Oceania;0
+055;Estremera;Hombre;Otros paises de America;0
+055;Estremera;Hombre;Resto de Europa;0
+055;Estremera;Hombre;Union Europea ;616
+055;Estremera;Mujer;Africa;7
+055;Estremera;Mujer;America del Central y del Caribe;0
+055;Estremera;Mujer;America del Norte;3
+055;Estremera;Mujer;America del Sur;14
+055;Estremera;Mujer;ApAtridas;0
+055;Estremera;Mujer;Asia;1
+055;Estremera;Mujer;Oceania;0
+055;Estremera;Mujer;Otros paises de America;0
+055;Estremera;Mujer;Resto de Europa;0
+055;Estremera;Mujer;Union Europea ;596
+056;Fresnedillas de la Oliva;Hombre;Africa;120
+056;Fresnedillas de la Oliva;Hombre;America del Central y del Caribe;5
+056;Fresnedillas de la Oliva;Hombre;America del Norte;1
+056;Fresnedillas de la Oliva;Hombre;America del Sur;29
+056;Fresnedillas de la Oliva;Hombre;ApAtridas;0
+056;Fresnedillas de la Oliva;Hombre;Asia;2
+056;Fresnedillas de la Oliva;Hombre;Oceania;0
+056;Fresnedillas de la Oliva;Hombre;Otros paises de America;0
+056;Fresnedillas de la Oliva;Hombre;Resto de Europa;6
+056;Fresnedillas de la Oliva;Hombre;Union Europea ;629
+056;Fresnedillas de la Oliva;Mujer;Africa;92
+056;Fresnedillas de la Oliva;Mujer;America del Central y del Caribe;8
+056;Fresnedillas de la Oliva;Mujer;America del Norte;4
+056;Fresnedillas de la Oliva;Mujer;America del Sur;38
+056;Fresnedillas de la Oliva;Mujer;ApAtridas;0
+056;Fresnedillas de la Oliva;Mujer;Asia;1
+056;Fresnedillas de la Oliva;Mujer;Oceania;0
+056;Fresnedillas de la Oliva;Mujer;Otros paises de America;0
+056;Fresnedillas de la Oliva;Mujer;Resto de Europa;10
+056;Fresnedillas de la Oliva;Mujer;Union Europea ;605
+057;Fresno de Torote;Hombre;Africa;19
+057;Fresno de Torote;Hombre;America del Central y del Caribe;4
+057;Fresno de Torote;Hombre;America del Norte;2
+057;Fresno de Torote;Hombre;America del Sur;35
+057;Fresno de Torote;Hombre;ApAtridas;0
+057;Fresno de Torote;Hombre;Asia;1
+057;Fresno de Torote;Hombre;Oceania;0
+057;Fresno de Torote;Hombre;Otros paises de America;0
+057;Fresno de Torote;Hombre;Resto de Europa;6
+057;Fresno de Torote;Hombre;Union Europea ;1042
+057;Fresno de Torote;Mujer;Africa;9
+057;Fresno de Torote;Mujer;America del Central y del Caribe;11
+057;Fresno de Torote;Mujer;America del Norte;1
+057;Fresno de Torote;Mujer;America del Sur;46
+057;Fresno de Torote;Mujer;ApAtridas;0
+057;Fresno de Torote;Mujer;Asia;0
+057;Fresno de Torote;Mujer;Oceania;0
+057;Fresno de Torote;Mujer;Otros paises de America;0
+057;Fresno de Torote;Mujer;Resto de Europa;5
+057;Fresno de Torote;Mujer;Union Europea ;934
+058;Fuenlabrada;Hombre;Africa;4102
+058;Fuenlabrada;Hombre;America del Central y del Caribe;721
+058;Fuenlabrada;Hombre;America del Norte;47
+058;Fuenlabrada;Hombre;America del Sur;3688
+058;Fuenlabrada;Hombre;ApAtridas;0
+058;Fuenlabrada;Hombre;Asia;920
+058;Fuenlabrada;Hombre;Oceania;14
+058;Fuenlabrada;Hombre;Otros paises de America;0
+058;Fuenlabrada;Hombre;Resto de Europa;509
+058;Fuenlabrada;Hombre;Union Europea ;86236
+058;Fuenlabrada;Mujer;Africa;3500
+058;Fuenlabrada;Mujer;America del Central y del Caribe;1020
+058;Fuenlabrada;Mujer;America del Norte;85
+058;Fuenlabrada;Mujer;America del Sur;4476
+058;Fuenlabrada;Mujer;ApAtridas;0
+058;Fuenlabrada;Mujer;Asia;820
+058;Fuenlabrada;Mujer;Oceania;14
+058;Fuenlabrada;Mujer;Otros paises de America;0
+058;Fuenlabrada;Mujer;Resto de Europa;588
+058;Fuenlabrada;Mujer;Union Europea ;87928
+059;Fuente el Saz de Jarama;Hombre;Africa;117
+059;Fuente el Saz de Jarama;Hombre;America del Central y del Caribe;83
+059;Fuente el Saz de Jarama;Hombre;America del Norte;5
+059;Fuente el Saz de Jarama;Hombre;America del Sur;162
+059;Fuente el Saz de Jarama;Hombre;ApAtridas;0
+059;Fuente el Saz de Jarama;Hombre;Asia;22
+059;Fuente el Saz de Jarama;Hombre;Oceania;1
+059;Fuente el Saz de Jarama;Hombre;Otros paises de America;0
+059;Fuente el Saz de Jarama;Hombre;Resto de Europa;5
+059;Fuente el Saz de Jarama;Hombre;Union Europea ;2863
+059;Fuente el Saz de Jarama;Mujer;Africa;85
+059;Fuente el Saz de Jarama;Mujer;America del Central y del Caribe;80
+059;Fuente el Saz de Jarama;Mujer;America del Norte;11
+059;Fuente el Saz de Jarama;Mujer;America del Sur;208
+059;Fuente el Saz de Jarama;Mujer;ApAtridas;0
+059;Fuente el Saz de Jarama;Mujer;Asia;23
+059;Fuente el Saz de Jarama;Mujer;Oceania;2
+059;Fuente el Saz de Jarama;Mujer;Otros paises de America;0
+059;Fuente el Saz de Jarama;Mujer;Resto de Europa;9
+059;Fuente el Saz de Jarama;Mujer;Union Europea ;2748
+060;Fuentidueña de Tajo;Hombre;Africa;7
+060;Fuentidueña de Tajo;Hombre;America del Central y del Caribe;7
+060;Fuentidueña de Tajo;Hombre;America del Norte;2
+060;Fuentidueña de Tajo;Hombre;America del Sur;32
+060;Fuentidueña de Tajo;Hombre;ApAtridas;0
+060;Fuentidueña de Tajo;Hombre;Asia;3
+060;Fuentidueña de Tajo;Hombre;Oceania;0
+060;Fuentidueña de Tajo;Hombre;Otros paises de America;0
+060;Fuentidueña de Tajo;Hombre;Resto de Europa;3
+060;Fuentidueña de Tajo;Hombre;Union Europea ;949
+060;Fuentidueña de Tajo;Mujer;Africa;6
+060;Fuentidueña de Tajo;Mujer;America del Central y del Caribe;13
+060;Fuentidueña de Tajo;Mujer;America del Norte;1
+060;Fuentidueña de Tajo;Mujer;America del Sur;44
+060;Fuentidueña de Tajo;Mujer;ApAtridas;0
+060;Fuentidueña de Tajo;Mujer;Asia;3
+060;Fuentidueña de Tajo;Mujer;Oceania;0
+060;Fuentidueña de Tajo;Mujer;Otros paises de America;0
+060;Fuentidueña de Tajo;Mujer;Resto de Europa;3
+060;Fuentidueña de Tajo;Mujer;Union Europea ;907
+061;Galapagar;Hombre;Africa;660
+061;Galapagar;Hombre;America del Central y del Caribe;152
+061;Galapagar;Hombre;America del Norte;53
+061;Galapagar;Hombre;America del Sur;1420
+061;Galapagar;Hombre;ApAtridas;0
+061;Galapagar;Hombre;Asia;84
+061;Galapagar;Hombre;Oceania;5
+061;Galapagar;Hombre;Otros paises de America;0
+061;Galapagar;Hombre;Resto de Europa;122
+061;Galapagar;Hombre;Union Europea ;13652
+061;Galapagar;Mujer;Africa;546
+061;Galapagar;Mujer;America del Central y del Caribe;331
+061;Galapagar;Mujer;America del Norte;118
+061;Galapagar;Mujer;America del Sur;1868
+061;Galapagar;Mujer;ApAtridas;0
+061;Galapagar;Mujer;Asia;105
+061;Galapagar;Mujer;Oceania;2
+061;Galapagar;Mujer;Otros paises de America;0
+061;Galapagar;Mujer;Resto de Europa;172
+061;Galapagar;Mujer;Union Europea ;13613
+062;Garganta de los Montes;Hombre;Africa;2
+062;Garganta de los Montes;Hombre;America del Central y del Caribe;0
+062;Garganta de los Montes;Hombre;America del Norte;0
+062;Garganta de los Montes;Hombre;America del Sur;3
+062;Garganta de los Montes;Hombre;ApAtridas;0
+062;Garganta de los Montes;Hombre;Asia;0
+062;Garganta de los Montes;Hombre;Oceania;0
+062;Garganta de los Montes;Hombre;Otros paises de America;0
+062;Garganta de los Montes;Hombre;Resto de Europa;1
+062;Garganta de los Montes;Hombre;Union Europea ;175
+062;Garganta de los Montes;Mujer;Africa;3
+062;Garganta de los Montes;Mujer;America del Central y del Caribe;0
+062;Garganta de los Montes;Mujer;America del Norte;0
+062;Garganta de los Montes;Mujer;America del Sur;3
+062;Garganta de los Montes;Mujer;ApAtridas;0
+062;Garganta de los Montes;Mujer;Asia;0
+062;Garganta de los Montes;Mujer;Oceania;0
+062;Garganta de los Montes;Mujer;Otros paises de America;0
+062;Garganta de los Montes;Mujer;Resto de Europa;0
+062;Garganta de los Montes;Mujer;Union Europea ;144
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Hombre;Africa;4
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Hombre;America del Central y del Caribe;1
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Hombre;America del Norte;0
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Hombre;America del Sur;5
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Hombre;ApAtridas;0
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Hombre;Asia;0
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Hombre;Oceania;0
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Hombre;Otros paises de America;0
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Hombre;Resto de Europa;0
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Hombre;Union Europea ;166
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Mujer;Africa;2
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Mujer;America del Central y del Caribe;0
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Mujer;America del Norte;0
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Mujer;America del Sur;11
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Mujer;ApAtridas;0
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Mujer;Asia;0
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Mujer;Oceania;0
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Mujer;Otros paises de America;0
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Mujer;Resto de Europa;1
+063;Gargantilla del Lozoya y Pinilla de Buitrago;Mujer;Union Europea ;125
+064;Gascones;Hombre;Africa;1
+064;Gascones;Hombre;America del Central y del Caribe;0
+064;Gascones;Hombre;America del Norte;0
+064;Gascones;Hombre;America del Sur;1
+064;Gascones;Hombre;ApAtridas;0
+064;Gascones;Hombre;Asia;0
+064;Gascones;Hombre;Oceania;0
+064;Gascones;Hombre;Otros paises de America;0
+064;Gascones;Hombre;Resto de Europa;0
+064;Gascones;Hombre;Union Europea ;103
+064;Gascones;Mujer;Africa;1
+064;Gascones;Mujer;America del Central y del Caribe;0
+064;Gascones;Mujer;America del Norte;0
+064;Gascones;Mujer;America del Sur;3
+064;Gascones;Mujer;ApAtridas;0
+064;Gascones;Mujer;Asia;0
+064;Gascones;Mujer;Oceania;0
+064;Gascones;Mujer;Otros paises de America;0
+064;Gascones;Mujer;Resto de Europa;0
+064;Gascones;Mujer;Union Europea ;67
+065;Getafe;Hombre;Africa;2227
+065;Getafe;Hombre;America del Central y del Caribe;731
+065;Getafe;Hombre;America del Norte;117
+065;Getafe;Hombre;America del Sur;4423
+065;Getafe;Hombre;ApAtridas;0
+065;Getafe;Hombre;Asia;1133
+065;Getafe;Hombre;Oceania;24
+065;Getafe;Hombre;Otros paises de America;0
+065;Getafe;Hombre;Resto de Europa;774
+065;Getafe;Hombre;Union Europea ;77862
+065;Getafe;Mujer;Africa;1743
+065;Getafe;Mujer;America del Central y del Caribe;1063
+065;Getafe;Mujer;America del Norte;169
+065;Getafe;Mujer;America del Sur;5371
+065;Getafe;Mujer;ApAtridas;0
+065;Getafe;Mujer;Asia;1200
+065;Getafe;Mujer;Oceania;11
+065;Getafe;Mujer;Otros paises de America;0
+065;Getafe;Mujer;Resto de Europa;965
+065;Getafe;Mujer;Union Europea ;80468
+066;Griñon;Hombre;Africa;111
+066;Griñon;Hombre;America del Central y del Caribe;20
+066;Griñon;Hombre;America del Norte;6
+066;Griñon;Hombre;America del Sur;125
+066;Griñon;Hombre;ApAtridas;0
+066;Griñon;Hombre;Asia;41
+066;Griñon;Hombre;Oceania;0
+066;Griñon;Hombre;Otros paises de America;0
+066;Griñon;Hombre;Resto de Europa;15
+066;Griñon;Hombre;Union Europea ;4683
+066;Griñon;Mujer;Africa;71
+066;Griñon;Mujer;America del Central y del Caribe;28
+066;Griñon;Mujer;America del Norte;12
+066;Griñon;Mujer;America del Sur;166
+066;Griñon;Mujer;ApAtridas;0
+066;Griñon;Mujer;Asia;46
+066;Griñon;Mujer;Oceania;2
+066;Griñon;Mujer;Otros paises de America;0
+066;Griñon;Mujer;Resto de Europa;18
+066;Griñon;Mujer;Union Europea ;4716
+067;Guadalix de la Sierra;Hombre;Africa;170
+067;Guadalix de la Sierra;Hombre;America del Central y del Caribe;39
+067;Guadalix de la Sierra;Hombre;America del Norte;3
+067;Guadalix de la Sierra;Hombre;America del Sur;84
+067;Guadalix de la Sierra;Hombre;ApAtridas;0
+067;Guadalix de la Sierra;Hombre;Asia;14
+067;Guadalix de la Sierra;Hombre;Oceania;2
+067;Guadalix de la Sierra;Hombre;Otros paises de America;0
+067;Guadalix de la Sierra;Hombre;Resto de Europa;22
+067;Guadalix de la Sierra;Hombre;Union Europea ;2694
+067;Guadalix de la Sierra;Mujer;Africa;138
+067;Guadalix de la Sierra;Mujer;America del Central y del Caribe;64
+067;Guadalix de la Sierra;Mujer;America del Norte;10
+067;Guadalix de la Sierra;Mujer;America del Sur;122
+067;Guadalix de la Sierra;Mujer;ApAtridas;0
+067;Guadalix de la Sierra;Mujer;Asia;20
+067;Guadalix de la Sierra;Mujer;Oceania;0
+067;Guadalix de la Sierra;Mujer;Otros paises de America;0
+067;Guadalix de la Sierra;Mujer;Resto de Europa;22
+067;Guadalix de la Sierra;Mujer;Union Europea ;2645
+068;Guadarrama;Hombre;Africa;238
+068;Guadarrama;Hombre;America del Central y del Caribe;39
+068;Guadarrama;Hombre;America del Norte;17
+068;Guadarrama;Hombre;America del Sur;336
+068;Guadarrama;Hombre;ApAtridas;0
+068;Guadarrama;Hombre;Asia;27
+068;Guadarrama;Hombre;Oceania;1
+068;Guadarrama;Hombre;Otros paises de America;0
+068;Guadarrama;Hombre;Resto de Europa;43
+068;Guadarrama;Hombre;Union Europea ;6985
+068;Guadarrama;Mujer;Africa;181
+068;Guadarrama;Mujer;America del Central y del Caribe;83
+068;Guadarrama;Mujer;America del Norte;26
+068;Guadarrama;Mujer;America del Sur;432
+068;Guadarrama;Mujer;ApAtridas;0
+068;Guadarrama;Mujer;Asia;37
+068;Guadarrama;Mujer;Oceania;0
+068;Guadarrama;Mujer;Otros paises de America;0
+068;Guadarrama;Mujer;Resto de Europa;56
+068;Guadarrama;Mujer;Union Europea ;7118
+069;Hiruela (La);Hombre;Africa;0
+069;Hiruela (La);Hombre;America del Central y del Caribe;0
+069;Hiruela (La);Hombre;America del Norte;0
+069;Hiruela (La);Hombre;America del Sur;0
+069;Hiruela (La);Hombre;ApAtridas;0
+069;Hiruela (La);Hombre;Asia;0
+069;Hiruela (La);Hombre;Oceania;0
+069;Hiruela (La);Hombre;Otros paises de America;0
+069;Hiruela (La);Hombre;Resto de Europa;0
+069;Hiruela (La);Hombre;Union Europea ;33
+069;Hiruela (La);Mujer;Africa;0
+069;Hiruela (La);Mujer;America del Central y del Caribe;0
+069;Hiruela (La);Mujer;America del Norte;0
+069;Hiruela (La);Mujer;America del Sur;0
+069;Hiruela (La);Mujer;ApAtridas;0
+069;Hiruela (La);Mujer;Asia;0
+069;Hiruela (La);Mujer;Oceania;0
+069;Hiruela (La);Mujer;Otros paises de America;0
+069;Hiruela (La);Mujer;Resto de Europa;0
+069;Hiruela (La);Mujer;Union Europea ;19
+070;Horcajo de la Sierra-Aoslos;Hombre;Africa;2
+070;Horcajo de la Sierra-Aoslos;Hombre;America del Central y del Caribe;1
+070;Horcajo de la Sierra-Aoslos;Hombre;America del Norte;0
+070;Horcajo de la Sierra-Aoslos;Hombre;America del Sur;1
+070;Horcajo de la Sierra-Aoslos;Hombre;ApAtridas;0
+070;Horcajo de la Sierra-Aoslos;Hombre;Asia;0
+070;Horcajo de la Sierra-Aoslos;Hombre;Oceania;0
+070;Horcajo de la Sierra-Aoslos;Hombre;Otros paises de America;0
+070;Horcajo de la Sierra-Aoslos;Hombre;Resto de Europa;0
+070;Horcajo de la Sierra-Aoslos;Hombre;Union Europea ;74
+070;Horcajo de la Sierra-Aoslos;Mujer;Africa;0
+070;Horcajo de la Sierra-Aoslos;Mujer;America del Central y del Caribe;0
+070;Horcajo de la Sierra-Aoslos;Mujer;America del Norte;0
+070;Horcajo de la Sierra-Aoslos;Mujer;America del Sur;1
+070;Horcajo de la Sierra-Aoslos;Mujer;ApAtridas;0
+070;Horcajo de la Sierra-Aoslos;Mujer;Asia;0
+070;Horcajo de la Sierra-Aoslos;Mujer;Oceania;0
+070;Horcajo de la Sierra-Aoslos;Mujer;Otros paises de America;0
+070;Horcajo de la Sierra-Aoslos;Mujer;Resto de Europa;0
+070;Horcajo de la Sierra-Aoslos;Mujer;Union Europea ;63
+071;Horcajuelo de la Sierra;Hombre;Africa;0
+071;Horcajuelo de la Sierra;Hombre;America del Central y del Caribe;0
+071;Horcajuelo de la Sierra;Hombre;America del Norte;0
+071;Horcajuelo de la Sierra;Hombre;America del Sur;1
+071;Horcajuelo de la Sierra;Hombre;ApAtridas;0
+071;Horcajuelo de la Sierra;Hombre;Asia;0
+071;Horcajuelo de la Sierra;Hombre;Oceania;0
+071;Horcajuelo de la Sierra;Hombre;Otros paises de America;0
+071;Horcajuelo de la Sierra;Hombre;Resto de Europa;1
+071;Horcajuelo de la Sierra;Hombre;Union Europea ;41
+071;Horcajuelo de la Sierra;Mujer;Africa;0
+071;Horcajuelo de la Sierra;Mujer;America del Central y del Caribe;0
+071;Horcajuelo de la Sierra;Mujer;America del Norte;0
+071;Horcajuelo de la Sierra;Mujer;America del Sur;2
+071;Horcajuelo de la Sierra;Mujer;ApAtridas;0
+071;Horcajuelo de la Sierra;Mujer;Asia;0
+071;Horcajuelo de la Sierra;Mujer;Oceania;0
+071;Horcajuelo de la Sierra;Mujer;Otros paises de America;0
+071;Horcajuelo de la Sierra;Mujer;Resto de Europa;0
+071;Horcajuelo de la Sierra;Mujer;Union Europea ;43
+072;Hoyo de Manzanares;Hombre;Africa;118
+072;Hoyo de Manzanares;Hombre;America del Central y del Caribe;53
+072;Hoyo de Manzanares;Hombre;America del Norte;30
+072;Hoyo de Manzanares;Hombre;America del Sur;224
+072;Hoyo de Manzanares;Hombre;ApAtridas;0
+072;Hoyo de Manzanares;Hombre;Asia;9
+072;Hoyo de Manzanares;Hombre;Oceania;0
+072;Hoyo de Manzanares;Hombre;Otros paises de America;0
+072;Hoyo de Manzanares;Hombre;Resto de Europa;15
+072;Hoyo de Manzanares;Hombre;Union Europea ;3588
+072;Hoyo de Manzanares;Mujer;Africa;83
+072;Hoyo de Manzanares;Mujer;America del Central y del Caribe;67
+072;Hoyo de Manzanares;Mujer;America del Norte;31
+072;Hoyo de Manzanares;Mujer;America del Sur;313
+072;Hoyo de Manzanares;Mujer;ApAtridas;0
+072;Hoyo de Manzanares;Mujer;Asia;19
+072;Hoyo de Manzanares;Mujer;Oceania;1
+072;Hoyo de Manzanares;Mujer;Otros paises de America;0
+072;Hoyo de Manzanares;Mujer;Resto de Europa;26
+072;Hoyo de Manzanares;Mujer;Union Europea ;3453
+073;Humanes de Madrid;Hombre;Africa;718
+073;Humanes de Madrid;Hombre;America del Central y del Caribe;66
+073;Humanes de Madrid;Hombre;America del Norte;6
+073;Humanes de Madrid;Hombre;America del Sur;324
+073;Humanes de Madrid;Hombre;ApAtridas;0
+073;Humanes de Madrid;Hombre;Asia;113
+073;Humanes de Madrid;Hombre;Oceania;2
+073;Humanes de Madrid;Hombre;Otros paises de America;0
+073;Humanes de Madrid;Hombre;Resto de Europa;51
+073;Humanes de Madrid;Hombre;Union Europea ;8579
+073;Humanes de Madrid;Mujer;Africa;525
+073;Humanes de Madrid;Mujer;America del Central y del Caribe;116
+073;Humanes de Madrid;Mujer;America del Norte;8
+073;Humanes de Madrid;Mujer;America del Sur;388
+073;Humanes de Madrid;Mujer;ApAtridas;0
+073;Humanes de Madrid;Mujer;Asia;98
+073;Humanes de Madrid;Mujer;Oceania;2
+073;Humanes de Madrid;Mujer;Otros paises de America;0
+073;Humanes de Madrid;Mujer;Resto de Europa;37
+073;Humanes de Madrid;Mujer;Union Europea ;8574
+074;Leganes;Hombre;Africa;2663
+074;Leganes;Hombre;America del Central y del Caribe;729
+074;Leganes;Hombre;America del Norte;91
+074;Leganes;Hombre;America del Sur;4550
+074;Leganes;Hombre;ApAtridas;0
+074;Leganes;Hombre;Asia;634
+074;Leganes;Hombre;Oceania;15
+074;Leganes;Hombre;Otros paises de America;0
+074;Leganes;Hombre;Resto de Europa;680
+074;Leganes;Hombre;Union Europea ;81977
+074;Leganes;Mujer;Africa;2099
+074;Leganes;Mujer;America del Central y del Caribe;1103
+074;Leganes;Mujer;America del Norte;94
+074;Leganes;Mujer;America del Sur;5596
+074;Leganes;Mujer;ApAtridas;0
+074;Leganes;Mujer;Asia;582
+074;Leganes;Mujer;Oceania;18
+074;Leganes;Mujer;Otros paises de America;0
+074;Leganes;Mujer;Resto de Europa;844
+074;Leganes;Mujer;Union Europea ;86042
+075;Loeches;Hombre;Africa;116
+075;Loeches;Hombre;America del Central y del Caribe;22
+075;Loeches;Hombre;America del Norte;21
+075;Loeches;Hombre;America del Sur;116
+075;Loeches;Hombre;ApAtridas;0
+075;Loeches;Hombre;Asia;21
+075;Loeches;Hombre;Oceania;2
+075;Loeches;Hombre;Otros paises de America;0
+075;Loeches;Hombre;Resto de Europa;13
+075;Loeches;Hombre;Union Europea ;3993
+075;Loeches;Mujer;Africa;79
+075;Loeches;Mujer;America del Central y del Caribe;37
+075;Loeches;Mujer;America del Norte;26
+075;Loeches;Mujer;America del Sur;186
+075;Loeches;Mujer;ApAtridas;0
+075;Loeches;Mujer;Asia;22
+075;Loeches;Mujer;Oceania;1
+075;Loeches;Mujer;Otros paises de America;0
+075;Loeches;Mujer;Resto de Europa;11
+075;Loeches;Mujer;Union Europea ;3859
+076;Lozoya;Hombre;Africa;1
+076;Lozoya;Hombre;America del Central y del Caribe;0
+076;Lozoya;Hombre;America del Norte;1
+076;Lozoya;Hombre;America del Sur;1
+076;Lozoya;Hombre;ApAtridas;0
+076;Lozoya;Hombre;Asia;0
+076;Lozoya;Hombre;Oceania;0
+076;Lozoya;Hombre;Otros paises de America;0
+076;Lozoya;Hombre;Resto de Europa;0
+076;Lozoya;Hombre;Union Europea ;289
+076;Lozoya;Mujer;Africa;0
+076;Lozoya;Mujer;America del Central y del Caribe;1
+076;Lozoya;Mujer;America del Norte;0
+076;Lozoya;Mujer;America del Sur;10
+076;Lozoya;Mujer;ApAtridas;0
+076;Lozoya;Mujer;Asia;0
+076;Lozoya;Mujer;Oceania;0
+076;Lozoya;Mujer;Otros paises de America;0
+076;Lozoya;Mujer;Resto de Europa;2
+076;Lozoya;Mujer;Union Europea ;254
+901;Lozoyuela-Navas-Sieteiglesias;Hombre;Africa;31
+901;Lozoyuela-Navas-Sieteiglesias;Hombre;America del Central y del Caribe;7
+901;Lozoyuela-Navas-Sieteiglesias;Hombre;America del Norte;2
+901;Lozoyuela-Navas-Sieteiglesias;Hombre;America del Sur;9
+901;Lozoyuela-Navas-Sieteiglesias;Hombre;ApAtridas;0
+901;Lozoyuela-Navas-Sieteiglesias;Hombre;Asia;1
+901;Lozoyuela-Navas-Sieteiglesias;Hombre;Oceania;0
+901;Lozoyuela-Navas-Sieteiglesias;Hombre;Otros paises de America;0
+901;Lozoyuela-Navas-Sieteiglesias;Hombre;Resto de Europa;0
+901;Lozoyuela-Navas-Sieteiglesias;Hombre;Union Europea ;599
+901;Lozoyuela-Navas-Sieteiglesias;Mujer;Africa;14
+901;Lozoyuela-Navas-Sieteiglesias;Mujer;America del Central y del Caribe;5
+901;Lozoyuela-Navas-Sieteiglesias;Mujer;America del Norte;1
+901;Lozoyuela-Navas-Sieteiglesias;Mujer;America del Sur;9
+901;Lozoyuela-Navas-Sieteiglesias;Mujer;ApAtridas;0
+901;Lozoyuela-Navas-Sieteiglesias;Mujer;Asia;1
+901;Lozoyuela-Navas-Sieteiglesias;Mujer;Oceania;0
+901;Lozoyuela-Navas-Sieteiglesias;Mujer;Otros paises de America;0
+901;Lozoyuela-Navas-Sieteiglesias;Mujer;Resto de Europa;0
+901;Lozoyuela-Navas-Sieteiglesias;Mujer;Union Europea ;558
+078;Madarcos;Hombre;Africa;0
+078;Madarcos;Hombre;America del Central y del Caribe;0
+078;Madarcos;Hombre;America del Norte;0
+078;Madarcos;Hombre;America del Sur;1
+078;Madarcos;Hombre;ApAtridas;0
+078;Madarcos;Hombre;Asia;0
+078;Madarcos;Hombre;Oceania;0
+078;Madarcos;Hombre;Otros paises de America;0
+078;Madarcos;Hombre;Resto de Europa;0
+078;Madarcos;Hombre;Union Europea ;28
+078;Madarcos;Mujer;Africa;0
+078;Madarcos;Mujer;America del Central y del Caribe;0
+078;Madarcos;Mujer;America del Norte;0
+078;Madarcos;Mujer;America del Sur;1
+078;Madarcos;Mujer;ApAtridas;0
+078;Madarcos;Mujer;Asia;0
+078;Madarcos;Mujer;Oceania;0
+078;Madarcos;Mujer;Otros paises de America;0
+078;Madarcos;Mujer;Resto de Europa;0
+078;Madarcos;Mujer;Union Europea ;16
+079;Madrid;Hombre;Africa;26061
+079;Madrid;Hombre;America del Central y del Caribe;30540
+079;Madrid;Hombre;America del Norte;8665
+079;Madrid;Hombre;America del Sur;129800
+079;Madrid;Hombre;ApAtridas;0
+079;Madrid;Hombre;Asia;32011
+079;Madrid;Hombre;Oceania;403
+079;Madrid;Hombre;Otros paises de America;1
+079;Madrid;Hombre;Resto de Europa;8364
+079;Madrid;Hombre;Union Europea ;1244702
+079;Madrid;Mujer;Africa;21315
+079;Madrid;Mujer;America del Central y del Caribe;49269
+079;Madrid;Mujer;America del Norte;11070
+079;Madrid;Mujer;America del Sur;171579
+079;Madrid;Mujer;ApAtridas;0
+079;Madrid;Mujer;Asia;34391
+079;Madrid;Mujer;Oceania;423
+079;Madrid;Mujer;Otros paises de America;0
+079;Madrid;Mujer;Resto de Europa;12752
+079;Madrid;Mujer;Union Europea ;1401512
+080;Majadahonda;Hombre;Africa;450
+080;Majadahonda;Hombre;America del Central y del Caribe;394
+080;Majadahonda;Hombre;America del Norte;291
+080;Majadahonda;Hombre;America del Sur;2855
+080;Majadahonda;Hombre;ApAtridas;0
+080;Majadahonda;Hombre;Asia;322
+080;Majadahonda;Hombre;Oceania;9
+080;Majadahonda;Hombre;Otros paises de America;0
+080;Majadahonda;Hombre;Resto de Europa;103
+080;Majadahonda;Hombre;Union Europea ;29385
+080;Majadahonda;Mujer;Africa;400
+080;Majadahonda;Mujer;America del Central y del Caribe;976
+080;Majadahonda;Mujer;America del Norte;414
+080;Majadahonda;Mujer;America del Sur;4058
+080;Majadahonda;Mujer;ApAtridas;0
+080;Majadahonda;Mujer;Asia;467
+080;Majadahonda;Mujer;Oceania;7
+080;Majadahonda;Mujer;Otros paises de America;1
+080;Majadahonda;Mujer;Resto de Europa;199
+080;Majadahonda;Mujer;Union Europea ;30965
+082;Manzanares el Real;Hombre;Africa;102
+082;Manzanares el Real;Hombre;America del Central y del Caribe;23
+082;Manzanares el Real;Hombre;America del Norte;18
+082;Manzanares el Real;Hombre;America del Sur;222
+082;Manzanares el Real;Hombre;ApAtridas;0
+082;Manzanares el Real;Hombre;Asia;21
+082;Manzanares el Real;Hombre;Oceania;1
+082;Manzanares el Real;Hombre;Otros paises de America;0
+082;Manzanares el Real;Hombre;Resto de Europa;31
+082;Manzanares el Real;Hombre;Union Europea ;3890
+082;Manzanares el Real;Mujer;Africa;74
+082;Manzanares el Real;Mujer;America del Central y del Caribe;30
+082;Manzanares el Real;Mujer;America del Norte;22
+082;Manzanares el Real;Mujer;America del Sur;263
+082;Manzanares el Real;Mujer;ApAtridas;0
+082;Manzanares el Real;Mujer;Asia;19
+082;Manzanares el Real;Mujer;Oceania;1
+082;Manzanares el Real;Mujer;Otros paises de America;0
+082;Manzanares el Real;Mujer;Resto de Europa;46
+082;Manzanares el Real;Mujer;Union Europea ;3737
+083;Meco;Hombre;Africa;88
+083;Meco;Hombre;America del Central y del Caribe;40
+083;Meco;Hombre;America del Norte;15
+083;Meco;Hombre;America del Sur;226
+083;Meco;Hombre;ApAtridas;0
+083;Meco;Hombre;Asia;42
+083;Meco;Hombre;Oceania;0
+083;Meco;Hombre;Otros paises de America;0
+083;Meco;Hombre;Resto de Europa;41
+083;Meco;Hombre;Union Europea ;6407
+083;Meco;Mujer;Africa;81
+083;Meco;Mujer;America del Central y del Caribe;49
+083;Meco;Mujer;America del Norte;17
+083;Meco;Mujer;America del Sur;281
+083;Meco;Mujer;ApAtridas;0
+083;Meco;Mujer;Asia;43
+083;Meco;Mujer;Oceania;0
+083;Meco;Mujer;Otros paises de America;0
+083;Meco;Mujer;Resto de Europa;45
+083;Meco;Mujer;Union Europea ;6193
+084;Mejorada del Campo;Hombre;Africa;138
+084;Mejorada del Campo;Hombre;America del Central y del Caribe;55
+084;Mejorada del Campo;Hombre;America del Norte;15
+084;Mejorada del Campo;Hombre;America del Sur;318
+084;Mejorada del Campo;Hombre;ApAtridas;0
+084;Mejorada del Campo;Hombre;Asia;53
+084;Mejorada del Campo;Hombre;Oceania;2
+084;Mejorada del Campo;Hombre;Otros paises de America;0
+084;Mejorada del Campo;Hombre;Resto de Europa;29
+084;Mejorada del Campo;Hombre;Union Europea ;10835
+084;Mejorada del Campo;Mujer;Africa;125
+084;Mejorada del Campo;Mujer;America del Central y del Caribe;100
+084;Mejorada del Campo;Mujer;America del Norte;13
+084;Mejorada del Campo;Mujer;America del Sur;398
+084;Mejorada del Campo;Mujer;ApAtridas;0
+084;Mejorada del Campo;Mujer;Asia;48
+084;Mejorada del Campo;Mujer;Oceania;2
+084;Mejorada del Campo;Mujer;Otros paises de America;0
+084;Mejorada del Campo;Mujer;Resto de Europa;29
+084;Mejorada del Campo;Mujer;Union Europea ;10788
+085;Miraflores de la Sierra;Hombre;Africa;179
+085;Miraflores de la Sierra;Hombre;America del Central y del Caribe;29
+085;Miraflores de la Sierra;Hombre;America del Norte;6
+085;Miraflores de la Sierra;Hombre;America del Sur;131
+085;Miraflores de la Sierra;Hombre;ApAtridas;0
+085;Miraflores de la Sierra;Hombre;Asia;7
+085;Miraflores de la Sierra;Hombre;Oceania;2
+085;Miraflores de la Sierra;Hombre;Otros paises de America;0
+085;Miraflores de la Sierra;Hombre;Resto de Europa;22
+085;Miraflores de la Sierra;Hombre;Union Europea ;2621
+085;Miraflores de la Sierra;Mujer;Africa;118
+085;Miraflores de la Sierra;Mujer;America del Central y del Caribe;46
+085;Miraflores de la Sierra;Mujer;America del Norte;5
+085;Miraflores de la Sierra;Mujer;America del Sur;175
+085;Miraflores de la Sierra;Mujer;ApAtridas;0
+085;Miraflores de la Sierra;Mujer;Asia;9
+085;Miraflores de la Sierra;Mujer;Oceania;2
+085;Miraflores de la Sierra;Mujer;Otros paises de America;0
+085;Miraflores de la Sierra;Mujer;Resto de Europa;23
+085;Miraflores de la Sierra;Mujer;Union Europea ;2442
+086;Molar (El);Hombre;Africa;175
+086;Molar (El);Hombre;America del Central y del Caribe;71
+086;Molar (El);Hombre;America del Norte;7
+086;Molar (El);Hombre;America del Sur;289
+086;Molar (El);Hombre;ApAtridas;0
+086;Molar (El);Hombre;Asia;44
+086;Molar (El);Hombre;Oceania;1
+086;Molar (El);Hombre;Otros paises de America;0
+086;Molar (El);Hombre;Resto de Europa;43
+086;Molar (El);Hombre;Union Europea ;3649
+086;Molar (El);Mujer;Africa;139
+086;Molar (El);Mujer;America del Central y del Caribe;105
+086;Molar (El);Mujer;America del Norte;14
+086;Molar (El);Mujer;America del Sur;371
+086;Molar (El);Mujer;ApAtridas;0
+086;Molar (El);Mujer;Asia;29
+086;Molar (El);Mujer;Oceania;0
+086;Molar (El);Mujer;Otros paises de America;0
+086;Molar (El);Mujer;Resto de Europa;63
+086;Molar (El);Mujer;Union Europea ;3491
+087;Molinos (Los);Hombre;Africa;63
+087;Molinos (Los);Hombre;America del Central y del Caribe;7
+087;Molinos (Los);Hombre;America del Norte;4
+087;Molinos (Los);Hombre;America del Sur;74
+087;Molinos (Los);Hombre;ApAtridas;0
+087;Molinos (Los);Hombre;Asia;8
+087;Molinos (Los);Hombre;Oceania;0
+087;Molinos (Los);Hombre;Otros paises de America;0
+087;Molinos (Los);Hombre;Resto de Europa;4
+087;Molinos (Los);Hombre;Union Europea ;1985
+087;Molinos (Los);Mujer;Africa;48
+087;Molinos (Los);Mujer;America del Central y del Caribe;9
+087;Molinos (Los);Mujer;America del Norte;10
+087;Molinos (Los);Mujer;America del Sur;93
+087;Molinos (Los);Mujer;ApAtridas;0
+087;Molinos (Los);Mujer;Asia;10
+087;Molinos (Los);Mujer;Oceania;0
+087;Molinos (Los);Mujer;Otros paises de America;0
+087;Molinos (Los);Mujer;Resto de Europa;7
+087;Molinos (Los);Mujer;Union Europea ;2023
+088;Montejo de la Sierra;Hombre;Africa;5
+088;Montejo de la Sierra;Hombre;America del Central y del Caribe;0
+088;Montejo de la Sierra;Hombre;America del Norte;0
+088;Montejo de la Sierra;Hombre;America del Sur;7
+088;Montejo de la Sierra;Hombre;ApAtridas;0
+088;Montejo de la Sierra;Hombre;Asia;0
+088;Montejo de la Sierra;Hombre;Oceania;0
+088;Montejo de la Sierra;Hombre;Otros paises de America;0
+088;Montejo de la Sierra;Hombre;Resto de Europa;0
+088;Montejo de la Sierra;Hombre;Union Europea ;169
+088;Montejo de la Sierra;Mujer;Africa;2
+088;Montejo de la Sierra;Mujer;America del Central y del Caribe;0
+088;Montejo de la Sierra;Mujer;America del Norte;0
+088;Montejo de la Sierra;Mujer;America del Sur;10
+088;Montejo de la Sierra;Mujer;ApAtridas;0
+088;Montejo de la Sierra;Mujer;Asia;0
+088;Montejo de la Sierra;Mujer;Oceania;0
+088;Montejo de la Sierra;Mujer;Otros paises de America;0
+088;Montejo de la Sierra;Mujer;Resto de Europa;0
+088;Montejo de la Sierra;Mujer;Union Europea ;163
+089;Moraleja de Enmedio;Hombre;Africa;84
+089;Moraleja de Enmedio;Hombre;America del Central y del Caribe;6
+089;Moraleja de Enmedio;Hombre;America del Norte;3
+089;Moraleja de Enmedio;Hombre;America del Sur;49
+089;Moraleja de Enmedio;Hombre;ApAtridas;0
+089;Moraleja de Enmedio;Hombre;Asia;6
+089;Moraleja de Enmedio;Hombre;Oceania;1
+089;Moraleja de Enmedio;Hombre;Otros paises de America;0
+089;Moraleja de Enmedio;Hombre;Resto de Europa;8
+089;Moraleja de Enmedio;Hombre;Union Europea ;2274
+089;Moraleja de Enmedio;Mujer;Africa;48
+089;Moraleja de Enmedio;Mujer;America del Central y del Caribe;16
+089;Moraleja de Enmedio;Mujer;America del Norte;2
+089;Moraleja de Enmedio;Mujer;America del Sur;56
+089;Moraleja de Enmedio;Mujer;ApAtridas;0
+089;Moraleja de Enmedio;Mujer;Asia;10
+089;Moraleja de Enmedio;Mujer;Oceania;0
+089;Moraleja de Enmedio;Mujer;Otros paises de America;0
+089;Moraleja de Enmedio;Mujer;Resto de Europa;4
+089;Moraleja de Enmedio;Mujer;Union Europea ;2302
+090;Moralzarzal;Hombre;Africa;202
+090;Moralzarzal;Hombre;America del Central y del Caribe;22
+090;Moralzarzal;Hombre;America del Norte;18
+090;Moralzarzal;Hombre;America del Sur;157
+090;Moralzarzal;Hombre;ApAtridas;0
+090;Moralzarzal;Hombre;Asia;29
+090;Moralzarzal;Hombre;Oceania;1
+090;Moralzarzal;Hombre;Otros paises de America;0
+090;Moralzarzal;Hombre;Resto de Europa;32
+090;Moralzarzal;Hombre;Union Europea ;5781
+090;Moralzarzal;Mujer;Africa;113
+090;Moralzarzal;Mujer;America del Central y del Caribe;41
+090;Moralzarzal;Mujer;America del Norte;13
+090;Moralzarzal;Mujer;America del Sur;233
+090;Moralzarzal;Mujer;ApAtridas;0
+090;Moralzarzal;Mujer;Asia;39
+090;Moralzarzal;Mujer;Oceania;3
+090;Moralzarzal;Mujer;Otros paises de America;0
+090;Moralzarzal;Mujer;Resto de Europa;48
+090;Moralzarzal;Mujer;Union Europea ;5764
+091;Morata de Tajuña;Hombre;Africa;74
+091;Morata de Tajuña;Hombre;America del Central y del Caribe;12
+091;Morata de Tajuña;Hombre;America del Norte;1
+091;Morata de Tajuña;Hombre;America del Sur;138
+091;Morata de Tajuña;Hombre;ApAtridas;0
+091;Morata de Tajuña;Hombre;Asia;18
+091;Morata de Tajuña;Hombre;Oceania;1
+091;Morata de Tajuña;Hombre;Otros paises de America;0
+091;Morata de Tajuña;Hombre;Resto de Europa;19
+091;Morata de Tajuña;Hombre;Union Europea ;3487
+091;Morata de Tajuña;Mujer;Africa;77
+091;Morata de Tajuña;Mujer;America del Central y del Caribe;17
+091;Morata de Tajuña;Mujer;America del Norte;9
+091;Morata de Tajuña;Mujer;America del Sur;170
+091;Morata de Tajuña;Mujer;ApAtridas;0
+091;Morata de Tajuña;Mujer;Asia;12
+091;Morata de Tajuña;Mujer;Oceania;0
+091;Morata de Tajuña;Mujer;Otros paises de America;0
+091;Morata de Tajuña;Mujer;Resto de Europa;24
+091;Morata de Tajuña;Mujer;Union Europea ;3423
+092;Mostoles;Hombre;Africa;3653
+092;Mostoles;Hombre;America del Central y del Caribe;1068
+092;Mostoles;Hombre;America del Norte;119
+092;Mostoles;Hombre;America del Sur;4457
+092;Mostoles;Hombre;ApAtridas;0
+092;Mostoles;Hombre;Asia;822
+092;Mostoles;Hombre;Oceania;24
+092;Mostoles;Hombre;Otros paises de America;0
+092;Mostoles;Hombre;Resto de Europa;1105
+092;Mostoles;Hombre;Union Europea ;89620
+092;Mostoles;Mujer;Africa;2757
+092;Mostoles;Mujer;America del Central y del Caribe;1590
+092;Mostoles;Mujer;America del Norte;130
+092;Mostoles;Mujer;America del Sur;5515
+092;Mostoles;Mujer;ApAtridas;0
+092;Mostoles;Mujer;Asia;786
+092;Mostoles;Mujer;Oceania;24
+092;Mostoles;Mujer;Otros paises de America;0
+092;Mostoles;Mujer;Resto de Europa;1370
+092;Mostoles;Mujer;Union Europea ;93543
+093;Navacerrada;Hombre;Africa;44
+093;Navacerrada;Hombre;America del Central y del Caribe;7
+093;Navacerrada;Hombre;America del Norte;4
+093;Navacerrada;Hombre;America del Sur;45
+093;Navacerrada;Hombre;ApAtridas;0
+093;Navacerrada;Hombre;Asia;5
+093;Navacerrada;Hombre;Oceania;0
+093;Navacerrada;Hombre;Otros paises de America;0
+093;Navacerrada;Hombre;Resto de Europa;21
+093;Navacerrada;Hombre;Union Europea ;1308
+093;Navacerrada;Mujer;Africa;30
+093;Navacerrada;Mujer;America del Central y del Caribe;16
+093;Navacerrada;Mujer;America del Norte;9
+093;Navacerrada;Mujer;America del Sur;52
+093;Navacerrada;Mujer;ApAtridas;0
+093;Navacerrada;Mujer;Asia;12
+093;Navacerrada;Mujer;Oceania;0
+093;Navacerrada;Mujer;Otros paises de America;0
+093;Navacerrada;Mujer;Resto de Europa;24
+093;Navacerrada;Mujer;Union Europea ;1316
+094;Navalafuente;Hombre;Africa;39
+094;Navalafuente;Hombre;America del Central y del Caribe;2
+094;Navalafuente;Hombre;America del Norte;2
+094;Navalafuente;Hombre;America del Sur;36
+094;Navalafuente;Hombre;ApAtridas;0
+094;Navalafuente;Hombre;Asia;0
+094;Navalafuente;Hombre;Oceania;0
+094;Navalafuente;Hombre;Otros paises de America;0
+094;Navalafuente;Hombre;Resto de Europa;20
+094;Navalafuente;Hombre;Union Europea ;581
+094;Navalafuente;Mujer;Africa;34
+094;Navalafuente;Mujer;America del Central y del Caribe;4
+094;Navalafuente;Mujer;America del Norte;1
+094;Navalafuente;Mujer;America del Sur;59
+094;Navalafuente;Mujer;ApAtridas;0
+094;Navalafuente;Mujer;Asia;5
+094;Navalafuente;Mujer;Oceania;0
+094;Navalafuente;Mujer;Otros paises de America;0
+094;Navalafuente;Mujer;Resto de Europa;38
+094;Navalafuente;Mujer;Union Europea ;519
+095;Navalagamella;Hombre;Africa;153
+095;Navalagamella;Hombre;America del Central y del Caribe;5
+095;Navalagamella;Hombre;America del Norte;4
+095;Navalagamella;Hombre;America del Sur;57
+095;Navalagamella;Hombre;ApAtridas;0
+095;Navalagamella;Hombre;Asia;3
+095;Navalagamella;Hombre;Oceania;2
+095;Navalagamella;Hombre;Otros paises de America;0
+095;Navalagamella;Hombre;Resto de Europa;8
+095;Navalagamella;Hombre;Union Europea ;1029
+095;Navalagamella;Mujer;Africa;87
+095;Navalagamella;Mujer;America del Central y del Caribe;12
+095;Navalagamella;Mujer;America del Norte;6
+095;Navalagamella;Mujer;America del Sur;79
+095;Navalagamella;Mujer;ApAtridas;0
+095;Navalagamella;Mujer;Asia;4
+095;Navalagamella;Mujer;Oceania;0
+095;Navalagamella;Mujer;Otros paises de America;0
+095;Navalagamella;Mujer;Resto de Europa;7
+095;Navalagamella;Mujer;Union Europea ;987
+096;Navalcarnero;Hombre;Africa;677
+096;Navalcarnero;Hombre;America del Central y del Caribe;81
+096;Navalcarnero;Hombre;America del Norte;18
+096;Navalcarnero;Hombre;America del Sur;580
+096;Navalcarnero;Hombre;ApAtridas;0
+096;Navalcarnero;Hombre;Asia;71
+096;Navalcarnero;Hombre;Oceania;3
+096;Navalcarnero;Hombre;Otros paises de America;0
+096;Navalcarnero;Hombre;Resto de Europa;60
+096;Navalcarnero;Hombre;Union Europea ;12285
+096;Navalcarnero;Mujer;Africa;515
+096;Navalcarnero;Mujer;America del Central y del Caribe;128
+096;Navalcarnero;Mujer;America del Norte;27
+096;Navalcarnero;Mujer;America del Sur;743
+096;Navalcarnero;Mujer;ApAtridas;0
+096;Navalcarnero;Mujer;Asia;61
+096;Navalcarnero;Mujer;Oceania;3
+096;Navalcarnero;Mujer;Otros paises de America;0
+096;Navalcarnero;Mujer;Resto de Europa;84
+096;Navalcarnero;Mujer;Union Europea ;12233
+097;Navarredonda y San Mames;Hombre;Africa;0
+097;Navarredonda y San Mames;Hombre;America del Central y del Caribe;0
+097;Navarredonda y San Mames;Hombre;America del Norte;0
+097;Navarredonda y San Mames;Hombre;America del Sur;2
+097;Navarredonda y San Mames;Hombre;ApAtridas;0
+097;Navarredonda y San Mames;Hombre;Asia;0
+097;Navarredonda y San Mames;Hombre;Oceania;0
+097;Navarredonda y San Mames;Hombre;Otros paises de America;0
+097;Navarredonda y San Mames;Hombre;Resto de Europa;0
+097;Navarredonda y San Mames;Hombre;Union Europea ;82
+097;Navarredonda y San Mames;Mujer;Africa;0
+097;Navarredonda y San Mames;Mujer;America del Central y del Caribe;0
+097;Navarredonda y San Mames;Mujer;America del Norte;0
+097;Navarredonda y San Mames;Mujer;America del Sur;0
+097;Navarredonda y San Mames;Mujer;ApAtridas;0
+097;Navarredonda y San Mames;Mujer;Asia;0
+097;Navarredonda y San Mames;Mujer;Oceania;0
+097;Navarredonda y San Mames;Mujer;Otros paises de America;0
+097;Navarredonda y San Mames;Mujer;Resto de Europa;0
+097;Navarredonda y San Mames;Mujer;Union Europea ;47
+099;Navas del Rey;Hombre;Africa;121
+099;Navas del Rey;Hombre;America del Central y del Caribe;7
+099;Navas del Rey;Hombre;America del Norte;3
+099;Navas del Rey;Hombre;America del Sur;45
+099;Navas del Rey;Hombre;ApAtridas;0
+099;Navas del Rey;Hombre;Asia;4
+099;Navas del Rey;Hombre;Oceania;1
+099;Navas del Rey;Hombre;Otros paises de America;0
+099;Navas del Rey;Hombre;Resto de Europa;5
+099;Navas del Rey;Hombre;Union Europea ;1280
+099;Navas del Rey;Mujer;Africa;102
+099;Navas del Rey;Mujer;America del Central y del Caribe;13
+099;Navas del Rey;Mujer;America del Norte;1
+099;Navas del Rey;Mujer;America del Sur;62
+099;Navas del Rey;Mujer;ApAtridas;0
+099;Navas del Rey;Mujer;Asia;2
+099;Navas del Rey;Mujer;Oceania;0
+099;Navas del Rey;Mujer;Otros paises de America;0
+099;Navas del Rey;Mujer;Resto de Europa;3
+099;Navas del Rey;Mujer;Union Europea ;1102
+100;Nuevo BaztAn;Hombre;Africa;19
+100;Nuevo BaztAn;Hombre;America del Central y del Caribe;25
+100;Nuevo BaztAn;Hombre;America del Norte;15
+100;Nuevo BaztAn;Hombre;America del Sur;127
+100;Nuevo BaztAn;Hombre;ApAtridas;0
+100;Nuevo BaztAn;Hombre;Asia;30
+100;Nuevo BaztAn;Hombre;Oceania;2
+100;Nuevo BaztAn;Hombre;Otros paises de America;0
+100;Nuevo BaztAn;Hombre;Resto de Europa;11
+100;Nuevo BaztAn;Hombre;Union Europea ;2866
+100;Nuevo BaztAn;Mujer;Africa;13
+100;Nuevo BaztAn;Mujer;America del Central y del Caribe;38
+100;Nuevo BaztAn;Mujer;America del Norte;13
+100;Nuevo BaztAn;Mujer;America del Sur;173
+100;Nuevo BaztAn;Mujer;ApAtridas;0
+100;Nuevo BaztAn;Mujer;Asia;25
+100;Nuevo BaztAn;Mujer;Oceania;2
+100;Nuevo BaztAn;Mujer;Otros paises de America;0
+100;Nuevo BaztAn;Mujer;Resto de Europa;16
+100;Nuevo BaztAn;Mujer;Union Europea ;2716
+101;Olmeda de las Fuentes;Hombre;Africa;2
+101;Olmeda de las Fuentes;Hombre;America del Central y del Caribe;1
+101;Olmeda de las Fuentes;Hombre;America del Norte;2
+101;Olmeda de las Fuentes;Hombre;America del Sur;3
+101;Olmeda de las Fuentes;Hombre;ApAtridas;0
+101;Olmeda de las Fuentes;Hombre;Asia;0
+101;Olmeda de las Fuentes;Hombre;Oceania;0
+101;Olmeda de las Fuentes;Hombre;Otros paises de America;0
+101;Olmeda de las Fuentes;Hombre;Resto de Europa;0
+101;Olmeda de las Fuentes;Hombre;Union Europea ;165
+101;Olmeda de las Fuentes;Mujer;Africa;0
+101;Olmeda de las Fuentes;Mujer;America del Central y del Caribe;1
+101;Olmeda de las Fuentes;Mujer;America del Norte;2
+101;Olmeda de las Fuentes;Mujer;America del Sur;4
+101;Olmeda de las Fuentes;Mujer;ApAtridas;0
+101;Olmeda de las Fuentes;Mujer;Asia;2
+101;Olmeda de las Fuentes;Mujer;Oceania;0
+101;Olmeda de las Fuentes;Mujer;Otros paises de America;0
+101;Olmeda de las Fuentes;Mujer;Resto de Europa;1
+101;Olmeda de las Fuentes;Mujer;Union Europea ;149
+102;Orusco de Tajuña;Hombre;Africa;7
+102;Orusco de Tajuña;Hombre;America del Central y del Caribe;3
+102;Orusco de Tajuña;Hombre;America del Norte;0
+102;Orusco de Tajuña;Hombre;America del Sur;15
+102;Orusco de Tajuña;Hombre;ApAtridas;0
+102;Orusco de Tajuña;Hombre;Asia;1
+102;Orusco de Tajuña;Hombre;Oceania;0
+102;Orusco de Tajuña;Hombre;Otros paises de America;0
+102;Orusco de Tajuña;Hombre;Resto de Europa;1
+102;Orusco de Tajuña;Hombre;Union Europea ;585
+102;Orusco de Tajuña;Mujer;Africa;8
+102;Orusco de Tajuña;Mujer;America del Central y del Caribe;2
+102;Orusco de Tajuña;Mujer;America del Norte;0
+102;Orusco de Tajuña;Mujer;America del Sur;18
+102;Orusco de Tajuña;Mujer;ApAtridas;0
+102;Orusco de Tajuña;Mujer;Asia;0
+102;Orusco de Tajuña;Mujer;Oceania;0
+102;Orusco de Tajuña;Mujer;Otros paises de America;0
+102;Orusco de Tajuña;Mujer;Resto de Europa;4
+102;Orusco de Tajuña;Mujer;Union Europea ;574
+104;Paracuellos de Jarama;Hombre;Africa;163
+104;Paracuellos de Jarama;Hombre;America del Central y del Caribe;83
+104;Paracuellos de Jarama;Hombre;America del Norte;48
+104;Paracuellos de Jarama;Hombre;America del Sur;742
+104;Paracuellos de Jarama;Hombre;ApAtridas;0
+104;Paracuellos de Jarama;Hombre;Asia;68
+104;Paracuellos de Jarama;Hombre;Oceania;3
+104;Paracuellos de Jarama;Hombre;Otros paises de America;0
+104;Paracuellos de Jarama;Hombre;Resto de Europa;60
+104;Paracuellos de Jarama;Hombre;Union Europea ;10953
+104;Paracuellos de Jarama;Mujer;Africa;126
+104;Paracuellos de Jarama;Mujer;America del Central y del Caribe;152
+104;Paracuellos de Jarama;Mujer;America del Norte;61
+104;Paracuellos de Jarama;Mujer;America del Sur;969
+104;Paracuellos de Jarama;Mujer;ApAtridas;0
+104;Paracuellos de Jarama;Mujer;Asia;91
+104;Paracuellos de Jarama;Mujer;Oceania;4
+104;Paracuellos de Jarama;Mujer;Otros paises de America;0
+104;Paracuellos de Jarama;Mujer;Resto de Europa;88
+104;Paracuellos de Jarama;Mujer;Union Europea ;10292
+106;Parla;Hombre;Africa;4381
+106;Parla;Hombre;America del Central y del Caribe;816
+106;Parla;Hombre;America del Norte;36
+106;Parla;Hombre;America del Sur;4576
+106;Parla;Hombre;ApAtridas;0
+106;Parla;Hombre;Asia;1995
+106;Parla;Hombre;Oceania;2
+106;Parla;Hombre;Otros paises de America;0
+106;Parla;Hombre;Resto de Europa;557
+106;Parla;Hombre;Union Europea ;50272
+106;Parla;Mujer;Africa;3477
+106;Parla;Mujer;America del Central y del Caribe;1122
+106;Parla;Mujer;America del Norte;58
+106;Parla;Mujer;America del Sur;5211
+106;Parla;Mujer;ApAtridas;0
+106;Parla;Mujer;Asia;1751
+106;Parla;Mujer;Oceania;7
+106;Parla;Mujer;Otros paises de America;0
+106;Parla;Mujer;Resto de Europa;672
+106;Parla;Mujer;Union Europea ;50965
+107;Patones;Hombre;Africa;1
+107;Patones;Hombre;America del Central y del Caribe;0
+107;Patones;Hombre;America del Norte;0
+107;Patones;Hombre;America del Sur;2
+107;Patones;Hombre;ApAtridas;0
+107;Patones;Hombre;Asia;1
+107;Patones;Hombre;Oceania;0
+107;Patones;Hombre;Otros paises de America;0
+107;Patones;Hombre;Resto de Europa;2
+107;Patones;Hombre;Union Europea ;255
+107;Patones;Mujer;Africa;1
+107;Patones;Mujer;America del Central y del Caribe;5
+107;Patones;Mujer;America del Norte;1
+107;Patones;Mujer;America del Sur;6
+107;Patones;Mujer;ApAtridas;0
+107;Patones;Mujer;Asia;1
+107;Patones;Mujer;Oceania;0
+107;Patones;Mujer;Otros paises de America;0
+107;Patones;Mujer;Resto de Europa;0
+107;Patones;Mujer;Union Europea ;277
+108;Pedrezuela;Hombre;Africa;92
+108;Pedrezuela;Hombre;America del Central y del Caribe;18
+108;Pedrezuela;Hombre;America del Norte;8
+108;Pedrezuela;Hombre;America del Sur;153
+108;Pedrezuela;Hombre;ApAtridas;0
+108;Pedrezuela;Hombre;Asia;13
+108;Pedrezuela;Hombre;Oceania;0
+108;Pedrezuela;Hombre;Otros paises de America;0
+108;Pedrezuela;Hombre;Resto de Europa;23
+108;Pedrezuela;Hombre;Union Europea ;2503
+108;Pedrezuela;Mujer;Africa;82
+108;Pedrezuela;Mujer;America del Central y del Caribe;28
+108;Pedrezuela;Mujer;America del Norte;9
+108;Pedrezuela;Mujer;America del Sur;236
+108;Pedrezuela;Mujer;ApAtridas;0
+108;Pedrezuela;Mujer;Asia;16
+108;Pedrezuela;Mujer;Oceania;2
+108;Pedrezuela;Mujer;Otros paises de America;0
+108;Pedrezuela;Mujer;Resto de Europa;35
+108;Pedrezuela;Mujer;Union Europea ;2394
+109;Pelayos de la Presa;Hombre;Africa;122
+109;Pelayos de la Presa;Hombre;America del Central y del Caribe;11
+109;Pelayos de la Presa;Hombre;America del Norte;3
+109;Pelayos de la Presa;Hombre;America del Sur;88
+109;Pelayos de la Presa;Hombre;ApAtridas;0
+109;Pelayos de la Presa;Hombre;Asia;8
+109;Pelayos de la Presa;Hombre;Oceania;0
+109;Pelayos de la Presa;Hombre;Otros paises de America;0
+109;Pelayos de la Presa;Hombre;Resto de Europa;8
+109;Pelayos de la Presa;Hombre;Union Europea ;1010
+109;Pelayos de la Presa;Mujer;Africa;72
+109;Pelayos de la Presa;Mujer;America del Central y del Caribe;19
+109;Pelayos de la Presa;Mujer;America del Norte;5
+109;Pelayos de la Presa;Mujer;America del Sur;104
+109;Pelayos de la Presa;Mujer;ApAtridas;0
+109;Pelayos de la Presa;Mujer;Asia;7
+109;Pelayos de la Presa;Mujer;Oceania;0
+109;Pelayos de la Presa;Mujer;Otros paises de America;0
+109;Pelayos de la Presa;Mujer;Resto de Europa;11
+109;Pelayos de la Presa;Mujer;Union Europea ;1000
+110;Perales de Tajuña;Hombre;Africa;40
+110;Perales de Tajuña;Hombre;America del Central y del Caribe;6
+110;Perales de Tajuña;Hombre;America del Norte;1
+110;Perales de Tajuña;Hombre;America del Sur;33
+110;Perales de Tajuña;Hombre;ApAtridas;0
+110;Perales de Tajuña;Hombre;Asia;7
+110;Perales de Tajuña;Hombre;Oceania;0
+110;Perales de Tajuña;Hombre;Otros paises de America;0
+110;Perales de Tajuña;Hombre;Resto de Europa;10
+110;Perales de Tajuña;Hombre;Union Europea ;1324
+110;Perales de Tajuña;Mujer;Africa;32
+110;Perales de Tajuña;Mujer;America del Central y del Caribe;7
+110;Perales de Tajuña;Mujer;America del Norte;4
+110;Perales de Tajuña;Mujer;America del Sur;34
+110;Perales de Tajuña;Mujer;ApAtridas;0
+110;Perales de Tajuña;Mujer;Asia;4
+110;Perales de Tajuña;Mujer;Oceania;0
+110;Perales de Tajuña;Mujer;Otros paises de America;0
+110;Perales de Tajuña;Mujer;Resto de Europa;14
+110;Perales de Tajuña;Mujer;Union Europea ;1301
+111;Pezuela de las Torres;Hombre;Africa;1
+111;Pezuela de las Torres;Hombre;America del Central y del Caribe;1
+111;Pezuela de las Torres;Hombre;America del Norte;2
+111;Pezuela de las Torres;Hombre;America del Sur;9
+111;Pezuela de las Torres;Hombre;ApAtridas;0
+111;Pezuela de las Torres;Hombre;Asia;1
+111;Pezuela de las Torres;Hombre;Oceania;0
+111;Pezuela de las Torres;Hombre;Otros paises de America;0
+111;Pezuela de las Torres;Hombre;Resto de Europa;3
+111;Pezuela de las Torres;Hombre;Union Europea ;409
+111;Pezuela de las Torres;Mujer;Africa;1
+111;Pezuela de las Torres;Mujer;America del Central y del Caribe;2
+111;Pezuela de las Torres;Mujer;America del Norte;3
+111;Pezuela de las Torres;Mujer;America del Sur;7
+111;Pezuela de las Torres;Mujer;ApAtridas;0
+111;Pezuela de las Torres;Mujer;Asia;1
+111;Pezuela de las Torres;Mujer;Oceania;0
+111;Pezuela de las Torres;Mujer;Otros paises de America;0
+111;Pezuela de las Torres;Mujer;Resto de Europa;2
+111;Pezuela de las Torres;Mujer;Union Europea ;374
+112;Pinilla del Valle;Hombre;Africa;0
+112;Pinilla del Valle;Hombre;America del Central y del Caribe;0
+112;Pinilla del Valle;Hombre;America del Norte;0
+112;Pinilla del Valle;Hombre;America del Sur;2
+112;Pinilla del Valle;Hombre;ApAtridas;0
+112;Pinilla del Valle;Hombre;Asia;0
+112;Pinilla del Valle;Hombre;Oceania;0
+112;Pinilla del Valle;Hombre;Otros paises de America;0
+112;Pinilla del Valle;Hombre;Resto de Europa;0
+112;Pinilla del Valle;Hombre;Union Europea ;104
+112;Pinilla del Valle;Mujer;Africa;0
+112;Pinilla del Valle;Mujer;America del Central y del Caribe;0
+112;Pinilla del Valle;Mujer;America del Norte;0
+112;Pinilla del Valle;Mujer;America del Sur;2
+112;Pinilla del Valle;Mujer;ApAtridas;0
+112;Pinilla del Valle;Mujer;Asia;0
+112;Pinilla del Valle;Mujer;Oceania;0
+112;Pinilla del Valle;Mujer;Otros paises de America;0
+112;Pinilla del Valle;Mujer;Resto de Europa;1
+112;Pinilla del Valle;Mujer;Union Europea ;76
+113;Pinto;Hombre;Africa;465
+113;Pinto;Hombre;America del Central y del Caribe;171
+113;Pinto;Hombre;America del Norte;18
+113;Pinto;Hombre;America del Sur;1242
+113;Pinto;Hombre;ApAtridas;0
+113;Pinto;Hombre;Asia;318
+113;Pinto;Hombre;Oceania;7
+113;Pinto;Hombre;Otros paises de America;0
+113;Pinto;Hombre;Resto de Europa;133
+113;Pinto;Hombre;Union Europea ;22630
+113;Pinto;Mujer;Africa;350
+113;Pinto;Mujer;America del Central y del Caribe;257
+113;Pinto;Mujer;America del Norte;39
+113;Pinto;Mujer;America del Sur;1581
+113;Pinto;Mujer;ApAtridas;0
+113;Pinto;Mujer;Asia;290
+113;Pinto;Mujer;Oceania;6
+113;Pinto;Mujer;Otros paises de America;0
+113;Pinto;Mujer;Resto de Europa;185
+113;Pinto;Mujer;Union Europea ;22749
+114;Piñuecar-Gandullas;Hombre;Africa;1
+114;Piñuecar-Gandullas;Hombre;America del Central y del Caribe;0
+114;Piñuecar-Gandullas;Hombre;America del Norte;0
+114;Piñuecar-Gandullas;Hombre;America del Sur;2
+114;Piñuecar-Gandullas;Hombre;ApAtridas;0
+114;Piñuecar-Gandullas;Hombre;Asia;1
+114;Piñuecar-Gandullas;Hombre;Oceania;0
+114;Piñuecar-Gandullas;Hombre;Otros paises de America;0
+114;Piñuecar-Gandullas;Hombre;Resto de Europa;0
+114;Piñuecar-Gandullas;Hombre;Union Europea ;91
+114;Piñuecar-Gandullas;Mujer;Africa;4
+114;Piñuecar-Gandullas;Mujer;America del Central y del Caribe;1
+114;Piñuecar-Gandullas;Mujer;America del Norte;0
+114;Piñuecar-Gandullas;Mujer;America del Sur;1
+114;Piñuecar-Gandullas;Mujer;ApAtridas;0
+114;Piñuecar-Gandullas;Mujer;Asia;0
+114;Piñuecar-Gandullas;Mujer;Oceania;0
+114;Piñuecar-Gandullas;Mujer;Otros paises de America;0
+114;Piñuecar-Gandullas;Mujer;Resto de Europa;0
+114;Piñuecar-Gandullas;Mujer;Union Europea ;82
+115;Pozuelo de Alarcon;Hombre;Africa;454
+115;Pozuelo de Alarcon;Hombre;America del Central y del Caribe;425
+115;Pozuelo de Alarcon;Hombre;America del Norte;440
+115;Pozuelo de Alarcon;Hombre;America del Sur;1571
+115;Pozuelo de Alarcon;Hombre;ApAtridas;0
+115;Pozuelo de Alarcon;Hombre;Asia;356
+115;Pozuelo de Alarcon;Hombre;Oceania;18
+115;Pozuelo de Alarcon;Hombre;Otros paises de America;0
+115;Pozuelo de Alarcon;Hombre;Resto de Europa;151
+115;Pozuelo de Alarcon;Hombre;Union Europea ;37661
+115;Pozuelo de Alarcon;Mujer;Africa;469
+115;Pozuelo de Alarcon;Mujer;America del Central y del Caribe;844
+115;Pozuelo de Alarcon;Mujer;America del Norte;481
+115;Pozuelo de Alarcon;Mujer;America del Sur;2423
+115;Pozuelo de Alarcon;Mujer;ApAtridas;0
+115;Pozuelo de Alarcon;Mujer;Asia;591
+115;Pozuelo de Alarcon;Mujer;Oceania;10
+115;Pozuelo de Alarcon;Mujer;Otros paises de America;0
+115;Pozuelo de Alarcon;Mujer;Resto de Europa;282
+115;Pozuelo de Alarcon;Mujer;Union Europea ;39427
+116;Pozuelo del Rey;Hombre;Africa;6
+116;Pozuelo del Rey;Hombre;America del Central y del Caribe;5
+116;Pozuelo del Rey;Hombre;America del Norte;3
+116;Pozuelo del Rey;Hombre;America del Sur;19
+116;Pozuelo del Rey;Hombre;ApAtridas;0
+116;Pozuelo del Rey;Hombre;Asia;0
+116;Pozuelo del Rey;Hombre;Oceania;0
+116;Pozuelo del Rey;Hombre;Otros paises de America;0
+116;Pozuelo del Rey;Hombre;Resto de Europa;0
+116;Pozuelo del Rey;Hombre;Union Europea ;544
+116;Pozuelo del Rey;Mujer;Africa;5
+116;Pozuelo del Rey;Mujer;America del Central y del Caribe;7
+116;Pozuelo del Rey;Mujer;America del Norte;5
+116;Pozuelo del Rey;Mujer;America del Sur;25
+116;Pozuelo del Rey;Mujer;ApAtridas;0
+116;Pozuelo del Rey;Mujer;Asia;0
+116;Pozuelo del Rey;Mujer;Oceania;1
+116;Pozuelo del Rey;Mujer;Otros paises de America;0
+116;Pozuelo del Rey;Mujer;Resto de Europa;1
+116;Pozuelo del Rey;Mujer;Union Europea ;478
+117;PrAdena del Rincon;Hombre;Africa;1
+117;PrAdena del Rincon;Hombre;America del Central y del Caribe;1
+117;PrAdena del Rincon;Hombre;America del Norte;0
+117;PrAdena del Rincon;Hombre;America del Sur;1
+117;PrAdena del Rincon;Hombre;ApAtridas;0
+117;PrAdena del Rincon;Hombre;Asia;0
+117;PrAdena del Rincon;Hombre;Oceania;0
+117;PrAdena del Rincon;Hombre;Otros paises de America;0
+117;PrAdena del Rincon;Hombre;Resto de Europa;0
+117;PrAdena del Rincon;Hombre;Union Europea ;70
+117;PrAdena del Rincon;Mujer;Africa;1
+117;PrAdena del Rincon;Mujer;America del Central y del Caribe;0
+117;PrAdena del Rincon;Mujer;America del Norte;0
+117;PrAdena del Rincon;Mujer;America del Sur;0
+117;PrAdena del Rincon;Mujer;ApAtridas;0
+117;PrAdena del Rincon;Mujer;Asia;0
+117;PrAdena del Rincon;Mujer;Oceania;0
+117;PrAdena del Rincon;Mujer;Otros paises de America;0
+117;PrAdena del Rincon;Mujer;Resto de Europa;0
+117;PrAdena del Rincon;Mujer;Union Europea ;58
+118;Puebla de la Sierra;Hombre;Africa;0
+118;Puebla de la Sierra;Hombre;America del Central y del Caribe;0
+118;Puebla de la Sierra;Hombre;America del Norte;0
+118;Puebla de la Sierra;Hombre;America del Sur;1
+118;Puebla de la Sierra;Hombre;ApAtridas;0
+118;Puebla de la Sierra;Hombre;Asia;0
+118;Puebla de la Sierra;Hombre;Oceania;0
+118;Puebla de la Sierra;Hombre;Otros paises de America;0
+118;Puebla de la Sierra;Hombre;Resto de Europa;0
+118;Puebla de la Sierra;Hombre;Union Europea ;36
+118;Puebla de la Sierra;Mujer;Africa;0
+118;Puebla de la Sierra;Mujer;America del Central y del Caribe;0
+118;Puebla de la Sierra;Mujer;America del Norte;0
+118;Puebla de la Sierra;Mujer;America del Sur;0
+118;Puebla de la Sierra;Mujer;ApAtridas;0
+118;Puebla de la Sierra;Mujer;Asia;0
+118;Puebla de la Sierra;Mujer;Oceania;0
+118;Puebla de la Sierra;Mujer;Otros paises de America;0
+118;Puebla de la Sierra;Mujer;Resto de Europa;0
+118;Puebla de la Sierra;Mujer;Union Europea ;24
+902;Puentes Viejas;Hombre;Africa;3
+902;Puentes Viejas;Hombre;America del Central y del Caribe;1
+902;Puentes Viejas;Hombre;America del Norte;0
+902;Puentes Viejas;Hombre;America del Sur;5
+902;Puentes Viejas;Hombre;ApAtridas;0
+902;Puentes Viejas;Hombre;Asia;1
+902;Puentes Viejas;Hombre;Oceania;0
+902;Puentes Viejas;Hombre;Otros paises de America;0
+902;Puentes Viejas;Hombre;Resto de Europa;0
+902;Puentes Viejas;Hombre;Union Europea ;335
+902;Puentes Viejas;Mujer;Africa;6
+902;Puentes Viejas;Mujer;America del Central y del Caribe;0
+902;Puentes Viejas;Mujer;America del Norte;0
+902;Puentes Viejas;Mujer;America del Sur;8
+902;Puentes Viejas;Mujer;ApAtridas;0
+902;Puentes Viejas;Mujer;Asia;1
+902;Puentes Viejas;Mujer;Oceania;1
+902;Puentes Viejas;Mujer;Otros paises de America;0
+902;Puentes Viejas;Mujer;Resto de Europa;1
+902;Puentes Viejas;Mujer;Union Europea ;270
+119;Quijorna;Hombre;Africa;42
+119;Quijorna;Hombre;America del Central y del Caribe;18
+119;Quijorna;Hombre;America del Norte;4
+119;Quijorna;Hombre;America del Sur;93
+119;Quijorna;Hombre;ApAtridas;0
+119;Quijorna;Hombre;Asia;9
+119;Quijorna;Hombre;Oceania;0
+119;Quijorna;Hombre;Otros paises de America;0
+119;Quijorna;Hombre;Resto de Europa;5
+119;Quijorna;Hombre;Union Europea ;1489
+119;Quijorna;Mujer;Africa;28
+119;Quijorna;Mujer;America del Central y del Caribe;22
+119;Quijorna;Mujer;America del Norte;8
+119;Quijorna;Mujer;America del Sur;125
+119;Quijorna;Mujer;ApAtridas;0
+119;Quijorna;Mujer;Asia;8
+119;Quijorna;Mujer;Oceania;0
+119;Quijorna;Mujer;Otros paises de America;0
+119;Quijorna;Mujer;Resto de Europa;6
+119;Quijorna;Mujer;Union Europea ;1425
+120;Rascafria;Hombre;Africa;12
+120;Rascafria;Hombre;America del Central y del Caribe;7
+120;Rascafria;Hombre;America del Norte;2
+120;Rascafria;Hombre;America del Sur;32
+120;Rascafria;Hombre;ApAtridas;0
+120;Rascafria;Hombre;Asia;4
+120;Rascafria;Hombre;Oceania;0
+120;Rascafria;Hombre;Otros paises de America;0
+120;Rascafria;Hombre;Resto de Europa;1
+120;Rascafria;Hombre;Union Europea ;856
+120;Rascafria;Mujer;Africa;7
+120;Rascafria;Mujer;America del Central y del Caribe;11
+120;Rascafria;Mujer;America del Norte;7
+120;Rascafria;Mujer;America del Sur;24
+120;Rascafria;Mujer;ApAtridas;0
+120;Rascafria;Mujer;Asia;5
+120;Rascafria;Mujer;Oceania;0
+120;Rascafria;Mujer;Otros paises de America;0
+120;Rascafria;Mujer;Resto de Europa;1
+120;Rascafria;Mujer;Union Europea ;703
+121;Redueña;Hombre;Africa;1
+121;Redueña;Hombre;America del Central y del Caribe;0
+121;Redueña;Hombre;America del Norte;1
+121;Redueña;Hombre;America del Sur;1
+121;Redueña;Hombre;ApAtridas;0
+121;Redueña;Hombre;Asia;0
+121;Redueña;Hombre;Oceania;0
+121;Redueña;Hombre;Otros paises de America;0
+121;Redueña;Hombre;Resto de Europa;0
+121;Redueña;Hombre;Union Europea ;132
+121;Redueña;Mujer;Africa;0
+121;Redueña;Mujer;America del Central y del Caribe;0
+121;Redueña;Mujer;America del Norte;0
+121;Redueña;Mujer;America del Sur;0
+121;Redueña;Mujer;ApAtridas;0
+121;Redueña;Mujer;Asia;0
+121;Redueña;Mujer;Oceania;0
+121;Redueña;Mujer;Otros paises de America;0
+121;Redueña;Mujer;Resto de Europa;2
+121;Redueña;Mujer;Union Europea ;111
+122;Ribatejada;Hombre;Africa;9
+122;Ribatejada;Hombre;America del Central y del Caribe;1
+122;Ribatejada;Hombre;America del Norte;0
+122;Ribatejada;Hombre;America del Sur;11
+122;Ribatejada;Hombre;ApAtridas;0
+122;Ribatejada;Hombre;Asia;1
+122;Ribatejada;Hombre;Oceania;1
+122;Ribatejada;Hombre;Otros paises de America;0
+122;Ribatejada;Hombre;Resto de Europa;0
+122;Ribatejada;Hombre;Union Europea ;337
+122;Ribatejada;Mujer;Africa;4
+122;Ribatejada;Mujer;America del Central y del Caribe;4
+122;Ribatejada;Mujer;America del Norte;1
+122;Ribatejada;Mujer;America del Sur;12
+122;Ribatejada;Mujer;ApAtridas;0
+122;Ribatejada;Mujer;Asia;0
+122;Ribatejada;Mujer;Oceania;2
+122;Ribatejada;Mujer;Otros paises de America;0
+122;Ribatejada;Mujer;Resto de Europa;0
+122;Ribatejada;Mujer;Union Europea ;319
+123;Rivas-Vaciamadrid;Hombre;Africa;662
+123;Rivas-Vaciamadrid;Hombre;America del Central y del Caribe;266
+123;Rivas-Vaciamadrid;Hombre;America del Norte;64
+123;Rivas-Vaciamadrid;Hombre;America del Sur;1336
+123;Rivas-Vaciamadrid;Hombre;ApAtridas;0
+123;Rivas-Vaciamadrid;Hombre;Asia;326
+123;Rivas-Vaciamadrid;Hombre;Oceania;10
+123;Rivas-Vaciamadrid;Hombre;Otros paises de America;0
+123;Rivas-Vaciamadrid;Hombre;Resto de Europa;132
+123;Rivas-Vaciamadrid;Hombre;Union Europea ;38828
+123;Rivas-Vaciamadrid;Mujer;Africa;578
+123;Rivas-Vaciamadrid;Mujer;America del Central y del Caribe;372
+123;Rivas-Vaciamadrid;Mujer;America del Norte;105
+123;Rivas-Vaciamadrid;Mujer;America del Sur;1845
+123;Rivas-Vaciamadrid;Mujer;ApAtridas;0
+123;Rivas-Vaciamadrid;Mujer;Asia;386
+123;Rivas-Vaciamadrid;Mujer;Oceania;11
+123;Rivas-Vaciamadrid;Mujer;Otros paises de America;0
+123;Rivas-Vaciamadrid;Mujer;Resto de Europa;203
+123;Rivas-Vaciamadrid;Mujer;Union Europea ;38642
+124;Robledillo de la Jara;Hombre;Africa;1
+124;Robledillo de la Jara;Hombre;America del Central y del Caribe;0
+124;Robledillo de la Jara;Hombre;America del Norte;0
+124;Robledillo de la Jara;Hombre;America del Sur;0
+124;Robledillo de la Jara;Hombre;ApAtridas;0
+124;Robledillo de la Jara;Hombre;Asia;0
+124;Robledillo de la Jara;Hombre;Oceania;0
+124;Robledillo de la Jara;Hombre;Otros paises de America;0
+124;Robledillo de la Jara;Hombre;Resto de Europa;0
+124;Robledillo de la Jara;Hombre;Union Europea ;42
+124;Robledillo de la Jara;Mujer;Africa;1
+124;Robledillo de la Jara;Mujer;America del Central y del Caribe;0
+124;Robledillo de la Jara;Mujer;America del Norte;0
+124;Robledillo de la Jara;Mujer;America del Sur;2
+124;Robledillo de la Jara;Mujer;ApAtridas;0
+124;Robledillo de la Jara;Mujer;Asia;0
+124;Robledillo de la Jara;Mujer;Oceania;0
+124;Robledillo de la Jara;Mujer;Otros paises de America;0
+124;Robledillo de la Jara;Mujer;Resto de Europa;0
+124;Robledillo de la Jara;Mujer;Union Europea ;41
+125;Robledo de Chavela;Hombre;Africa;32
+125;Robledo de Chavela;Hombre;America del Central y del Caribe;7
+125;Robledo de Chavela;Hombre;America del Norte;5
+125;Robledo de Chavela;Hombre;America del Sur;89
+125;Robledo de Chavela;Hombre;ApAtridas;0
+125;Robledo de Chavela;Hombre;Asia;4
+125;Robledo de Chavela;Hombre;Oceania;0
+125;Robledo de Chavela;Hombre;Otros paises de America;0
+125;Robledo de Chavela;Hombre;Resto de Europa;24
+125;Robledo de Chavela;Hombre;Union Europea ;1965
+125;Robledo de Chavela;Mujer;Africa;33
+125;Robledo de Chavela;Mujer;America del Central y del Caribe;11
+125;Robledo de Chavela;Mujer;America del Norte;4
+125;Robledo de Chavela;Mujer;America del Sur;104
+125;Robledo de Chavela;Mujer;ApAtridas;0
+125;Robledo de Chavela;Mujer;Asia;8
+125;Robledo de Chavela;Mujer;Oceania;0
+125;Robledo de Chavela;Mujer;Otros paises de America;0
+125;Robledo de Chavela;Mujer;Resto de Europa;23
+125;Robledo de Chavela;Mujer;Union Europea ;1764
+126;Robregordo;Hombre;Africa;1
+126;Robregordo;Hombre;America del Central y del Caribe;0
+126;Robregordo;Hombre;America del Norte;0
+126;Robregordo;Hombre;America del Sur;0
+126;Robregordo;Hombre;ApAtridas;0
+126;Robregordo;Hombre;Asia;0
+126;Robregordo;Hombre;Oceania;0
+126;Robregordo;Hombre;Otros paises de America;0
+126;Robregordo;Hombre;Resto de Europa;0
+126;Robregordo;Hombre;Union Europea ;26
+126;Robregordo;Mujer;Africa;1
+126;Robregordo;Mujer;America del Central y del Caribe;0
+126;Robregordo;Mujer;America del Norte;0
+126;Robregordo;Mujer;America del Sur;1
+126;Robregordo;Mujer;ApAtridas;0
+126;Robregordo;Mujer;Asia;0
+126;Robregordo;Mujer;Oceania;0
+126;Robregordo;Mujer;Otros paises de America;0
+126;Robregordo;Mujer;Resto de Europa;0
+126;Robregordo;Mujer;Union Europea ;15
+127;Rozas de Madrid (Las);Hombre;Africa;501
+127;Rozas de Madrid (Las);Hombre;America del Central y del Caribe;387
+127;Rozas de Madrid (Las);Hombre;America del Norte;321
+127;Rozas de Madrid (Las);Hombre;America del Sur;2672
+127;Rozas de Madrid (Las);Hombre;ApAtridas;0
+127;Rozas de Madrid (Las);Hombre;Asia;513
+127;Rozas de Madrid (Las);Hombre;Oceania;11
+127;Rozas de Madrid (Las);Hombre;Otros paises de America;0
+127;Rozas de Madrid (Las);Hombre;Resto de Europa;159
+127;Rozas de Madrid (Las);Hombre;Union Europea ;41449
+127;Rozas de Madrid (Las);Mujer;Africa;452
+127;Rozas de Madrid (Las);Mujer;America del Central y del Caribe;693
+127;Rozas de Madrid (Las);Mujer;America del Norte;390
+127;Rozas de Madrid (Las);Mujer;America del Sur;3745
+127;Rozas de Madrid (Las);Mujer;ApAtridas;0
+127;Rozas de Madrid (Las);Mujer;Asia;702
+127;Rozas de Madrid (Las);Mujer;Oceania;12
+127;Rozas de Madrid (Las);Mujer;Otros paises de America;0
+127;Rozas de Madrid (Las);Mujer;Resto de Europa;282
+127;Rozas de Madrid (Las);Mujer;Union Europea ;42780
+128;Rozas de Puerto Real;Hombre;Africa;0
+128;Rozas de Puerto Real;Hombre;America del Central y del Caribe;1
+128;Rozas de Puerto Real;Hombre;America del Norte;0
+128;Rozas de Puerto Real;Hombre;America del Sur;8
+128;Rozas de Puerto Real;Hombre;ApAtridas;0
+128;Rozas de Puerto Real;Hombre;Asia;0
+128;Rozas de Puerto Real;Hombre;Oceania;0
+128;Rozas de Puerto Real;Hombre;Otros paises de America;0
+128;Rozas de Puerto Real;Hombre;Resto de Europa;0
+128;Rozas de Puerto Real;Hombre;Union Europea ;301
+128;Rozas de Puerto Real;Mujer;Africa;1
+128;Rozas de Puerto Real;Mujer;America del Central y del Caribe;2
+128;Rozas de Puerto Real;Mujer;America del Norte;0
+128;Rozas de Puerto Real;Mujer;America del Sur;5
+128;Rozas de Puerto Real;Mujer;ApAtridas;0
+128;Rozas de Puerto Real;Mujer;Asia;0
+128;Rozas de Puerto Real;Mujer;Oceania;0
+128;Rozas de Puerto Real;Mujer;Otros paises de America;0
+128;Rozas de Puerto Real;Mujer;Resto de Europa;0
+128;Rozas de Puerto Real;Mujer;Union Europea ;216
+129;San Agustin del Guadalix;Hombre;Africa;71
+129;San Agustin del Guadalix;Hombre;America del Central y del Caribe;183
+129;San Agustin del Guadalix;Hombre;America del Norte;38
+129;San Agustin del Guadalix;Hombre;America del Sur;305
+129;San Agustin del Guadalix;Hombre;ApAtridas;0
+129;San Agustin del Guadalix;Hombre;Asia;37
+129;San Agustin del Guadalix;Hombre;Oceania;2
+129;San Agustin del Guadalix;Hombre;Otros paises de America;0
+129;San Agustin del Guadalix;Hombre;Resto de Europa;46
+129;San Agustin del Guadalix;Hombre;Union Europea ;5748
+129;San Agustin del Guadalix;Mujer;Africa;71
+129;San Agustin del Guadalix;Mujer;America del Central y del Caribe;286
+129;San Agustin del Guadalix;Mujer;America del Norte;40
+129;San Agustin del Guadalix;Mujer;America del Sur;397
+129;San Agustin del Guadalix;Mujer;ApAtridas;0
+129;San Agustin del Guadalix;Mujer;Asia;51
+129;San Agustin del Guadalix;Mujer;Oceania;2
+129;San Agustin del Guadalix;Mujer;Otros paises de America;0
+129;San Agustin del Guadalix;Mujer;Resto de Europa;53
+129;San Agustin del Guadalix;Mujer;Union Europea ;5773
+130;San Fernando de Henares;Hombre;Africa;130
+130;San Fernando de Henares;Hombre;America del Central y del Caribe;85
+130;San Fernando de Henares;Hombre;America del Norte;16
+130;San Fernando de Henares;Hombre;America del Sur;403
+130;San Fernando de Henares;Hombre;ApAtridas;0
+130;San Fernando de Henares;Hombre;Asia;136
+130;San Fernando de Henares;Hombre;Oceania;3
+130;San Fernando de Henares;Hombre;Otros paises de America;0
+130;San Fernando de Henares;Hombre;Resto de Europa;67
+130;San Fernando de Henares;Hombre;Union Europea ;18517
+130;San Fernando de Henares;Mujer;Africa;131
+130;San Fernando de Henares;Mujer;America del Central y del Caribe;134
+130;San Fernando de Henares;Mujer;America del Norte;29
+130;San Fernando de Henares;Mujer;America del Sur;527
+130;San Fernando de Henares;Mujer;ApAtridas;0
+130;San Fernando de Henares;Mujer;Asia;110
+130;San Fernando de Henares;Mujer;Oceania;5
+130;San Fernando de Henares;Mujer;Otros paises de America;0
+130;San Fernando de Henares;Mujer;Resto de Europa;98
+130;San Fernando de Henares;Mujer;Union Europea ;19288
+131;San Lorenzo de El Escorial;Hombre;Africa;227
+131;San Lorenzo de El Escorial;Hombre;America del Central y del Caribe;191
+131;San Lorenzo de El Escorial;Hombre;America del Norte;41
+131;San Lorenzo de El Escorial;Hombre;America del Sur;404
+131;San Lorenzo de El Escorial;Hombre;ApAtridas;0
+131;San Lorenzo de El Escorial;Hombre;Asia;44
+131;San Lorenzo de El Escorial;Hombre;Oceania;3
+131;San Lorenzo de El Escorial;Hombre;Otros paises de America;0
+131;San Lorenzo de El Escorial;Hombre;Resto de Europa;77
+131;San Lorenzo de El Escorial;Hombre;Union Europea ;7650
+131;San Lorenzo de El Escorial;Mujer;Africa;162
+131;San Lorenzo de El Escorial;Mujer;America del Central y del Caribe;205
+131;San Lorenzo de El Escorial;Mujer;America del Norte;73
+131;San Lorenzo de El Escorial;Mujer;America del Sur;524
+131;San Lorenzo de El Escorial;Mujer;ApAtridas;0
+131;San Lorenzo de El Escorial;Mujer;Asia;75
+131;San Lorenzo de El Escorial;Mujer;Oceania;3
+131;San Lorenzo de El Escorial;Mujer;Otros paises de America;0
+131;San Lorenzo de El Escorial;Mujer;Resto de Europa;111
+131;San Lorenzo de El Escorial;Mujer;Union Europea ;8233
+132;San Martin de la Vega;Hombre;Africa;530
+132;San Martin de la Vega;Hombre;America del Central y del Caribe;72
+132;San Martin de la Vega;Hombre;America del Norte;14
+132;San Martin de la Vega;Hombre;America del Sur;423
+132;San Martin de la Vega;Hombre;ApAtridas;0
+132;San Martin de la Vega;Hombre;Asia;49
+132;San Martin de la Vega;Hombre;Oceania;5
+132;San Martin de la Vega;Hombre;Otros paises de America;0
+132;San Martin de la Vega;Hombre;Resto de Europa;34
+132;San Martin de la Vega;Hombre;Union Europea ;8473
+132;San Martin de la Vega;Mujer;Africa;342
+132;San Martin de la Vega;Mujer;America del Central y del Caribe;107
+132;San Martin de la Vega;Mujer;America del Norte;20
+132;San Martin de la Vega;Mujer;America del Sur;487
+132;San Martin de la Vega;Mujer;ApAtridas;0
+132;San Martin de la Vega;Mujer;Asia;44
+132;San Martin de la Vega;Mujer;Oceania;2
+132;San Martin de la Vega;Mujer;Otros paises de America;1
+132;San Martin de la Vega;Mujer;Resto de Europa;45
+132;San Martin de la Vega;Mujer;Union Europea ;8175
+133;San Martin de Valdeiglesias;Hombre;Africa;241
+133;San Martin de Valdeiglesias;Hombre;America del Central y del Caribe;9
+133;San Martin de Valdeiglesias;Hombre;America del Norte;4
+133;San Martin de Valdeiglesias;Hombre;America del Sur;185
+133;San Martin de Valdeiglesias;Hombre;ApAtridas;0
+133;San Martin de Valdeiglesias;Hombre;Asia;24
+133;San Martin de Valdeiglesias;Hombre;Oceania;3
+133;San Martin de Valdeiglesias;Hombre;Otros paises de America;0
+133;San Martin de Valdeiglesias;Hombre;Resto de Europa;11
+133;San Martin de Valdeiglesias;Hombre;Union Europea ;3680
+133;San Martin de Valdeiglesias;Mujer;Africa;209
+133;San Martin de Valdeiglesias;Mujer;America del Central y del Caribe;21
+133;San Martin de Valdeiglesias;Mujer;America del Norte;9
+133;San Martin de Valdeiglesias;Mujer;America del Sur;216
+133;San Martin de Valdeiglesias;Mujer;ApAtridas;0
+133;San Martin de Valdeiglesias;Mujer;Asia;21
+133;San Martin de Valdeiglesias;Mujer;Oceania;0
+133;San Martin de Valdeiglesias;Mujer;Otros paises de America;0
+133;San Martin de Valdeiglesias;Mujer;Resto de Europa;16
+133;San Martin de Valdeiglesias;Mujer;Union Europea ;3649
+134;San SebastiAn de los Reyes;Hombre;Africa;564
+134;San SebastiAn de los Reyes;Hombre;America del Central y del Caribe;560
+134;San SebastiAn de los Reyes;Hombre;America del Norte;178
+134;San SebastiAn de los Reyes;Hombre;America del Sur;2888
+134;San SebastiAn de los Reyes;Hombre;ApAtridas;0
+134;San SebastiAn de los Reyes;Hombre;Asia;552
+134;San SebastiAn de los Reyes;Hombre;Oceania;5
+134;San SebastiAn de los Reyes;Hombre;Otros paises de America;0
+134;San SebastiAn de los Reyes;Hombre;Resto de Europa;161
+134;San SebastiAn de los Reyes;Hombre;Union Europea ;37510
+134;San SebastiAn de los Reyes;Mujer;Africa;446
+134;San SebastiAn de los Reyes;Mujer;America del Central y del Caribe;944
+134;San SebastiAn de los Reyes;Mujer;America del Norte;195
+134;San SebastiAn de los Reyes;Mujer;America del Sur;3780
+134;San SebastiAn de los Reyes;Mujer;ApAtridas;0
+134;San SebastiAn de los Reyes;Mujer;Asia;494
+134;San SebastiAn de los Reyes;Mujer;Oceania;13
+134;San SebastiAn de los Reyes;Mujer;Otros paises de America;0
+134;San SebastiAn de los Reyes;Mujer;Resto de Europa;231
+134;San SebastiAn de los Reyes;Mujer;Union Europea ;38182
+135;Santa Maria de la Alameda;Hombre;Africa;24
+135;Santa Maria de la Alameda;Hombre;America del Central y del Caribe;0
+135;Santa Maria de la Alameda;Hombre;America del Norte;0
+135;Santa Maria de la Alameda;Hombre;America del Sur;12
+135;Santa Maria de la Alameda;Hombre;ApAtridas;0
+135;Santa Maria de la Alameda;Hombre;Asia;0
+135;Santa Maria de la Alameda;Hombre;Oceania;0
+135;Santa Maria de la Alameda;Hombre;Otros paises de America;0
+135;Santa Maria de la Alameda;Hombre;Resto de Europa;2
+135;Santa Maria de la Alameda;Hombre;Union Europea ;578
+135;Santa Maria de la Alameda;Mujer;Africa;19
+135;Santa Maria de la Alameda;Mujer;America del Central y del Caribe;4
+135;Santa Maria de la Alameda;Mujer;America del Norte;1
+135;Santa Maria de la Alameda;Mujer;America del Sur;15
+135;Santa Maria de la Alameda;Mujer;ApAtridas;0
+135;Santa Maria de la Alameda;Mujer;Asia;1
+135;Santa Maria de la Alameda;Mujer;Oceania;0
+135;Santa Maria de la Alameda;Mujer;Otros paises de America;0
+135;Santa Maria de la Alameda;Mujer;Resto de Europa;2
+135;Santa Maria de la Alameda;Mujer;Union Europea ;505
+136;Santorcaz;Hombre;Africa;0
+136;Santorcaz;Hombre;America del Central y del Caribe;1
+136;Santorcaz;Hombre;America del Norte;0
+136;Santorcaz;Hombre;America del Sur;12
+136;Santorcaz;Hombre;ApAtridas;0
+136;Santorcaz;Hombre;Asia;2
+136;Santorcaz;Hombre;Oceania;0
+136;Santorcaz;Hombre;Otros paises de America;0
+136;Santorcaz;Hombre;Resto de Europa;0
+136;Santorcaz;Hombre;Union Europea ;422
+136;Santorcaz;Mujer;Africa;0
+136;Santorcaz;Mujer;America del Central y del Caribe;3
+136;Santorcaz;Mujer;America del Norte;1
+136;Santorcaz;Mujer;America del Sur;11
+136;Santorcaz;Mujer;ApAtridas;0
+136;Santorcaz;Mujer;Asia;3
+136;Santorcaz;Mujer;Oceania;0
+136;Santorcaz;Mujer;Otros paises de America;0
+136;Santorcaz;Mujer;Resto de Europa;1
+136;Santorcaz;Mujer;Union Europea ;400
+137;Santos de la Humosa (Los);Hombre;Africa;28
+137;Santos de la Humosa (Los);Hombre;America del Central y del Caribe;8
+137;Santos de la Humosa (Los);Hombre;America del Norte;2
+137;Santos de la Humosa (Los);Hombre;America del Sur;38
+137;Santos de la Humosa (Los);Hombre;ApAtridas;0
+137;Santos de la Humosa (Los);Hombre;Asia;4
+137;Santos de la Humosa (Los);Hombre;Oceania;1
+137;Santos de la Humosa (Los);Hombre;Otros paises de America;0
+137;Santos de la Humosa (Los);Hombre;Resto de Europa;5
+137;Santos de la Humosa (Los);Hombre;Union Europea ;1184
+137;Santos de la Humosa (Los);Mujer;Africa;21
+137;Santos de la Humosa (Los);Mujer;America del Central y del Caribe;13
+137;Santos de la Humosa (Los);Mujer;America del Norte;4
+137;Santos de la Humosa (Los);Mujer;America del Sur;54
+137;Santos de la Humosa (Los);Mujer;ApAtridas;0
+137;Santos de la Humosa (Los);Mujer;Asia;8
+137;Santos de la Humosa (Los);Mujer;Oceania;0
+137;Santos de la Humosa (Los);Mujer;Otros paises de America;0
+137;Santos de la Humosa (Los);Mujer;Resto de Europa;5
+137;Santos de la Humosa (Los);Mujer;Union Europea ;1110
+138;Serna del Monte (La);Hombre;Africa;3
+138;Serna del Monte (La);Hombre;America del Central y del Caribe;0
+138;Serna del Monte (La);Hombre;America del Norte;0
+138;Serna del Monte (La);Hombre;America del Sur;0
+138;Serna del Monte (La);Hombre;ApAtridas;0
+138;Serna del Monte (La);Hombre;Asia;0
+138;Serna del Monte (La);Hombre;Oceania;0
+138;Serna del Monte (La);Hombre;Otros paises de America;0
+138;Serna del Monte (La);Hombre;Resto de Europa;0
+138;Serna del Monte (La);Hombre;Union Europea ;37
+138;Serna del Monte (La);Mujer;Africa;2
+138;Serna del Monte (La);Mujer;America del Central y del Caribe;0
+138;Serna del Monte (La);Mujer;America del Norte;0
+138;Serna del Monte (La);Mujer;America del Sur;0
+138;Serna del Monte (La);Mujer;ApAtridas;0
+138;Serna del Monte (La);Mujer;Asia;0
+138;Serna del Monte (La);Mujer;Oceania;0
+138;Serna del Monte (La);Mujer;Otros paises de America;0
+138;Serna del Monte (La);Mujer;Resto de Europa;0
+138;Serna del Monte (La);Mujer;Union Europea ;31
+140;Serranillos del Valle;Hombre;Africa;18
+140;Serranillos del Valle;Hombre;America del Central y del Caribe;12
+140;Serranillos del Valle;Hombre;America del Norte;4
+140;Serranillos del Valle;Hombre;America del Sur;30
+140;Serranillos del Valle;Hombre;ApAtridas;0
+140;Serranillos del Valle;Hombre;Asia;10
+140;Serranillos del Valle;Hombre;Oceania;0
+140;Serranillos del Valle;Hombre;Otros paises de America;0
+140;Serranillos del Valle;Hombre;Resto de Europa;9
+140;Serranillos del Valle;Hombre;Union Europea ;1883
+140;Serranillos del Valle;Mujer;Africa;18
+140;Serranillos del Valle;Mujer;America del Central y del Caribe;12
+140;Serranillos del Valle;Mujer;America del Norte;0
+140;Serranillos del Valle;Mujer;America del Sur;32
+140;Serranillos del Valle;Mujer;ApAtridas;0
+140;Serranillos del Valle;Mujer;Asia;14
+140;Serranillos del Valle;Mujer;Oceania;0
+140;Serranillos del Valle;Mujer;Otros paises de America;0
+140;Serranillos del Valle;Mujer;Resto de Europa;8
+140;Serranillos del Valle;Mujer;Union Europea ;1917
+141;Sevilla la Nueva;Hombre;Africa;142
+141;Sevilla la Nueva;Hombre;America del Central y del Caribe;24
+141;Sevilla la Nueva;Hombre;America del Norte;12
+141;Sevilla la Nueva;Hombre;America del Sur;198
+141;Sevilla la Nueva;Hombre;ApAtridas;0
+141;Sevilla la Nueva;Hombre;Asia;18
+141;Sevilla la Nueva;Hombre;Oceania;4
+141;Sevilla la Nueva;Hombre;Otros paises de America;0
+141;Sevilla la Nueva;Hombre;Resto de Europa;20
+141;Sevilla la Nueva;Hombre;Union Europea ;4067
+141;Sevilla la Nueva;Mujer;Africa;106
+141;Sevilla la Nueva;Mujer;America del Central y del Caribe;35
+141;Sevilla la Nueva;Mujer;America del Norte;13
+141;Sevilla la Nueva;Mujer;America del Sur;254
+141;Sevilla la Nueva;Mujer;ApAtridas;0
+141;Sevilla la Nueva;Mujer;Asia;20
+141;Sevilla la Nueva;Mujer;Oceania;2
+141;Sevilla la Nueva;Mujer;Otros paises de America;0
+141;Sevilla la Nueva;Mujer;Resto de Europa;25
+141;Sevilla la Nueva;Mujer;Union Europea ;4153
+143;Somosierra;Hombre;Africa;0
+143;Somosierra;Hombre;America del Central y del Caribe;0
+143;Somosierra;Hombre;America del Norte;0
+143;Somosierra;Hombre;America del Sur;1
+143;Somosierra;Hombre;ApAtridas;0
+143;Somosierra;Hombre;Asia;0
+143;Somosierra;Hombre;Oceania;0
+143;Somosierra;Hombre;Otros paises de America;0
+143;Somosierra;Hombre;Resto de Europa;0
+143;Somosierra;Hombre;Union Europea ;43
+143;Somosierra;Mujer;Africa;0
+143;Somosierra;Mujer;America del Central y del Caribe;0
+143;Somosierra;Mujer;America del Norte;0
+143;Somosierra;Mujer;America del Sur;0
+143;Somosierra;Mujer;ApAtridas;0
+143;Somosierra;Mujer;Asia;1
+143;Somosierra;Mujer;Oceania;0
+143;Somosierra;Mujer;Otros paises de America;0
+143;Somosierra;Mujer;Resto de Europa;0
+143;Somosierra;Mujer;Union Europea ;32
+144;Soto del Real;Hombre;Africa;73
+144;Soto del Real;Hombre;America del Central y del Caribe;16
+144;Soto del Real;Hombre;America del Norte;16
+144;Soto del Real;Hombre;America del Sur;184
+144;Soto del Real;Hombre;ApAtridas;0
+144;Soto del Real;Hombre;Asia;19
+144;Soto del Real;Hombre;Oceania;1
+144;Soto del Real;Hombre;Otros paises de America;0
+144;Soto del Real;Hombre;Resto de Europa;14
+144;Soto del Real;Hombre;Union Europea ;3900
+144;Soto del Real;Mujer;Africa;67
+144;Soto del Real;Mujer;America del Central y del Caribe;35
+144;Soto del Real;Mujer;America del Norte;28
+144;Soto del Real;Mujer;America del Sur;211
+144;Soto del Real;Mujer;ApAtridas;0
+144;Soto del Real;Mujer;Asia;34
+144;Soto del Real;Mujer;Oceania;4
+144;Soto del Real;Mujer;Otros paises de America;0
+144;Soto del Real;Mujer;Resto de Europa;28
+144;Soto del Real;Mujer;Union Europea ;3977
+145;Talamanca de Jarama;Hombre;Africa;51
+145;Talamanca de Jarama;Hombre;America del Central y del Caribe;12
+145;Talamanca de Jarama;Hombre;America del Norte;5
+145;Talamanca de Jarama;Hombre;America del Sur;89
+145;Talamanca de Jarama;Hombre;ApAtridas;0
+145;Talamanca de Jarama;Hombre;Asia;11
+145;Talamanca de Jarama;Hombre;Oceania;0
+145;Talamanca de Jarama;Hombre;Otros paises de America;0
+145;Talamanca de Jarama;Hombre;Resto de Europa;8
+145;Talamanca de Jarama;Hombre;Union Europea ;1593
+145;Talamanca de Jarama;Mujer;Africa;40
+145;Talamanca de Jarama;Mujer;America del Central y del Caribe;16
+145;Talamanca de Jarama;Mujer;America del Norte;3
+145;Talamanca de Jarama;Mujer;America del Sur;114
+145;Talamanca de Jarama;Mujer;ApAtridas;0
+145;Talamanca de Jarama;Mujer;Asia;12
+145;Talamanca de Jarama;Mujer;Oceania;0
+145;Talamanca de Jarama;Mujer;Otros paises de America;0
+145;Talamanca de Jarama;Mujer;Resto de Europa;14
+145;Talamanca de Jarama;Mujer;Union Europea ;1605
+146;Tielmes;Hombre;Africa;21
+146;Tielmes;Hombre;America del Central y del Caribe;1
+146;Tielmes;Hombre;America del Norte;1
+146;Tielmes;Hombre;America del Sur;43
+146;Tielmes;Hombre;ApAtridas;0
+146;Tielmes;Hombre;Asia;5
+146;Tielmes;Hombre;Oceania;0
+146;Tielmes;Hombre;Otros paises de America;0
+146;Tielmes;Hombre;Resto de Europa;0
+146;Tielmes;Hombre;Union Europea ;1259
+146;Tielmes;Mujer;Africa;13
+146;Tielmes;Mujer;America del Central y del Caribe;14
+146;Tielmes;Mujer;America del Norte;0
+146;Tielmes;Mujer;America del Sur;61
+146;Tielmes;Mujer;ApAtridas;0
+146;Tielmes;Mujer;Asia;2
+146;Tielmes;Mujer;Oceania;0
+146;Tielmes;Mujer;Otros paises de America;0
+146;Tielmes;Mujer;Resto de Europa;5
+146;Tielmes;Mujer;Union Europea ;1185
+147;Titulcia;Hombre;Africa;5
+147;Titulcia;Hombre;America del Central y del Caribe;5
+147;Titulcia;Hombre;America del Norte;0
+147;Titulcia;Hombre;America del Sur;11
+147;Titulcia;Hombre;ApAtridas;0
+147;Titulcia;Hombre;Asia;2
+147;Titulcia;Hombre;Oceania;0
+147;Titulcia;Hombre;Otros paises de America;0
+147;Titulcia;Hombre;Resto de Europa;3
+147;Titulcia;Hombre;Union Europea ;625
+147;Titulcia;Mujer;Africa;6
+147;Titulcia;Mujer;America del Central y del Caribe;4
+147;Titulcia;Mujer;America del Norte;0
+147;Titulcia;Mujer;America del Sur;17
+147;Titulcia;Mujer;ApAtridas;0
+147;Titulcia;Mujer;Asia;1
+147;Titulcia;Mujer;Oceania;0
+147;Titulcia;Mujer;Otros paises de America;0
+147;Titulcia;Mujer;Resto de Europa;2
+147;Titulcia;Mujer;Union Europea ;593
+148;Torrejon de Ardoz;Hombre;Africa;2485
+148;Torrejon de Ardoz;Hombre;America del Central y del Caribe;851
+148;Torrejon de Ardoz;Hombre;America del Norte;117
+148;Torrejon de Ardoz;Hombre;America del Sur;3462
+148;Torrejon de Ardoz;Hombre;ApAtridas;0
+148;Torrejon de Ardoz;Hombre;Asia;496
+148;Torrejon de Ardoz;Hombre;Oceania;11
+148;Torrejon de Ardoz;Hombre;Otros paises de America;0
+148;Torrejon de Ardoz;Hombre;Resto de Europa;324
+148;Torrejon de Ardoz;Hombre;Union Europea ;55367
+148;Torrejon de Ardoz;Mujer;Africa;1822
+148;Torrejon de Ardoz;Mujer;America del Central y del Caribe;1132
+148;Torrejon de Ardoz;Mujer;America del Norte;119
+148;Torrejon de Ardoz;Mujer;America del Sur;4319
+148;Torrejon de Ardoz;Mujer;ApAtridas;0
+148;Torrejon de Ardoz;Mujer;Asia;489
+148;Torrejon de Ardoz;Mujer;Oceania;19
+148;Torrejon de Ardoz;Mujer;Otros paises de America;0
+148;Torrejon de Ardoz;Mujer;Resto de Europa;400
+148;Torrejon de Ardoz;Mujer;Union Europea ;56596
+149;Torrejon de la Calzada;Hombre;Africa;78
+149;Torrejon de la Calzada;Hombre;America del Central y del Caribe;22
+149;Torrejon de la Calzada;Hombre;America del Norte;2
+149;Torrejon de la Calzada;Hombre;America del Sur;108
+149;Torrejon de la Calzada;Hombre;ApAtridas;0
+149;Torrejon de la Calzada;Hombre;Asia;116
+149;Torrejon de la Calzada;Hombre;Oceania;0
+149;Torrejon de la Calzada;Hombre;Otros paises de America;0
+149;Torrejon de la Calzada;Hombre;Resto de Europa;16
+149;Torrejon de la Calzada;Hombre;Union Europea ;3810
+149;Torrejon de la Calzada;Mujer;Africa;62
+149;Torrejon de la Calzada;Mujer;America del Central y del Caribe;49
+149;Torrejon de la Calzada;Mujer;America del Norte;5
+149;Torrejon de la Calzada;Mujer;America del Sur;147
+149;Torrejon de la Calzada;Mujer;ApAtridas;0
+149;Torrejon de la Calzada;Mujer;Asia;114
+149;Torrejon de la Calzada;Mujer;Oceania;1
+149;Torrejon de la Calzada;Mujer;Otros paises de America;0
+149;Torrejon de la Calzada;Mujer;Resto de Europa;23
+149;Torrejon de la Calzada;Mujer;Union Europea ;3865
+150;Torrejon de Velasco;Hombre;Africa;22
+150;Torrejon de Velasco;Hombre;America del Central y del Caribe;5
+150;Torrejon de Velasco;Hombre;America del Norte;0
+150;Torrejon de Velasco;Hombre;America del Sur;47
+150;Torrejon de Velasco;Hombre;ApAtridas;0
+150;Torrejon de Velasco;Hombre;Asia;1
+150;Torrejon de Velasco;Hombre;Oceania;0
+150;Torrejon de Velasco;Hombre;Otros paises de America;0
+150;Torrejon de Velasco;Hombre;Resto de Europa;1
+150;Torrejon de Velasco;Hombre;Union Europea ;2061
+150;Torrejon de Velasco;Mujer;Africa;21
+150;Torrejon de Velasco;Mujer;America del Central y del Caribe;15
+150;Torrejon de Velasco;Mujer;America del Norte;1
+150;Torrejon de Velasco;Mujer;America del Sur;72
+150;Torrejon de Velasco;Mujer;ApAtridas;0
+150;Torrejon de Velasco;Mujer;Asia;7
+150;Torrejon de Velasco;Mujer;Oceania;0
+150;Torrejon de Velasco;Mujer;Otros paises de America;0
+150;Torrejon de Velasco;Mujer;Resto de Europa;1
+150;Torrejon de Velasco;Mujer;Union Europea ;2007
+151;Torrelaguna;Hombre;Africa;81
+151;Torrelaguna;Hombre;America del Central y del Caribe;8
+151;Torrelaguna;Hombre;America del Norte;2
+151;Torrelaguna;Hombre;America del Sur;98
+151;Torrelaguna;Hombre;ApAtridas;0
+151;Torrelaguna;Hombre;Asia;8
+151;Torrelaguna;Hombre;Oceania;0
+151;Torrelaguna;Hombre;Otros paises de America;0
+151;Torrelaguna;Hombre;Resto de Europa;12
+151;Torrelaguna;Hombre;Union Europea ;2172
+151;Torrelaguna;Mujer;Africa;64
+151;Torrelaguna;Mujer;America del Central y del Caribe;14
+151;Torrelaguna;Mujer;America del Norte;4
+151;Torrelaguna;Mujer;America del Sur;126
+151;Torrelaguna;Mujer;ApAtridas;0
+151;Torrelaguna;Mujer;Asia;7
+151;Torrelaguna;Mujer;Oceania;0
+151;Torrelaguna;Mujer;Otros paises de America;0
+151;Torrelaguna;Mujer;Resto de Europa;12
+151;Torrelaguna;Mujer;Union Europea ;2104
+152;Torrelodones;Hombre;Africa;109
+152;Torrelodones;Hombre;America del Central y del Caribe;47
+152;Torrelodones;Hombre;America del Norte;102
+152;Torrelodones;Hombre;America del Sur;446
+152;Torrelodones;Hombre;ApAtridas;0
+152;Torrelodones;Hombre;Asia;66
+152;Torrelodones;Hombre;Oceania;7
+152;Torrelodones;Hombre;Otros paises de America;0
+152;Torrelodones;Hombre;Resto de Europa;51
+152;Torrelodones;Hombre;Union Europea ;10294
+152;Torrelodones;Mujer;Africa;97
+152;Torrelodones;Mujer;America del Central y del Caribe;98
+152;Torrelodones;Mujer;America del Norte;142
+152;Torrelodones;Mujer;America del Sur;629
+152;Torrelodones;Mujer;ApAtridas;0
+152;Torrelodones;Mujer;Asia;114
+152;Torrelodones;Mujer;Oceania;9
+152;Torrelodones;Mujer;Otros paises de America;0
+152;Torrelodones;Mujer;Resto de Europa;59
+152;Torrelodones;Mujer;Union Europea ;10857
+153;Torremocha de Jarama;Hombre;Africa;14
+153;Torremocha de Jarama;Hombre;America del Central y del Caribe;0
+153;Torremocha de Jarama;Hombre;America del Norte;0
+153;Torremocha de Jarama;Hombre;America del Sur;11
+153;Torremocha de Jarama;Hombre;ApAtridas;0
+153;Torremocha de Jarama;Hombre;Asia;4
+153;Torremocha de Jarama;Hombre;Oceania;0
+153;Torremocha de Jarama;Hombre;Otros paises de America;0
+153;Torremocha de Jarama;Hombre;Resto de Europa;0
+153;Torremocha de Jarama;Hombre;Union Europea ;446
+153;Torremocha de Jarama;Mujer;Africa;9
+153;Torremocha de Jarama;Mujer;America del Central y del Caribe;3
+153;Torremocha de Jarama;Mujer;America del Norte;2
+153;Torremocha de Jarama;Mujer;America del Sur;11
+153;Torremocha de Jarama;Mujer;ApAtridas;0
+153;Torremocha de Jarama;Mujer;Asia;2
+153;Torremocha de Jarama;Mujer;Oceania;0
+153;Torremocha de Jarama;Mujer;Otros paises de America;0
+153;Torremocha de Jarama;Mujer;Resto de Europa;0
+153;Torremocha de Jarama;Mujer;Union Europea ;440
+154;Torres de la Alameda;Hombre;Africa;103
+154;Torres de la Alameda;Hombre;America del Central y del Caribe;10
+154;Torres de la Alameda;Hombre;America del Norte;6
+154;Torres de la Alameda;Hombre;America del Sur;89
+154;Torres de la Alameda;Hombre;ApAtridas;0
+154;Torres de la Alameda;Hombre;Asia;12
+154;Torres de la Alameda;Hombre;Oceania;1
+154;Torres de la Alameda;Hombre;Otros paises de America;0
+154;Torres de la Alameda;Hombre;Resto de Europa;12
+154;Torres de la Alameda;Hombre;Union Europea ;3769
+154;Torres de la Alameda;Mujer;Africa;74
+154;Torres de la Alameda;Mujer;America del Central y del Caribe;18
+154;Torres de la Alameda;Mujer;America del Norte;6
+154;Torres de la Alameda;Mujer;America del Sur;115
+154;Torres de la Alameda;Mujer;ApAtridas;0
+154;Torres de la Alameda;Mujer;Asia;13
+154;Torres de la Alameda;Mujer;Oceania;1
+154;Torres de la Alameda;Mujer;Otros paises de America;0
+154;Torres de la Alameda;Mujer;Resto de Europa;9
+154;Torres de la Alameda;Mujer;Union Europea ;3587
+903;Tres Cantos;Hombre;Africa;185
+903;Tres Cantos;Hombre;America del Central y del Caribe;149
+903;Tres Cantos;Hombre;America del Norte;116
+903;Tres Cantos;Hombre;America del Sur;966
+903;Tres Cantos;Hombre;ApAtridas;0
+903;Tres Cantos;Hombre;Asia;140
+903;Tres Cantos;Hombre;Oceania;7
+903;Tres Cantos;Hombre;Otros paises de America;0
+903;Tres Cantos;Hombre;Resto de Europa;116
+903;Tres Cantos;Hombre;Union Europea ;20669
+903;Tres Cantos;Mujer;Africa;160
+903;Tres Cantos;Mujer;America del Central y del Caribe;245
+903;Tres Cantos;Mujer;America del Norte;155
+903;Tres Cantos;Mujer;America del Sur;1374
+903;Tres Cantos;Mujer;ApAtridas;0
+903;Tres Cantos;Mujer;Asia;209
+903;Tres Cantos;Mujer;Oceania;8
+903;Tres Cantos;Mujer;Otros paises de America;0
+903;Tres Cantos;Mujer;Resto de Europa;148
+903;Tres Cantos;Mujer;Union Europea ;21397
+155;Valdaracete;Hombre;Africa;2
+155;Valdaracete;Hombre;America del Central y del Caribe;1
+155;Valdaracete;Hombre;America del Norte;1
+155;Valdaracete;Hombre;America del Sur;2
+155;Valdaracete;Hombre;ApAtridas;0
+155;Valdaracete;Hombre;Asia;0
+155;Valdaracete;Hombre;Oceania;0
+155;Valdaracete;Hombre;Otros paises de America;0
+155;Valdaracete;Hombre;Resto de Europa;0
+155;Valdaracete;Hombre;Union Europea ;329
+155;Valdaracete;Mujer;Africa;2
+155;Valdaracete;Mujer;America del Central y del Caribe;2
+155;Valdaracete;Mujer;America del Norte;0
+155;Valdaracete;Mujer;America del Sur;9
+155;Valdaracete;Mujer;ApAtridas;0
+155;Valdaracete;Mujer;Asia;0
+155;Valdaracete;Mujer;Oceania;0
+155;Valdaracete;Mujer;Otros paises de America;0
+155;Valdaracete;Mujer;Resto de Europa;0
+155;Valdaracete;Mujer;Union Europea ;295
+156;Valdeavero;Hombre;Africa;12
+156;Valdeavero;Hombre;America del Central y del Caribe;3
+156;Valdeavero;Hombre;America del Norte;1
+156;Valdeavero;Hombre;America del Sur;22
+156;Valdeavero;Hombre;ApAtridas;0
+156;Valdeavero;Hombre;Asia;1
+156;Valdeavero;Hombre;Oceania;0
+156;Valdeavero;Hombre;Otros paises de America;0
+156;Valdeavero;Hombre;Resto de Europa;0
+156;Valdeavero;Hombre;Union Europea ;719
+156;Valdeavero;Mujer;Africa;6
+156;Valdeavero;Mujer;America del Central y del Caribe;3
+156;Valdeavero;Mujer;America del Norte;0
+156;Valdeavero;Mujer;America del Sur;24
+156;Valdeavero;Mujer;ApAtridas;0
+156;Valdeavero;Mujer;Asia;2
+156;Valdeavero;Mujer;Oceania;0
+156;Valdeavero;Mujer;Otros paises de America;0
+156;Valdeavero;Mujer;Resto de Europa;2
+156;Valdeavero;Mujer;Union Europea ;655
+157;Valdelaguna;Hombre;Africa;14
+157;Valdelaguna;Hombre;America del Central y del Caribe;3
+157;Valdelaguna;Hombre;America del Norte;0
+157;Valdelaguna;Hombre;America del Sur;9
+157;Valdelaguna;Hombre;ApAtridas;0
+157;Valdelaguna;Hombre;Asia;0
+157;Valdelaguna;Hombre;Oceania;0
+157;Valdelaguna;Hombre;Otros paises de America;0
+157;Valdelaguna;Hombre;Resto de Europa;1
+157;Valdelaguna;Hombre;Union Europea ;411
+157;Valdelaguna;Mujer;Africa;11
+157;Valdelaguna;Mujer;America del Central y del Caribe;1
+157;Valdelaguna;Mujer;America del Norte;0
+157;Valdelaguna;Mujer;America del Sur;10
+157;Valdelaguna;Mujer;ApAtridas;0
+157;Valdelaguna;Mujer;Asia;1
+157;Valdelaguna;Mujer;Oceania;0
+157;Valdelaguna;Mujer;Otros paises de America;0
+157;Valdelaguna;Mujer;Resto de Europa;3
+157;Valdelaguna;Mujer;Union Europea ;403
+158;Valdemanco;Hombre;Africa;11
+158;Valdemanco;Hombre;America del Central y del Caribe;6
+158;Valdemanco;Hombre;America del Norte;1
+158;Valdemanco;Hombre;America del Sur;11
+158;Valdemanco;Hombre;ApAtridas;0
+158;Valdemanco;Hombre;Asia;0
+158;Valdemanco;Hombre;Oceania;0
+158;Valdemanco;Hombre;Otros paises de America;0
+158;Valdemanco;Hombre;Resto de Europa;9
+158;Valdemanco;Hombre;Union Europea ;452
+158;Valdemanco;Mujer;Africa;6
+158;Valdemanco;Mujer;America del Central y del Caribe;5
+158;Valdemanco;Mujer;America del Norte;1
+158;Valdemanco;Mujer;America del Sur;13
+158;Valdemanco;Mujer;ApAtridas;0
+158;Valdemanco;Mujer;Asia;1
+158;Valdemanco;Mujer;Oceania;0
+158;Valdemanco;Mujer;Otros paises de America;0
+158;Valdemanco;Mujer;Resto de Europa;11
+158;Valdemanco;Mujer;Union Europea ;389
+159;Valdemaqueda;Hombre;Africa;31
+159;Valdemaqueda;Hombre;America del Central y del Caribe;1
+159;Valdemaqueda;Hombre;America del Norte;1
+159;Valdemaqueda;Hombre;America del Sur;4
+159;Valdemaqueda;Hombre;ApAtridas;0
+159;Valdemaqueda;Hombre;Asia;1
+159;Valdemaqueda;Hombre;Oceania;0
+159;Valdemaqueda;Hombre;Otros paises de America;0
+159;Valdemaqueda;Hombre;Resto de Europa;1
+159;Valdemaqueda;Hombre;Union Europea ;352
+159;Valdemaqueda;Mujer;Africa;20
+159;Valdemaqueda;Mujer;America del Central y del Caribe;3
+159;Valdemaqueda;Mujer;America del Norte;0
+159;Valdemaqueda;Mujer;America del Sur;5
+159;Valdemaqueda;Mujer;ApAtridas;0
+159;Valdemaqueda;Mujer;Asia;0
+159;Valdemaqueda;Mujer;Oceania;0
+159;Valdemaqueda;Mujer;Otros paises de America;0
+159;Valdemaqueda;Mujer;Resto de Europa;2
+159;Valdemaqueda;Mujer;Union Europea ;347
+160;Valdemorillo;Hombre;Africa;302
+160;Valdemorillo;Hombre;America del Central y del Caribe;41
+160;Valdemorillo;Hombre;America del Norte;21
+160;Valdemorillo;Hombre;America del Sur;287
+160;Valdemorillo;Hombre;ApAtridas;0
+160;Valdemorillo;Hombre;Asia;34
+160;Valdemorillo;Hombre;Oceania;3
+160;Valdemorillo;Hombre;Otros paises de America;0
+160;Valdemorillo;Hombre;Resto de Europa;16
+160;Valdemorillo;Hombre;Union Europea ;5539
+160;Valdemorillo;Mujer;Africa;195
+160;Valdemorillo;Mujer;America del Central y del Caribe;68
+160;Valdemorillo;Mujer;America del Norte;34
+160;Valdemorillo;Mujer;America del Sur;378
+160;Valdemorillo;Mujer;ApAtridas;0
+160;Valdemorillo;Mujer;Asia;32
+160;Valdemorillo;Mujer;Oceania;3
+160;Valdemorillo;Mujer;Otros paises de America;0
+160;Valdemorillo;Mujer;Resto de Europa;50
+160;Valdemorillo;Mujer;Union Europea ;5297
+161;Valdemoro;Hombre;Africa;621
+161;Valdemoro;Hombre;America del Central y del Caribe;300
+161;Valdemoro;Hombre;America del Norte;41
+161;Valdemoro;Hombre;America del Sur;1999
+161;Valdemoro;Hombre;ApAtridas;0
+161;Valdemoro;Hombre;Asia;277
+161;Valdemoro;Hombre;Oceania;6
+161;Valdemoro;Hombre;Otros paises de America;0
+161;Valdemoro;Hombre;Resto de Europa;186
+161;Valdemoro;Hombre;Union Europea ;33263
+161;Valdemoro;Mujer;Africa;488
+161;Valdemoro;Mujer;America del Central y del Caribe;433
+161;Valdemoro;Mujer;America del Norte;58
+161;Valdemoro;Mujer;America del Sur;2569
+161;Valdemoro;Mujer;ApAtridas;0
+161;Valdemoro;Mujer;Asia;254
+161;Valdemoro;Mujer;Oceania;4
+161;Valdemoro;Mujer;Otros paises de America;0
+161;Valdemoro;Mujer;Resto de Europa;278
+161;Valdemoro;Mujer;Union Europea ;33198
+162;Valdeolmos-Alalpardo;Hombre;Africa;35
+162;Valdeolmos-Alalpardo;Hombre;America del Central y del Caribe;18
+162;Valdeolmos-Alalpardo;Hombre;America del Norte;10
+162;Valdeolmos-Alalpardo;Hombre;America del Sur;97
+162;Valdeolmos-Alalpardo;Hombre;ApAtridas;0
+162;Valdeolmos-Alalpardo;Hombre;Asia;9
+162;Valdeolmos-Alalpardo;Hombre;Oceania;0
+162;Valdeolmos-Alalpardo;Hombre;Otros paises de America;0
+162;Valdeolmos-Alalpardo;Hombre;Resto de Europa;9
+162;Valdeolmos-Alalpardo;Hombre;Union Europea ;1809
+162;Valdeolmos-Alalpardo;Mujer;Africa;24
+162;Valdeolmos-Alalpardo;Mujer;America del Central y del Caribe;24
+162;Valdeolmos-Alalpardo;Mujer;America del Norte;10
+162;Valdeolmos-Alalpardo;Mujer;America del Sur;113
+162;Valdeolmos-Alalpardo;Mujer;ApAtridas;0
+162;Valdeolmos-Alalpardo;Mujer;Asia;9
+162;Valdeolmos-Alalpardo;Mujer;Oceania;0
+162;Valdeolmos-Alalpardo;Mujer;Otros paises de America;0
+162;Valdeolmos-Alalpardo;Mujer;Resto de Europa;10
+162;Valdeolmos-Alalpardo;Mujer;Union Europea ;1728
+163;Valdepielagos;Hombre;Africa;5
+163;Valdepielagos;Hombre;America del Central y del Caribe;0
+163;Valdepielagos;Hombre;America del Norte;2
+163;Valdepielagos;Hombre;America del Sur;16
+163;Valdepielagos;Hombre;ApAtridas;0
+163;Valdepielagos;Hombre;Asia;0
+163;Valdepielagos;Hombre;Oceania;0
+163;Valdepielagos;Hombre;Otros paises de America;0
+163;Valdepielagos;Hombre;Resto de Europa;3
+163;Valdepielagos;Hombre;Union Europea ;289
+163;Valdepielagos;Mujer;Africa;5
+163;Valdepielagos;Mujer;America del Central y del Caribe;0
+163;Valdepielagos;Mujer;America del Norte;1
+163;Valdepielagos;Mujer;America del Sur;13
+163;Valdepielagos;Mujer;ApAtridas;0
+163;Valdepielagos;Mujer;Asia;0
+163;Valdepielagos;Mujer;Oceania;0
+163;Valdepielagos;Mujer;Otros paises de America;0
+163;Valdepielagos;Mujer;Resto de Europa;4
+163;Valdepielagos;Mujer;Union Europea ;249
+164;Valdetorres de Jarama;Hombre;Africa;71
+164;Valdetorres de Jarama;Hombre;America del Central y del Caribe;4
+164;Valdetorres de Jarama;Hombre;America del Norte;4
+164;Valdetorres de Jarama;Hombre;America del Sur;73
+164;Valdetorres de Jarama;Hombre;ApAtridas;0
+164;Valdetorres de Jarama;Hombre;Asia;15
+164;Valdetorres de Jarama;Hombre;Oceania;1
+164;Valdetorres de Jarama;Hombre;Otros paises de America;0
+164;Valdetorres de Jarama;Hombre;Resto de Europa;7
+164;Valdetorres de Jarama;Hombre;Union Europea ;2018
+164;Valdetorres de Jarama;Mujer;Africa;56
+164;Valdetorres de Jarama;Mujer;America del Central y del Caribe;13
+164;Valdetorres de Jarama;Mujer;America del Norte;5
+164;Valdetorres de Jarama;Mujer;America del Sur;127
+164;Valdetorres de Jarama;Mujer;ApAtridas;0
+164;Valdetorres de Jarama;Mujer;Asia;15
+164;Valdetorres de Jarama;Mujer;Oceania;1
+164;Valdetorres de Jarama;Mujer;Otros paises de America;0
+164;Valdetorres de Jarama;Mujer;Resto de Europa;17
+164;Valdetorres de Jarama;Mujer;Union Europea ;1889
+165;Valdilecha;Hombre;Africa;29
+165;Valdilecha;Hombre;America del Central y del Caribe;9
+165;Valdilecha;Hombre;America del Norte;3
+165;Valdilecha;Hombre;America del Sur;61
+165;Valdilecha;Hombre;ApAtridas;0
+165;Valdilecha;Hombre;Asia;10
+165;Valdilecha;Hombre;Oceania;0
+165;Valdilecha;Hombre;Otros paises de America;0
+165;Valdilecha;Hombre;Resto de Europa;8
+165;Valdilecha;Hombre;Union Europea ;1310
+165;Valdilecha;Mujer;Africa;20
+165;Valdilecha;Mujer;America del Central y del Caribe;7
+165;Valdilecha;Mujer;America del Norte;6
+165;Valdilecha;Mujer;America del Sur;53
+165;Valdilecha;Mujer;ApAtridas;0
+165;Valdilecha;Mujer;Asia;5
+165;Valdilecha;Mujer;Oceania;0
+165;Valdilecha;Mujer;Otros paises de America;0
+165;Valdilecha;Mujer;Resto de Europa;13
+165;Valdilecha;Mujer;Union Europea ;1221
+166;Valverde de AlcalA;Hombre;Africa;7
+166;Valverde de AlcalA;Hombre;America del Central y del Caribe;0
+166;Valverde de AlcalA;Hombre;America del Norte;0
+166;Valverde de AlcalA;Hombre;America del Sur;5
+166;Valverde de AlcalA;Hombre;ApAtridas;0
+166;Valverde de AlcalA;Hombre;Asia;0
+166;Valverde de AlcalA;Hombre;Oceania;0
+166;Valverde de AlcalA;Hombre;Otros paises de America;0
+166;Valverde de AlcalA;Hombre;Resto de Europa;1
+166;Valverde de AlcalA;Hombre;Union Europea ;212
+166;Valverde de AlcalA;Mujer;Africa;7
+166;Valverde de AlcalA;Mujer;America del Central y del Caribe;0
+166;Valverde de AlcalA;Mujer;America del Norte;3
+166;Valverde de AlcalA;Mujer;America del Sur;7
+166;Valverde de AlcalA;Mujer;ApAtridas;0
+166;Valverde de AlcalA;Mujer;Asia;0
+166;Valverde de AlcalA;Mujer;Oceania;0
+166;Valverde de AlcalA;Mujer;Otros paises de America;0
+166;Valverde de AlcalA;Mujer;Resto de Europa;3
+166;Valverde de AlcalA;Mujer;Union Europea ;182
+167;Velilla de San Antonio;Hombre;Africa;51
+167;Velilla de San Antonio;Hombre;America del Central y del Caribe;22
+167;Velilla de San Antonio;Hombre;America del Norte;5
+167;Velilla de San Antonio;Hombre;America del Sur;120
+167;Velilla de San Antonio;Hombre;ApAtridas;0
+167;Velilla de San Antonio;Hombre;Asia;21
+167;Velilla de San Antonio;Hombre;Oceania;0
+167;Velilla de San Antonio;Hombre;Otros paises de America;0
+167;Velilla de San Antonio;Hombre;Resto de Europa;46
+167;Velilla de San Antonio;Hombre;Union Europea ;5835
+167;Velilla de San Antonio;Mujer;Africa;39
+167;Velilla de San Antonio;Mujer;America del Central y del Caribe;31
+167;Velilla de San Antonio;Mujer;America del Norte;10
+167;Velilla de San Antonio;Mujer;America del Sur;174
+167;Velilla de San Antonio;Mujer;ApAtridas;0
+167;Velilla de San Antonio;Mujer;Asia;26
+167;Velilla de San Antonio;Mujer;Oceania;4
+167;Velilla de San Antonio;Mujer;Otros paises de America;0
+167;Velilla de San Antonio;Mujer;Resto de Europa;52
+167;Velilla de San Antonio;Mujer;Union Europea ;5675
+168;Vellon (El);Hombre;Africa;77
+168;Vellon (El);Hombre;America del Central y del Caribe;5
+168;Vellon (El);Hombre;America del Norte;1
+168;Vellon (El);Hombre;America del Sur;48
+168;Vellon (El);Hombre;ApAtridas;0
+168;Vellon (El);Hombre;Asia;4
+168;Vellon (El);Hombre;Oceania;0
+168;Vellon (El);Hombre;Otros paises de America;0
+168;Vellon (El);Hombre;Resto de Europa;2
+168;Vellon (El);Hombre;Union Europea ;831
+168;Vellon (El);Mujer;Africa;47
+168;Vellon (El);Mujer;America del Central y del Caribe;9
+168;Vellon (El);Mujer;America del Norte;0
+168;Vellon (El);Mujer;America del Sur;64
+168;Vellon (El);Mujer;ApAtridas;0
+168;Vellon (El);Mujer;Asia;11
+168;Vellon (El);Mujer;Oceania;0
+168;Vellon (El);Mujer;Otros paises de America;0
+168;Vellon (El);Mujer;Resto de Europa;1
+168;Vellon (El);Mujer;Union Europea ;734
+169;Venturada;Hombre;Africa;6
+169;Venturada;Hombre;America del Central y del Caribe;7
+169;Venturada;Hombre;America del Norte;6
+169;Venturada;Hombre;America del Sur;53
+169;Venturada;Hombre;ApAtridas;0
+169;Venturada;Hombre;Asia;4
+169;Venturada;Hombre;Oceania;0
+169;Venturada;Hombre;Otros paises de America;0
+169;Venturada;Hombre;Resto de Europa;4
+169;Venturada;Hombre;Union Europea ;997
+169;Venturada;Mujer;Africa;6
+169;Venturada;Mujer;America del Central y del Caribe;9
+169;Venturada;Mujer;America del Norte;5
+169;Venturada;Mujer;America del Sur;61
+169;Venturada;Mujer;ApAtridas;0
+169;Venturada;Mujer;Asia;10
+169;Venturada;Mujer;Oceania;2
+169;Venturada;Mujer;Otros paises de America;0
+169;Venturada;Mujer;Resto de Europa;9
+169;Venturada;Mujer;Union Europea ;853
+171;Villa del Prado;Hombre;Africa;244
+171;Villa del Prado;Hombre;America del Central y del Caribe;38
+171;Villa del Prado;Hombre;America del Norte;1
+171;Villa del Prado;Hombre;America del Sur;167
+171;Villa del Prado;Hombre;ApAtridas;0
+171;Villa del Prado;Hombre;Asia;9
+171;Villa del Prado;Hombre;Oceania;3
+171;Villa del Prado;Hombre;Otros paises de America;0
+171;Villa del Prado;Hombre;Resto de Europa;5
+171;Villa del Prado;Hombre;Union Europea ;2759
+171;Villa del Prado;Mujer;Africa;173
+171;Villa del Prado;Mujer;America del Central y del Caribe;49
+171;Villa del Prado;Mujer;America del Norte;4
+171;Villa del Prado;Mujer;America del Sur;213
+171;Villa del Prado;Mujer;ApAtridas;0
+171;Villa del Prado;Mujer;Asia;13
+171;Villa del Prado;Mujer;Oceania;3
+171;Villa del Prado;Mujer;Otros paises de America;0
+171;Villa del Prado;Mujer;Resto de Europa;8
+171;Villa del Prado;Mujer;Union Europea ;2646
+170;Villaconejos;Hombre;Africa;38
+170;Villaconejos;Hombre;America del Central y del Caribe;6
+170;Villaconejos;Hombre;America del Norte;0
+170;Villaconejos;Hombre;America del Sur;38
+170;Villaconejos;Hombre;ApAtridas;0
+170;Villaconejos;Hombre;Asia;1
+170;Villaconejos;Hombre;Oceania;0
+170;Villaconejos;Hombre;Otros paises de America;0
+170;Villaconejos;Hombre;Resto de Europa;6
+170;Villaconejos;Hombre;Union Europea ;1611
+170;Villaconejos;Mujer;Africa;32
+170;Villaconejos;Mujer;America del Central y del Caribe;9
+170;Villaconejos;Mujer;America del Norte;0
+170;Villaconejos;Mujer;America del Sur;67
+170;Villaconejos;Mujer;ApAtridas;0
+170;Villaconejos;Mujer;Asia;2
+170;Villaconejos;Mujer;Oceania;0
+170;Villaconejos;Mujer;Otros paises de America;0
+170;Villaconejos;Mujer;Resto de Europa;5
+170;Villaconejos;Mujer;Union Europea ;1535
+172;Villalbilla;Hombre;Africa;29
+172;Villalbilla;Hombre;America del Central y del Caribe;28
+172;Villalbilla;Hombre;America del Norte;38
+172;Villalbilla;Hombre;America del Sur;198
+172;Villalbilla;Hombre;ApAtridas;0
+172;Villalbilla;Hombre;Asia;38
+172;Villalbilla;Hombre;Oceania;1
+172;Villalbilla;Hombre;Otros paises de America;0
+172;Villalbilla;Hombre;Resto de Europa;21
+172;Villalbilla;Hombre;Union Europea ;6238
+172;Villalbilla;Mujer;Africa;26
+172;Villalbilla;Mujer;America del Central y del Caribe;31
+172;Villalbilla;Mujer;America del Norte;42
+172;Villalbilla;Mujer;America del Sur;229
+172;Villalbilla;Mujer;ApAtridas;0
+172;Villalbilla;Mujer;Asia;42
+172;Villalbilla;Mujer;Oceania;3
+172;Villalbilla;Mujer;Otros paises de America;0
+172;Villalbilla;Mujer;Resto de Europa;26
+172;Villalbilla;Mujer;Union Europea ;6048
+173;Villamanrique de Tajo;Hombre;Africa;13
+173;Villamanrique de Tajo;Hombre;America del Central y del Caribe;2
+173;Villamanrique de Tajo;Hombre;America del Norte;0
+173;Villamanrique de Tajo;Hombre;America del Sur;3
+173;Villamanrique de Tajo;Hombre;ApAtridas;0
+173;Villamanrique de Tajo;Hombre;Asia;1
+173;Villamanrique de Tajo;Hombre;Oceania;0
+173;Villamanrique de Tajo;Hombre;Otros paises de America;0
+173;Villamanrique de Tajo;Hombre;Resto de Europa;0
+173;Villamanrique de Tajo;Hombre;Union Europea ;335
+173;Villamanrique de Tajo;Mujer;Africa;15
+173;Villamanrique de Tajo;Mujer;America del Central y del Caribe;2
+173;Villamanrique de Tajo;Mujer;America del Norte;1
+173;Villamanrique de Tajo;Mujer;America del Sur;2
+173;Villamanrique de Tajo;Mujer;ApAtridas;0
+173;Villamanrique de Tajo;Mujer;Asia;0
+173;Villamanrique de Tajo;Mujer;Oceania;0
+173;Villamanrique de Tajo;Mujer;Otros paises de America;0
+173;Villamanrique de Tajo;Mujer;Resto de Europa;0
+173;Villamanrique de Tajo;Mujer;Union Europea ;320
+174;Villamanta;Hombre;Africa;92
+174;Villamanta;Hombre;America del Central y del Caribe;1
+174;Villamanta;Hombre;America del Norte;0
+174;Villamanta;Hombre;America del Sur;20
+174;Villamanta;Hombre;ApAtridas;0
+174;Villamanta;Hombre;Asia;3
+174;Villamanta;Hombre;Oceania;0
+174;Villamanta;Hombre;Otros paises de America;0
+174;Villamanta;Hombre;Resto de Europa;6
+174;Villamanta;Hombre;Union Europea ;1136
+174;Villamanta;Mujer;Africa;66
+174;Villamanta;Mujer;America del Central y del Caribe;10
+174;Villamanta;Mujer;America del Norte;3
+174;Villamanta;Mujer;America del Sur;32
+174;Villamanta;Mujer;ApAtridas;0
+174;Villamanta;Mujer;Asia;2
+174;Villamanta;Mujer;Oceania;0
+174;Villamanta;Mujer;Otros paises de America;0
+174;Villamanta;Mujer;Resto de Europa;6
+174;Villamanta;Mujer;Union Europea ;1114
+175;Villamantilla;Hombre;Africa;36
+175;Villamantilla;Hombre;America del Central y del Caribe;2
+175;Villamantilla;Hombre;America del Norte;2
+175;Villamantilla;Hombre;America del Sur;22
+175;Villamantilla;Hombre;ApAtridas;0
+175;Villamantilla;Hombre;Asia;2
+175;Villamantilla;Hombre;Oceania;0
+175;Villamantilla;Hombre;Otros paises de America;0
+175;Villamantilla;Hombre;Resto de Europa;0
+175;Villamantilla;Hombre;Union Europea ;621
+175;Villamantilla;Mujer;Africa;33
+175;Villamantilla;Mujer;America del Central y del Caribe;5
+175;Villamantilla;Mujer;America del Norte;1
+175;Villamantilla;Mujer;America del Sur;31
+175;Villamantilla;Mujer;ApAtridas;0
+175;Villamantilla;Mujer;Asia;3
+175;Villamantilla;Mujer;Oceania;0
+175;Villamantilla;Mujer;Otros paises de America;0
+175;Villamantilla;Mujer;Resto de Europa;4
+175;Villamantilla;Mujer;Union Europea ;620
+176;Villanueva de la Cañada;Hombre;Africa;206
+176;Villanueva de la Cañada;Hombre;America del Central y del Caribe;110
+176;Villanueva de la Cañada;Hombre;America del Norte;83
+176;Villanueva de la Cañada;Hombre;America del Sur;816
+176;Villanueva de la Cañada;Hombre;ApAtridas;0
+176;Villanueva de la Cañada;Hombre;Asia;98
+176;Villanueva de la Cañada;Hombre;Oceania;2
+176;Villanueva de la Cañada;Hombre;Otros paises de America;0
+176;Villanueva de la Cañada;Hombre;Resto de Europa;64
+176;Villanueva de la Cañada;Hombre;Union Europea ;8534
+176;Villanueva de la Cañada;Mujer;Africa;175
+176;Villanueva de la Cañada;Mujer;America del Central y del Caribe;277
+176;Villanueva de la Cañada;Mujer;America del Norte;102
+176;Villanueva de la Cañada;Mujer;America del Sur;1016
+176;Villanueva de la Cañada;Mujer;ApAtridas;0
+176;Villanueva de la Cañada;Mujer;Asia;95
+176;Villanueva de la Cañada;Mujer;Oceania;1
+176;Villanueva de la Cañada;Mujer;Otros paises de America;0
+176;Villanueva de la Cañada;Mujer;Resto de Europa;100
+176;Villanueva de la Cañada;Mujer;Union Europea ;8641
+178;Villanueva de Perales;Hombre;Africa;20
+178;Villanueva de Perales;Hombre;America del Central y del Caribe;1
+178;Villanueva de Perales;Hombre;America del Norte;0
+178;Villanueva de Perales;Hombre;America del Sur;21
+178;Villanueva de Perales;Hombre;ApAtridas;0
+178;Villanueva de Perales;Hombre;Asia;2
+178;Villanueva de Perales;Hombre;Oceania;0
+178;Villanueva de Perales;Hombre;Otros paises de America;0
+178;Villanueva de Perales;Hombre;Resto de Europa;1
+178;Villanueva de Perales;Hombre;Union Europea ;726
+178;Villanueva de Perales;Mujer;Africa;17
+178;Villanueva de Perales;Mujer;America del Central y del Caribe;4
+178;Villanueva de Perales;Mujer;America del Norte;2
+178;Villanueva de Perales;Mujer;America del Sur;36
+178;Villanueva de Perales;Mujer;ApAtridas;0
+178;Villanueva de Perales;Mujer;Asia;3
+178;Villanueva de Perales;Mujer;Oceania;1
+178;Villanueva de Perales;Mujer;Otros paises de America;0
+178;Villanueva de Perales;Mujer;Resto de Europa;2
+178;Villanueva de Perales;Mujer;Union Europea ;683
+177;Villanueva del Pardillo;Hombre;Africa;204
+177;Villanueva del Pardillo;Hombre;America del Central y del Caribe;63
+177;Villanueva del Pardillo;Hombre;America del Norte;30
+177;Villanueva del Pardillo;Hombre;America del Sur;523
+177;Villanueva del Pardillo;Hombre;ApAtridas;0
+177;Villanueva del Pardillo;Hombre;Asia;40
+177;Villanueva del Pardillo;Hombre;Oceania;3
+177;Villanueva del Pardillo;Hombre;Otros paises de America;0
+177;Villanueva del Pardillo;Hombre;Resto de Europa;21
+177;Villanueva del Pardillo;Hombre;Union Europea ;7412
+177;Villanueva del Pardillo;Mujer;Africa;159
+177;Villanueva del Pardillo;Mujer;America del Central y del Caribe;172
+177;Villanueva del Pardillo;Mujer;America del Norte;51
+177;Villanueva del Pardillo;Mujer;America del Sur;692
+177;Villanueva del Pardillo;Mujer;ApAtridas;0
+177;Villanueva del Pardillo;Mujer;Asia;62
+177;Villanueva del Pardillo;Mujer;Oceania;1
+177;Villanueva del Pardillo;Mujer;Otros paises de America;0
+177;Villanueva del Pardillo;Mujer;Resto de Europa;39
+177;Villanueva del Pardillo;Mujer;Union Europea ;7552
+179;Villar del Olmo;Hombre;Africa;4
+179;Villar del Olmo;Hombre;America del Central y del Caribe;8
+179;Villar del Olmo;Hombre;America del Norte;5
+179;Villar del Olmo;Hombre;America del Sur;27
+179;Villar del Olmo;Hombre;ApAtridas;0
+179;Villar del Olmo;Hombre;Asia;1
+179;Villar del Olmo;Hombre;Oceania;0
+179;Villar del Olmo;Hombre;Otros paises de America;0
+179;Villar del Olmo;Hombre;Resto de Europa;6
+179;Villar del Olmo;Hombre;Union Europea ;967
+179;Villar del Olmo;Mujer;Africa;3
+179;Villar del Olmo;Mujer;America del Central y del Caribe;12
+179;Villar del Olmo;Mujer;America del Norte;5
+179;Villar del Olmo;Mujer;America del Sur;34
+179;Villar del Olmo;Mujer;ApAtridas;0
+179;Villar del Olmo;Mujer;Asia;3
+179;Villar del Olmo;Mujer;Oceania;0
+179;Villar del Olmo;Mujer;Otros paises de America;0
+179;Villar del Olmo;Mujer;Resto de Europa;12
+179;Villar del Olmo;Mujer;Union Europea ;910
+180;Villarejo de Salvanes;Hombre;Africa;33
+180;Villarejo de Salvanes;Hombre;America del Central y del Caribe;12
+180;Villarejo de Salvanes;Hombre;America del Norte;2
+180;Villarejo de Salvanes;Hombre;America del Sur;46
+180;Villarejo de Salvanes;Hombre;ApAtridas;0
+180;Villarejo de Salvanes;Hombre;Asia;8
+180;Villarejo de Salvanes;Hombre;Oceania;0
+180;Villarejo de Salvanes;Hombre;Otros paises de America;0
+180;Villarejo de Salvanes;Hombre;Resto de Europa;6
+180;Villarejo de Salvanes;Hombre;Union Europea ;3536
+180;Villarejo de Salvanes;Mujer;Africa;29
+180;Villarejo de Salvanes;Mujer;America del Central y del Caribe;31
+180;Villarejo de Salvanes;Mujer;America del Norte;3
+180;Villarejo de Salvanes;Mujer;America del Sur;79
+180;Villarejo de Salvanes;Mujer;ApAtridas;0
+180;Villarejo de Salvanes;Mujer;Asia;8
+180;Villarejo de Salvanes;Mujer;Oceania;0
+180;Villarejo de Salvanes;Mujer;Otros paises de America;0
+180;Villarejo de Salvanes;Mujer;Resto de Europa;5
+180;Villarejo de Salvanes;Mujer;Union Europea ;3447
+181;Villaviciosa de Odon;Hombre;Africa;122
+181;Villaviciosa de Odon;Hombre;America del Central y del Caribe;69
+181;Villaviciosa de Odon;Hombre;America del Norte;113
+181;Villaviciosa de Odon;Hombre;America del Sur;500
+181;Villaviciosa de Odon;Hombre;ApAtridas;0
+181;Villaviciosa de Odon;Hombre;Asia;170
+181;Villaviciosa de Odon;Hombre;Oceania;1
+181;Villaviciosa de Odon;Hombre;Otros paises de America;0
+181;Villaviciosa de Odon;Hombre;Resto de Europa;68
+181;Villaviciosa de Odon;Hombre;Union Europea ;12294
+181;Villaviciosa de Odon;Mujer;Africa;122
+181;Villaviciosa de Odon;Mujer;America del Central y del Caribe;123
+181;Villaviciosa de Odon;Mujer;America del Norte;141
+181;Villaviciosa de Odon;Mujer;America del Sur;637
+181;Villaviciosa de Odon;Mujer;ApAtridas;0
+181;Villaviciosa de Odon;Mujer;Asia;199
+181;Villaviciosa de Odon;Mujer;Oceania;9
+181;Villaviciosa de Odon;Mujer;Otros paises de America;0
+181;Villaviciosa de Odon;Mujer;Resto de Europa;109
+181;Villaviciosa de Odon;Mujer;Union Europea ;12827
+182;Villavieja del Lozoya;Hombre;Africa;1
+182;Villavieja del Lozoya;Hombre;America del Central y del Caribe;0
+182;Villavieja del Lozoya;Hombre;America del Norte;0
+182;Villavieja del Lozoya;Hombre;America del Sur;2
+182;Villavieja del Lozoya;Hombre;ApAtridas;0
+182;Villavieja del Lozoya;Hombre;Asia;0
+182;Villavieja del Lozoya;Hombre;Oceania;0
+182;Villavieja del Lozoya;Hombre;Otros paises de America;0
+182;Villavieja del Lozoya;Hombre;Resto de Europa;1
+182;Villavieja del Lozoya;Hombre;Union Europea ;144
+182;Villavieja del Lozoya;Mujer;Africa;0
+182;Villavieja del Lozoya;Mujer;America del Central y del Caribe;1
+182;Villavieja del Lozoya;Mujer;America del Norte;0
+182;Villavieja del Lozoya;Mujer;America del Sur;2
+182;Villavieja del Lozoya;Mujer;ApAtridas;0
+182;Villavieja del Lozoya;Mujer;Asia;0
+182;Villavieja del Lozoya;Mujer;Oceania;0
+182;Villavieja del Lozoya;Mujer;Otros paises de America;0
+182;Villavieja del Lozoya;Mujer;Resto de Europa;0
+182;Villavieja del Lozoya;Mujer;Union Europea ;116
+183;Zarzalejo;Hombre;Africa;102
+183;Zarzalejo;Hombre;America del Central y del Caribe;5
+183;Zarzalejo;Hombre;America del Norte;2
+183;Zarzalejo;Hombre;America del Sur;37
+183;Zarzalejo;Hombre;ApAtridas;0
+183;Zarzalejo;Hombre;Asia;3
+183;Zarzalejo;Hombre;Oceania;0
+183;Zarzalejo;Hombre;Otros paises de America;0
+183;Zarzalejo;Hombre;Resto de Europa;8
+183;Zarzalejo;Hombre;Union Europea ;677
+183;Zarzalejo;Mujer;Africa;59
+183;Zarzalejo;Mujer;America del Central y del Caribe;12
+183;Zarzalejo;Mujer;America del Norte;1
+183;Zarzalejo;Mujer;America del Sur;35
+183;Zarzalejo;Mujer;ApAtridas;0
+183;Zarzalejo;Mujer;Asia;3
+183;Zarzalejo;Mujer;Oceania;0
+183;Zarzalejo;Mujer;Otros paises de America;0
+183;Zarzalejo;Mujer;Resto de Europa;7
+183;Zarzalejo;Mujer;Union Europea ;645
